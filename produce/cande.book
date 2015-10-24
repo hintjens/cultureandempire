@@ -1,0 +1,52 @@
+#   Culture & Empire
+FILENAME=cande
+AUTHOR=Pieter Hintjens
+TITLE=Culture & Empire
+SUBTITLE=Digital Revolution
+TITLENOTE=
+
+#   Page dimensions in cm
+WIDTH=13.97
+HEIGHT=21.59
+TOP=1.4
+BOTTOM=1.4
+INSIDE=2.3
+OUTSIDE=1.4
+
+#   Fonts
+HEADERFONT=EB Garamond
+BODYFONT=EB Garamond
+TEXTHEIGHT=90%
+TEXTSIZE=11pt
+
+#   Copyright page
+EDITION=Edition 1.3: 19 December 2013
+ISBN=ISBN 978-1492999775
+DEDICATION=For Sheila
+COPYRIGHT=Copyright © 2013 Pieter Hintjens
+LICENSE=Free to share and remix under CC-BY-SA-3.0
+TRADEMARKS="Culture & Empire" is a trademark of Pieter Hintjens
+PUBLISHER=Published by iMatix Global Services
+CREDITS1=Edited by Gillian McGarvey and Dr. Helen Hintjens
+CREDITS2=Cover by westinCovers, www.westincovers.com. Fonts: Kontrapunkt (Bo Linnemann, Kontrapunkt A/S), Existence (Yeah Noah), DJ Gross (SDFonts), EB Garamond (Georg Duffner)
+
+#   Build index
+INDEX=../index.txt
+
+#   Body content
+HEADER=Culture & Empire
+FOOTER=Digital Revolution
+BREAKS=chapter
+
+#   Content
+../ch00.txt
+../ch01.txt
+../ch02.txt
+../ch03.txt
+../ch04.txt
+../ch05.txt
+../ch06.txt
+../ch07.txt
+../ch08.txt
+../ch09.txt
+../ch0a.txt

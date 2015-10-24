@@ -1,0 +1,411 @@
+.bookmark freedom
++ Freedom in Chains
+
+> Once upon a time, there was a great Empire that ruled the known world. It owned all the lands, the wealth beneath, and the wealth above. The Empire was run by an old, faceless society of criminals. It ran on cheap oil and cheap blood. It smashed its opponents in the name of Peace. It burned their lands in the name of Reconstruction. It enslaved them in the name of Freedom. It built massive castles of edict and punishment to govern its populations, and it fed them a river of pap to keep them docile. It was powerful, invincible, and paranoid.
+
+> Far away, in a different place, a civilization called Culture had taken seed and was growing. It owned little except a magic spell called Knowledge. The Culture ran on light, and built little bubbles of fire and hope. It seduced its critics by giving them what they wanted, no matter how unusual. And as it pulled in more people, it grew and built more of its bubbles.
+
+> When the Empire first encountered the Culture, it was puzzled. There were no armies to crush, no statesmen to corrupt and recruit, no castles to loot and burn. So it ignored the Culture and its pretty bubbles, hoping it would go away.
+
+> The Culture grew, and grew faster than you could follow. In less than a generation, it had started to build cities, impossibly beautiful spheres of fire and hope, massive, and yet gentler than the breeze. More people quietly left the castles to move to the cities of the Culture, where they too learned to build their own bubbles of flames and joy.
+
+> The Culture seemed harmless. However, the Empire depended on its vassal masses. If the masses left to go to the Culture's cities, the Empire would starve and die. Total War was inevitable. Both the Empire and the Culture knew it, and prepared for it in very different ways.
+
+> The Empire attacked. It tore down the cities closest to it and told the Culture, stop building or we will come back. And for each city it burnt, a hundred others sprang up. Culture shrugged and said, "We enjoy building new cities." So the Empire sent its infiltrators and spies into the cities to try to corrupt them. And the Culture laughed, clapped its hands, and exclaimed, "We do much worse to ourselves every day. Look, we enjoy this game!" And it opened its hands. And there lay some of the Empire's darkest and deepest secrets, for all to see.
+
+> So the Empire, the cold finger of fear touching its heart, smiled its most sincere smile and welcomed the Culture into its lands. And then it began to erect a far wall so wide and so high that it could cover all the cities of the Culture in darkness. If the Culture ran on light, thought the Empire, then it would destroy light.
+
+++ Defining Human Freedom
+
+"Freedom" is a word we use a lot. I've used it two dozen times so far in this book. What does "freedom" actually mean to us humans?
+
+The nineteenth century political philosopher, economist, and politician John Stuart Mill wrote in an unfinished late essay entitled [http://liberologi.wordpress.com/2011/10/01/on-social-freedom-by-john-stuart-mill/ "On Social Freedom"]: "//There is perhaps no question upon which it is possible to theorize to so little effect as upon the nature of human freedom//."
+
+Most dictionaries define freedom by the absence of chains, real or virtual. "The power or right to act, speak, or think as one wants without hindrance or restraint," says Google. Like the dictionary definition, Mill's focus is on the individual and his right to either do something or not do something. This is fair, yet it begs the question of function. Why do we give such importance to these rights? To be brutal about it, what is the reproductive advantage of freedom? A chicken does not need to be free, so why does a person?
+
+A wild animal needs freedom to find food and mate. Humans too need freedom, and we are a social species. Human freedom is, I claim, like human intelligence, more about the group than about the individual. This is a deeper meaning that the dictionary editors and political philosophers seem to have missed. Freedom is critical to digital society. The fight over freedom is not a small thing; it is one of our defining struggles. We have to be precise about //what// we're fighting for.
+
+If you are alone on a planet with no walls or restraints or authority, are you truly free?
+
+Most people will answer, "No, not really." The dictionaries are wrong by omission. Freedom is not so much about the lack of restraint as it is essentially about //other people//. Here is how I define freedom:
+
+> Freedom is being able to do interesting things with other people.
+
+This definition clearly includes the conventional definitions, and it also tells us why losing our freedom has such an impact on us as a social species. Without the freedom to do interesting things with other people, we are reduced to slavery.
+
+++ The Cost of Subjugation
+
+The uprisings in North Africa of 2012 and 2013 were of course about freedom. However, if you saw the TV interviews with ordinary people on the streets of Tunis and Cairo, they were ordinary middle-class people driven to desperation by poverty and lack of opportunity.
+
+We have seen enough impoverished slave societies to accept that empirically, freedom makes us wealthier. Compare North Korea and South Korea, which were split in 1950 like identical twins raised by very different families. Sixty years after starting from the same place, one of these countries is in ruins, while the other is a world success.
+
+Freedom isn't the only differentiator, nonetheless it is the major one. Per capita GDP in South Korea is around $22,000. Accumulated over one lifetime, that values freedom in South Korea at about $1 million per person.
+
+What kind of freedom are we talking about here? Mostly, when discussing freedom and wealth, people cite [https://en.wikipedia.org/wiki/Economic_freedom "economic freedom"] (the right to run a business, for instance, or own private property) as separate from "political freedom" (the right to create political parties, for instance, or stand for office).
+
+The split can lead to strange arguments among those with strong political views. Take Friedrich Hayek, for example, who argued that economic freedom depends mainly on the rule of law and equality before the law. He continued, asserting that any "socialist" policy to reduce the gulf between rich and poor broke the principle of equality, and so would cause ruin.
+
+Except, the opposite seemed to happen. Sweden, with its large public sector (and correspondingly less economic freedom), became much wealthier than the UK, which has a small public sector. Inequality and class divisions have high costs, as the UK car industry proved in the 1970's.
+
+Someone should have stopped Hayek halfway through and told him, "Friedrich, dear chap, don't you realize there is no equality before the law? Rich men were never hanged, or deported to Australia. The law has //always// been a tool for the powerful. It's just that there are different kinds of powerful men. Some benefit from general poverty, and some benefit from general prosperity."
+
+So the question is not: What kinds of policies are the men in charge enacting? It is, rather: What kind of men are in charge, and how did they get there?
+
+I already tried to answer that in [#mad-mobs] when talking about the 4B hypothesis. Ludwig von Mises wrote, "The idea that political freedom can be preserved in the absence of economic freedom, and vice versa, is an illusion. Political freedom is the corollary of economic freedom. It is no accident that the age of capitalism became also the age of government by the people."
+
+Political freedom seems to be a Catch-22. Without it, the bakers can't take power. Yet it's bakers, not bandits, who will create laws for political freedom. The way through the paradox is that some of those in charge are both bandits and bakers, depending on the situation.
+
+All freedoms are different expressions of the same basic ability: to //do interesting things with other people//. There are many types of freedom, some much more basic than political or economic freedom. These freedoms support one another, and like bricks in a pillar, can be removed and softened individually without immediately bringing down the pillar -- yet these removals will weaken the strength of the pillar to support a strong, resistant society.
+
+++ Enemy of the State
+
+The optimist, reading the past, sees our increasing freedom over time and predicts: in the future we will be freer than ever. The pessimist, reading the present, sees increasing clampdowns on freedom, and predicts: in the future we will all be slaves. The realist, reading past and present, observes: we only gain and keep freedom by fighting for it.
+
+To fight for something requires strong fear or anger. Who in the West really believes we're losing freedoms today? We mostly have comfortable lives filled with gadgets, full fridges, and safe beds. Bad things tend to happen elsewhere, to other people. Who may or may not deserve it. We're enormously complacent, if not smug, and anyone who seriously claims the state is working hard to reduce our freedoms tends to be seen as paranoid.
+
+However, while wealth and freedom correlate, full fridges and streaming TV shows do not equal freedom. Bread and circuses is a classic way to appease the people without giving them real freedom. We are so good at self-deceit, rationalization, and maintaining the sense of normalcy no matter how bizarre things get. "So far so good!" and "stop complaining!" fight for first place as the prime motto of the human race. Reality is badly out of focus to most individuals. We are easy to manipulate, and we are surrounded by propaganda.
+
+It seems to me, observing this closely for more than a decade, that our governments are indeed working overtime to remove bricks in the freedom pillar. The process is slow, careful, and international. I think I've got a good explanation as to why they feel they have to do this, as told in my story at the start of the chapter, and I think that by now, the mechanisms are becoming clear to many other people too. A significant part of the process is to convince people that everything is normal. This plays on our desire to be relaxed and calm about things. When a person in authority tells us, "It's all OK," we want to believe them. When he's an out-and-out psychopath, it's even harder to resist that sincere smile and firm handshake.
+
+In 2003, the US invaded Iraq, again, and [https://en.wikipedia.org/wiki/Protests_against_the_Iraq_War between January 3 and April 12], 2003, 36 million people across the globe took part in almost 3,000 anti-war protests. In the US, however, the country actually sending soldiers to kill and be killed, protests were muted and small by comparison. This was, perhaps, at the height of power of the US propaganda machine personified by Fox News. That TV station has gotten quieter since Barack Obama's second term, when it bet so publicly on the wrong psychopath. However, that doesn't mean the propaganda went away. Instead it went underground, spread wider, and infiltrated our new digital media.
+
+I don't know how many government employees and contractors have fake accounts on sites like Reddit so they can try to influence what stories get reported, and how people respond to them. The sock puppets are there, that's a certainty, and it's something I'll return to later in this chapter. For now, let's examine how the classic propaganda media operated. These patterns seem to repeat fairly often, so I expect we'll see them come back in new clothes over and over:
+
+* //Make false analogies//. Free speech is a human right. Companies are legal persons, and have human rights like persons. Supreme Court decision coming soon!
+
+* //Promote a climate of fear//. Terrorists attempt to explode bombs on school bus. Justice Minister announces sweeping powers of detention without trial.
+
+* //Think of the children//. Pedophiles are plotting to rape your children. Home Affairs Minister announces new censorship laws to protect your family from Internet porn.
+
+* //Use circular reasoning//. Unlike those evil terrorists, we're a democracy. Everyone knows democracies are good. Therefore, your government is good. Elections are tomorrow!
+
+* //Appeal to self-interest//. Ecologists want to raise the price of everything, so even if they might be right in theory, the market proves they are wrong.
+
+* //Flatter by comparison//. President-for-life Smith of Eurasia is an evil dictator who eats children's hearts. And now, back to domestic politics.
+
+* //Flood with useless data//. Wife of footballer confesses sex addiction, love affair with lesbian gardener. Now, back to the banking takeovers of this week.
+
+* //Stir fear, uncertainty, and doubt//. Teenager arrested for anti-social on-line comments, facing terrorism charges and life imprisonment. Congress debates new security powers.
+
+* //Debate empty emotional issues//. Should Muslims be allowed to write books about Christ? More coming up on this hot story after the news!
+
+* //Create confusing terminology//. New report calls for harmonized integration of third-pillar powers, citing "inefficiencies" in criminal justice system. Download the full report now (registration required).
+
+Of course, journalists and editors don't need to invent and insert these messages deliberately. They are as just gullible as anyone and can be manipulated in exactly the same ways. It just takes a few clever, well-placed people close to the top of the food chain, crafting wedge issues, talking points, and other propaganda elements. Feed these into the hierarchy, and they spread to the whole system.
+
+As a note, I'm shocked that my "teenager arrested for antisocial on-line comments, facing terrorism charges" line actually came true in 2013, multiple times. I wrote it several years ago as an absurd caricature.
+
+++ Kisses in the Park
+
+> "According to a Sydney Morning Herald article, the Australia government has decided to take the controversial step of having Internet service providers filter web content at the request of parents, in a crackdown on on-line bad language, pornography and child sex predators."--Slashdot front page, 9 August 2007
+
+Having our thoughts held captive under the influence of propaganda only lasts for so long. We eventually clear our minds and realize that things are not quite right. For longer-lasting results, the men in charge have a more solid argument against freedom. I'm not talking about terrorism. I'm talking about simple morality. When people have too much freedom, the argument goes, they do bad things. Therefore, we will make laws For Everyone's Own Good that make those bad things illegal.
+
+Morality and law-making often walk hand-in-hand, and they make an unpleasant couple. Legislators are powerful men (and rarely, women) who have worked for years to acquire that power, no matter what the cost.
+
+Individuals with such power over others tend to see themselves as free of the constraints of normality. This superiority complex is made worse by the psychopathy that many men in power are afflicted with. We regularly discover politicians selling their votes and influence, receiving bribes, colluding with gangsters, seducing young pages, buying and selling drugs. Their reaction is typically one of regret at getting caught, with a promise to do better in future. And the public reaction? "So, what's new?"
+
+Indeed, such behavior is almost the rule, in politics the world over. In some countries, politicians revel in the infamy of their behavior. "The laws do not apply to us," they say, and vote themselves parliamentary immunity and pay increases. A man or woman who is constrained by a strong sense of ethics does not survive the political process. So it's nastily ironic when men and women fight their way to office, over the bodies of their political opponents and the bones of social norms, and then create laws that regulate the ethical personal behavior of others.
+
+In the Middle East, the soldiers and priests still have a firm grip on most countries. Iran, one state on the verge of a middle class revolution after the fall of the Shah, became imprisoned in an iron blanket of moral legislation. In Iran as in Afghanistan, every behavior is either illegal, or obligatory. These are classic cult techniques, as we saw in [#mad-mobs]. Thus, the correct explanation for mad mullahs who string up and stone women and men for the least misdemeanor is not, "Muslims are dangerous." It is, "cults are dangerous." The same can be said of suicide bombers in other contexts.
+
+In the West, we escape the type of virulent moral legislation that infects countries like Iran, Saudi Arabia, or even Dubai. We don't arrest women for walking alone, and we don't usually beat up teenagers who kiss in the park. We don't usually jail or murder women for being raped, yet we do regulate lots of different types of behavior:
+
+* Most countries have draconian anti-drug policies. The usual justification is public health, yet anti-drug legislation does not actually make the public healthier; it tends to raise the profit margins of gangs and criminal elites.
+
+* Suicide and euthanasia are illegal in most countries, even those that employ the death sentence. It seems that only the State or natural causes are allowed to decide when or how we die.
+
+* Homosexuality is no longer illegal in developed countries, yet only a handful give same-sex marriages the same weight as male-female marriages. Many people may have prejudices about "gay marriage." Why should the State express these prejudices through law?
+
+* Forms of pornography and commercial sex, abortion, and various forms of sexual activity between consenting adults are forbidden or heavily regulated in many countries. Why should the State regulate our sexual behavior even in the case of consenting adults?
+
+* Gambling is illegal or heavily regulated in almost all countries. This is usually defended because gambling can be so destructive to families, yet banning or regulating gambling does not stop gamblers, just as the ravages on families of drug addiction are not ended by making drugs illegal.
+
+The claims that such prohibition laws exist to help the people do not really hold water. When politicians pass moral legislation, they do it because they think it will help to keep them in a position of privilege and power for a little while longer. These laws act as political tools with a common purpose to reduce and diminish our social freedoms whilst protecting those in power from responsibility for social problems. They turn us into a potential criminal majority, all possibly guilty, all the time, of various crimes, and all potentially targeted for arrest and sentencing on the grounds of our moral lack.
+
+Once the State claims the right to suppress social freedoms for our own sake, the side effects can be dramatic. We don't have to look at the Persian Gulf states to see examples. In 2013, for instance, Florida abruptly shut down all Internet cafés under legislation to stop on-line gambling. Was the goal to stop people betting, or to experiment with how people would respond to a ban on anonymous Internet access? If it was the latter, we may soon see other states across the US enact similar bans.
+
+The War on Drugs created a boom for the security industry, and provided cover for a huge program of militarizing the police. It gave them the tools for citywide surveillance and rapid armed response. The story that the police exist to protect good people from criminals sounds more and more like a fairy tale.
+
+For a long time, perhaps since the United States was founded, minorities have understood the police's role is to bully the poor on behalf of the wealthy. This view is now mainstream, particularly when [http://www.businessinsider.com/how-scary-drug-raids-became-a-cash-cow-for-americas-police-2013-7 civil seizures of land and property] started to supplement police department budgets. The differences between Kinshasa and downtown Los Angeles are not always as hard and fast as they may appear.
+
+++ The Modern Police State
+
+The program of arming the police went into overdrive after September 11th, when all restraint and budget control was thrown overboard. Men with guns don't care whether they're arresting someone for infringing on a drug law, or for infringing a law on sedition. The creation of a standing force -- armed and trained and in every urban center -- may seem pointless and wasteful, yet if you're a wealthy white male looking with paranoia at the end of your regime, it makes perfect sense.
+
+Late in 2011, there was [https://www.google.com/search?q=ows+crackdown a nationwide crackdown] on the Occupy Wall Street protests that gave us a demonstration of this new power. It's a story that you might expect from China, Egypt, or Russia, and it happened in the "Land of the Free." In the Guardian, a remnant of old media that has made its specialty out of reporting the politically difficult news others won't touch, [http://www.guardian.co.uk/commentisfree/2012/dec/29/fbi-coordinated-crackdown-occupy Naomi Wolf wrote]:
+
+> It was more sophisticated than we had imagined: new documents show that the violent crackdown on Occupy last fall -- so mystifying at the time -- was not just coordinated at the level of the FBI, the Department of Homeland Security, and local police. The crackdown, which involved, as you may recall, violent arrests, group disruption, canister missiles to the skulls of protesters, people held in handcuffs so tight they were injured, people held in bondage till they were forced to wet or soil themselves -- was coordinated with the big banks themselves.
+
+There are so many shocking aspects about this story. Not least of all is why the American media mostly ignored it, and how the few journalists covering the crackdown [http://www.guardian.co.uk/commentisfree/cifamerica/2011/nov/25/shocking-truth-about-crackdown-occupy were removed by force and even beaten up] by the police. Also how the entire US internal security apparatus seems to be at the beck and call of the rich and powerful, in real time. The coordinated attacks on Occupy Wall Street -- including a media blitz that successfully painted them as dirty, disorganized, wastrel hippies with nothing to say -- started even before the protests took shape.
+
+Naomi Wolf's explanation was, "follow the money." Occupy Wall Street was mainly a protest against corruption, and since the US government is filled with corrupt men, it was logical that the response to protesters from the State would be more brutal and broadly coordinated than usual. That seems to make sense. Yet we may also have to wonder how that massive internal security apparatus was so conveniently ready and waiting.
+
+Perhaps the saddest thing about the events around the ending of the Occupy movement in the US was that most of America simply did not care enough to respond. The beatings and arrests of ordinary young people peacefully protesting against political corruption should, in any normal circumstances, provoke outrage. And that outrage should have amplified the protests, and turned them into a much wider set of confrontations in defense of the anti-corruption movement. Instead we were treated to a visual slapstick comedy of cops pepper-spraying dirty hippies on the sidewalk, and the public started to disassociate themselves from the victims.
+
+America has problems, and they are not simply the corruption of the ruling class and the evisceration of the middle class. One of its most profound problems is the lack of old and deep relationships between most people due to a history of immigration, a culture of internal migration, and an old division between rich and poor that creates strong negative emotions on all sides.
+
+The thinness of relationships manifests itself both on the individual micro and the national macro levels as both easy openness to strangers, and distrust of them. Americans seem to show a capacity for sharp and hostile responses to real or imagined threats, a disregard for others' suffering and cost, and an emotional view of the world, driven by lust, fear, hate, jealousy, anger, and self-pity. Working in many countries, often with difficult cultures, I've sometimes thought that cultural differences could be caricatured as personality disorders. The US has quite the collection.
+
+The bright light is -- as it is so often -- the social media-connected youth, who are learning and building a very different culture, one based, for the most part, on equality, tolerance, positivity, and a balanced, less emotionally defensive, and more creative response to threats.
+
+++ The Elementary Freedoms
+
+"Doing interesting things with other people" covers a lot of ground. Let's take it in the order I proposed in my preface to this book. First, we organize socially. Then, we organize economically. Finally, we organize politically. It's not a straight line. Our activities cycle back into each other over and over, little bubbles of fire and hope that cluster together to build whole cities.
+
+We've discussed social, economic, and political freedoms. I'll come to privacy and property, which are often mixed into the concepts of social and economic freedom in [#privacy] and [#property]. While these major freedoms are the ones we see and talk about the most, I think there are four elementary freedoms, on which all other freedoms are built.
+
+These elementary freedoms are:
+
+* //to participate in a society//, including the freedom to leave.
+* //to organize with others// and build relationships with them.
+* //to know what is happening in society// and the wider world.
+* //to share this knowledge with others//, without restriction.
+
+The freedom to participate defines our relationship with society. It lets us choose our authority, and negotiate better rules by the threat of leaving if the rules don't work. Societies need rules, and the rules must be sane. There's no absolute, universal rulebook, so societies must adapt rules that relate to the real or virtual territories they inhabit.
+
+The freedom to organize defines our relationship with other individuals. Relationships can be based on sharing knowledge, work, time, problems, and so on. This freedom must be moderated by ethics, which I see as a balance of power between parties. A relationship is ethical only when established by mutual informed consent.
+
+The freedom to know defines our relationship with wider reality. More accurate knowledge lets us make better decisions. Knowledge of others' secrets can be ethical only when it is mutual. I don't mind people spying on me, in fact I'll defend that freedom, on the sole condition that I can spy equally on them.
+
+And the freedom to share defines how efficiently our collective intelligence works. The greatest threat to the Internet, and the pet hate of most of its users, which moves them to action no matter the cost, is censorship.
+
+You may recognize that these four freedoms as the core of the Social Architecture toolkit, and this is no coincidence. On-line communities have distilled the fermenting old world societies into a purer, more potent, and addictive form. If you look at successful on-line communities like Wikipedia, Twitter, or Facebook, they express precisely these four freedoms. To some, these distilled digital societies may seem artificial and unrealistic -- even antisocial. However, they are actually hyperreal and hypersocial.
+
+Next I'll examine each of the elementary freedoms in detail.
+
++++ Freedom of Participation
+
+After narrowly not escaping military service in Belgium in 1984, I lived for 15 years in the city of Antwerp, and then moved, quite randomly, to Brussels. That turns out to be a very different city and culture, tolerant of diversity and relaxed in its attitudes to the unknown. By contrast, Antwerp epitomizes the small-minded fear and hate of the poor by the wealthy. The city suffered massive flight of the middle classes in the last century to suburban homes and malls, and its downtown resembles urban blight covered with multiple layers of cheap, peeling paint.
+
+Brussels, on the other hand, consists of 90% or more of immigrants, who have filled every corner of the city with life and noise. It's also dirty and poor, yet new activity springs up everywhere. No part of the downtown is safe from the hipster designers and art galleries and little shops, above all, bars and cafés and restaurants of every color and style.
+
+Not only is it a very mixed city, its population fuses together with an in-your-face glee. It's a people that has largely agreed to discard its culture and mixing taboos. Flemish nationalism and Islam still hold strong in some districts, yet they are both losing to the sheer pleasures of multicultural life. In no other city have I seen young North African women wearing full head scarfs, along with tight jeans and high heels, speaking Dutch to each other and French to their parents.
+
+While I like a lot about Brussels, that isn't the point of this book. The point is that I felt free as a young man to move to this city, and to build a life here despite having no job, and knowing no one. The freedom to move to Brussels is one I took utterly for granted. It wasn't always so. Belgium used to be a cluster of city-states in which the right to live within a city wall, to be a free man of the city, and to enjoy the security and prosperity that living in town allowed, was restricted to elites.
+
+The walls around our medieval cities weren't entirely against warring invaders. They were also against peasants in the fields who got tired of spreading pig trots and pulling out cabbages and yearned for a better life in the city. Yet those walls became symbols of the past because we learned that without streams of peasants abandoning their fields and their pigs and cattle, our cities would never prosper or compete.
+
+Immigration looks set to remain one of the great debates of the next hundred years or so, and the outcome will reflect history. Eventually it is likely that we'll all have to be allowed to be free to travel anywhere in our world without interference or pressure. It's true that I was asked for my papers when I moved to Brussels, so I could register my address and pay my taxes. One of the legacies of Napoleonic and Roman law. But there was never a question about my //right// to be there.
+
+The walls didn't all come down in the seventeenth and eighteenth centuries, of course. Some walls remained until the late twentieth century, and many walls remain today. When my wife and I married, she was an immigrant from Congo-Kinshasa and I learned just how difficult it was to cross the wall from Africa to Europe. Dear reader, you are most likely similar to me: white, western, northern, and accustomed to traveling anywhere in the world without much trouble. Perhaps you need a visa or two, though they are not trouble to get. Well, the sheer height and slipperiness of the wall facing the poor, dark, imprisoned south would shock you.
+
+The reason for the walls around our old cities was to protect the privilege of the few against the many. Also, yes, for defense against bandits and raiders and the random foreign army. Yet how much of that history is true, and how much was just repeated as the excuse for taxing the burghers in order to raise the walls?
+
+By the old definition, anyone who really wants power is going to be in trouble when they get it. Rulers in every time and place have started with the best intentions and end up shooting for Dictator for Life. It's just how it goes. However, there are checks and balances: crazy rulers are bad for business, so they tend to come to colorful ends. Still, sometimes you just can't fix a place and the only solution for the smart middle class is to leave for somewhere else.
+
+In the sixteenth century, the Spanish found themselves in Flanders with a wide rebellion -- Spanish classes sucked, presumably -- and tried to fix that by [https://en.wikipedia.org/wiki/Spanish_Fury looting and burning every city] in the region. The Sacking of Antwerp in 1567 was particularly destructive, with over 7,000 citizens of the city killed along with uncounted refugees.
+
+Perhaps this is why Antwerp is still so miserable today. It's a fair excuse. The other cities that were burned by the Spanish -- Aalst, Mechelen, Maastricht -- all have that similar things-were-so-good-in-the-early-sixteenth-century whiff about them. Yet Antwerp used to be the center of the Netherlands in every way: rich, powerful, cultured. What happened? Possibly, as the Spanish worked their way across the landscape over several years, every smart and mobile Dutch speaker moved north, out of the way. It was literally just a matter of hopping into a boat and floating downstream on the Schelde River. You don't even need to row or steer. By the time they came to Antwerp, only the immobile or suicidally stubborn were left.
+
+This mass northwards emigration kick-started the Renaissance in the Netherlands, which for a long time was a beacon of tolerance and enlightenment in Europe. It's also, incidentally, one reason the Flemish still distrust French speakers, who sided with the Spanish. The older the blood, the harder it is to wash it off. I'm half Scottish, and 500 years later, we Gaels //still// don't trust anyone with an English surname. I'm watching you, Mr. Smith!
+
+The freedom to walk away is an ancient one; it's how we humans covered the edible planet. Every time there was a blood conflict in a village or town, one faction picked up its stuff and walked away, cursing and spitting over their shoulders, and secretly happy they didn't have to clean up the mess. I'd guess it took less than a thousand years to tramp around the whole globe like this.
+
+Because people are essentially valuable, when they walk away, you have a problem. If most people living in Antwerp felt like me, and moved to Brussels, it wouldn't make the few remaining in Antwerp immensely wealthy and those in Brussels incredibly poor. Quite the opposite: Brussels would explode with activity and new wealth, while Antwerp would fall into abandon and neglect, just as it did in 1568.
+
+So what we get is grudging competition between authorities to make people happy. The fewer walls, the more competition, and the better the overall results. Even if you assume authorities are innocent yet somewhat incompetent (rather than malicious and utterly evil), people walking in or out is the only way they can measure how well they are doing. How is it then, that in the twenty-first century, we still accept national borders when we've long ago discarded our city walls? What is the cost, and how will this change over the next decades?
+
+The enduring strength of the nation-state is partly the inheritance of history, partly the opportunism of power. Even in places like much of Africa where the boundaries of states make absolutely no logical sense, once a line is drawn and blood is spilled over it, it becomes a fact. Eventually the nation-state will become an anachronism like the city-state. Despite a few holdouts, the world will move slowly to a very different model of organization. I've no idea what that would look like. It will depend so much on things that are invisible today, particularly the deflation of old industrial-age power systems and the creation of new digital ones. The old lines won't be erased in one act, they will fade slowly, and unremarked except by historians, into insignificance.
+
+One of the happy things about the Internet is the freedom to walk away. If our favorite forum suddenly bans picture posts and if we're sufficiently annoyed, we simply walk away and start a new one. When a forum loses its members, it will, like the Spanish Netherlands, sink into irrelevance.
+
+Here are some predictions:
+
+* An increasing global competition for talent. Simply put, as people come on-line, the competition between talented people increases in volume and effect. Today, already, we think nothing of recruiting designers from Malaysia, engineers from South Africa, project managers from Germany, and then bringing them together with a team based in Israel. So for at least a section of global society, business will demand -- and get -- easier migration.
+
+* The need to attract young blood as the population of a country starts to age. It's the elephant in every developed country's living room. As more women go to higher education and full-time careers, they delay their fertility and so there are fewer babies. It's pretty simple math: 2 + 0 = 2. Most societies won't tolerate the Taliban solution: namely, banning education for girls. The other two options are industrial-scale cloning, and allowing more immigrants.
+
+* The dismantling of barriers to immigration and the promotion of pro-immigration policies, starting with an embrace of economic migrants (who presumably represent the most valuable newcomers), and moving to a general "open borders" policy much as the UK did with migrants from Eastern Europe in the years before the last recession.
+
+One country to watch is Australia, which sits on huge natural resources, yet has too few people. Predictably, wealthy Australian society has become hostile to the poor people who attempt to settle there. It's the same story of too many chocolates: guilt and fear. At some point, unless it welcomes newcomers while it can, Australia will find itself barren, the iron and coal gone, and the cities dying.
+
+The UN thinks the world will hit peak population by 2030 or so. Interestingly, this estimate has been dropping, from 2100, 2080, and 2050. It seems to me that this will trail Internet connectivity quite closely. Since that has exploded faster than anyone expected, we may hit peak population even earlier.
+
+At whatever point we do hit peak population, the developed world will already have been experiencing falling birth rates for some time, and will be competing explicitly for immigrants. Initially, the cream of the crop, then later, the bar will fall. Politicians and media are already shaping public opinion to accept more foreign immigrants.
+
+So that's my timetable for the sea change in public perception of immigration and subsequent changes in law to make it much easier for those able to pay the airfare to move to a better country. The key part is that emigrants have a choice, so countries will have to compete. And the main criteria won't be standard of living or climate or dominant religion or cuisine. It will be quality of government. If you were leaving the Spanish Netherlands of 2030, metaphorically speaking, would you go to a country with more or less freedom?
+
++++ Freedom of Organization
+
+> Azmeen said: "Although I'm a Linux person, I must say that yeah, Microsoft does receive a lot of stick from us open source folks. Of course, MS do get a lot of things right at least in the technological and UI aspects." -- Microsoft sock puppet on Slashdot, February 2008
+
+As I explained in [#mad-mobs], human society in all its richness can be seen as a truth-mining machine. There are of course many kinds of truths in addition to the physical facts for which science searches. For example, there are truths about problems, such as: "Congress is going to pass a bill that will allow censorship of any website." There are truths about solutions, such as: "Emailing your congressman won't help; call him or send a paper letter, or better still, try to visit him." And then there are truths about ourselves, such as: "Most people would rather chat about movie stars than engage in politics."
+
+We extract truths by filtering, like whale sharks, interesting nuggets from the sea of information in which we swim. We then share these nuggets, and we debate them. Over time, this produces more accurate truths, which we continue to share by writing them down and providing that to others. We're pretty good at this, and especially at building tools to automate the process for us. We don't, generally, suffer from information overload.
+
+Our social networks are just such tools, despite early notions that they mapped our "relationships." We'll talk to anyone who will listen, and listen to anyone who sounds interesting. When a "relationship" exists simply because someone clicked //Follow// or //Like//, it's really not the same type of "relationship" we were talking about. It's something else.
+
+So it was quite predictable that Facebook and Twitter would become the first platforms for protests and then for outright revolutions. When this first started in the 2009-2010 Iranian elections, it took governments by surprise. Perhaps until then, they'd believed that people were just sharing photos of their kids and pets. More likely, the old men who hold power around the world simply had not started using these tools, and had a slower learning curve than most other people. Barack Obama’s election campaign heightened politicians' awareness worldwide of the potential benefits of using social media, though not everyone caught the bug.
+
+Facebook and Twitter are a little passé today. For one thing, they are vulnerable to censorship and worse. Post a threatening tweet, even jokingly, and you will be arrested, [https://www.google.com/search?q=arrested+for+posting+tweet as many people have learned]. The state security services are rich in everything -- except a sense of humor. Today, the state of the art for on-line organization is Anonymous, with its (still somewhat naive) "You don't know who I am, so you can't arrest me" attitude.
+
+Real communities spread far wider than the websites we visit. It was not a Facebook revolution, it was an Internet revolution. It is becoming clear to all sides that the primary challenge to the naked villainy of traditional politics is this new on-line society and its activist communities being able to arrange for ‘real time’ events through on-line communications; in other words, being able to organize themselves..
+
+The real-world protests we see emerging in cities around the world are not random. In Rio today and tomorrow in Glasgow, these are not chaotic events driven by local crises or city politics. They are the fruits of an unseen global network, like mushrooms emerging through the forest floor. For every individual who went to an Occupy Wall Street event, tens of thousands took part on line, even if their involvement was limited to sharing photos of some event.
+
+So the challenge for the industrial political elite is how to map and understand these networks, and how to control them or break them. Some dream of banning the Internet, yet that would be like switching off the power grid. When the Egyptian regime in fact [http://gizmodo.com/5746121/how-egypt-turned-off-the-internet tried this in 2011], it only intensified protests. It did not stop them.
+
+Nationwide firewalls are another "cut off your nose to spite your face" strategy. Iran is currently trying to force its population to use a completely fenced-off Internet, going as far as mandating a single email address for everyone. Presumably, this is because -- unlike the US government -- they can't spy on Gmail.
+
+China has censored its Internet access for a long time, however that filter is leaky, and has to be. If you actually cut your citizens off from the outside world, they can't do business, and your economy will suffer. This is the North Korea option, which only really works in an already poor country. Any interference in the smooth running of the global Internet would bring the wrath of big money down on the hapless idiot who tried it.
+
+Let's look at some other strategies that [https://en.wikipedia.org/wiki/Internet_censorship_by_country different authorities are using] to weaken or reduce our freedom to organize on line without being too obvious about it:
+
+* //An emerging censorship//, usually on the basis of child pornography, obscenity, terrorism, or copyright and trademark violations. There are different approaches. Among developed countries, Australia and South Korea (to my knowledge) maintain blacklists of websites that Internet users cannot access. These were pushed to "save the children": an easy sell to certain kinds of adults. In both cases, the blacklists grew wider and wider.
+
+* //Manipulation of content//, where "sock puppet" contributors repeat disinformation, down-vote accurate stories, and up-vote their colleagues' lies. This is an old tactic that was first used by businesses like Microsoft who tried very hard to spread their view of reality across popular geek sites like Wikipedia by paying people to blog in their favor.
+
+* //Fear and uncertainty//, where individuals are arrested for specific activities that may be more or less innocent. Laws originally designed to protect children from sexual predators now mark children as "sex offenders" for sending each other nude "selfies."
+
+* //Removal of privacy//, where the State makes it clear that it is listening to our conversations, and takes them very seriously. The arrest of [http://dailycaller.com/2013/07/02/second-teen-spends-months-in-jail-for-video-game-threat/ more than one teenager] for making sarcastic threats inside an on-line video game sends a clear message: we're watching, so behave.
+
+* //Agents provocateurs//, where specific communities or projects are infiltrated by agents who try to push participants towards violent acts or words, so they can be arrested or subverted. This happens in many real-world protests, as police forces have an economic incentive in more, not less, disturbances.
+
+Any experienced activist will assume that most large Internet firms, indeed most large technology firms, are tied into the surveillance networks, and collaborate with the alphabet agencies in varying degrees. That includes phone companies like Verizon, broadband providers like Comcast, major commercial websites like Facebook, Twitter, and Ebay, software firms like Microsoft and Oracle, network equipment providers like Cisco, and so on.
+
+Large Internet firms claim to resist pressure to collaborate with the alphabet agencies. It would, however, be naive to assume that statements such as, "We do not give the National Security Agency access to our servers" are not lies by omission. If an agency has full access to the networks, it doesn't need access to servers. If the NSA isn't listening, perhaps others are.
+
+Power must use a delicate hand when interfering with our ability to organize via the Internet. The Thai military has squadrons of soldiers whose job it is to write flattering comments about the country's monarchy, and down-vote criticism. The Chinese army does the same with political discussion on forums. It's a little comedic because of course no one going to such a forum will be swayed by thousands of obviously insincere comments (or even sincere ones); they go to argue.
+
+I assume that western spies are a little more sophisticated than the Thai military, and aren't simply spamming the Web with comments about how great the US political system is. What the spy state wants is to know everything about everyone, now, and provide this to the security services so that they can suppress or divert political dissent.
+
+To reach this goal of "Total Information Awareness," society must use the Internet more, not less. We have to trust the websites we visit and trust our personal lives to, otherwise it becomes too hard to spy on us. We have to feel safe enough to expose ourselves, otherwise we'll find ways to hide. The cat, hunting a mouse, must wait silently until the mouse feels confident enough to leave its hole. Only then can it pounce. The spy state is the cat and we are, in its eyes, the mice.
+
+If enough people feel annoyed by state surveillance, it's quite plausible that the leading edge of digital society will move to fully private forums running on private darknets. If this were to get any kind of weight and the mass market were to follow, it would present a real problem for the state security services.
+
+Here is how I think this game will play out:
+
+* As whistle blowers leak information about illegal spying by the alphabet agencies, we'll see denials by business and promises by governments to roll back such activities or limit them to extreme cases. Those denials and promises will be empty.
+
+* In order to build more accurate on-line profiles, we'll see "real name" policies by websites and legislation by countries that make it illegal to use aliases in on-line communities or communicate anonymously.
+
+* We'll see various forms of attack on anonymous communities, covering the gamut of negative media reports, planting illicit material, claims of infiltration by security agents, and so on.
+
+* We'll see various attacks on advanced cryptography, possibly through patents, or through laws that mandate the use of algorithms sanctioned by the NSA. If you want to do business with the Federal government, you will use such and such algorithms. This won't stop experts, though it would slow down mass adoption of secure systems.
+
+* If Reddit or 4chan or any other major community starts to organize fully private forums using modern cryptography, they will be sold to better owners who will stop it, citing technical difficulties, child porn, or other reasons.
+
+An escalation of the fight between free political speech and censorship seems inevitable, and I think the outcome will mirror the older fight against file sharing. That is, we'll move away from centralized services accessed over commercial broadband -- both easy targets for the authorities -- and towards distributed services accessed by local networks, wrapped in unbreakable encryption.
+
+Some file sharers used to make the claim that sharing music, TV shows, and movies was a form of political free speech. It seems that this claim wasn't wrong, just premature.
+
++++ Freedom of Knowledge
+
+In 2007, when Congress asked for documents relating to the dismissal of eight US attorneys, it turned out that the Bush administration had been [https://en.wikipedia.org/wiki/Bush_White_House_email_controversy circumventing the Presidential Records Act] by using an external email server (gwb43.com, run by the Republican National Committee) for sensitive emails. Over 80 senior staff used accounts on this server for official business. All the email for more than 50 of these accounts was deleted. The 2009 estimate of lost emails was a staggering 22 million.
+
+In effect, the internal records of two of the most controversial presidencies ever were deleted by the president's own staff. The adage, "If you have nothing to hide, you have nothing to fear" could not be more apt. No prosecutions were ever launched against anyone in the Bush administration for this (or anything else they did during those eight years). Wiping out these records was a major crime against the public interest, yet it was hardly unique. The Bush regime was just unusually innovative and blatant.
+
+The gwb43.com email server was a form of "digital sandbox," a place to conduct business privately and then wipe it all clean, erasing all traces and accountability. Creating digital sandboxes has become very cheap, so their existence is now a fact of life. Digital sandboxes are not actually secure because they are accessed through the normal Internet, which makes them vulnerable to wiretapping. Most likely, because crooks rarely trust each other, those 22 million emails sit somewhere on a USB stick or tape waiting to be leaked.
+
+To create a truly private sandbox, you need a totally separate network with no Internet connections at all. We call this a "darknet" (dark network). Darknets are used by people who //really// cannot afford for their communications to be tracked. Military-grade darknets have existed for decades. These networks are entirely separate. The computers in them do not have USB drives, and you cannot install software on them. They are completely secure. We can logically assume that governments are moving to military-grade dark networks for business that they want to keep out of the history books.
+
+In November 2007, Enron collapsed in an implosion of financial chicanery, pension fraud, and cover-ups. One of the president's best friends even went to jail. That was an extraordinary event even then, let alone today, and makes me wonder who he crossed. Enron used financial bluff and lies to hugely overvalue its business, which gave it control over the energy market. It used that control to push for deregulation so it could buy cheap and sell high. Enron's aggressive manipulation of the markets caused such instability that California, the wealthiest region in the world, was hit by rolling power cuts. Enron then falsified its accounts to hide its gambling, and stole from its own employees when its losses got too large.
+
+My surprise at the time was not that Enron went belly-up; it was that more firms did not follow suit. Of course, when the financial crisis hit in 2009, the world discovered that such practices were mainstream, particularly in the financial markets. As with Enron, the lack of oversight by regulators and transparency for shareholders were big factors in the worst excesses.
+
+Large businesses, like crooked administrations, like secrecy for many reasons:
+
+* //To hide financial delinquency.// Many firms routinely shift funds to and from subsidiaries, over- or undervalue assets, overcharge for internal services, use risky financial instruments to back debt, gamble with exchange rates, and so on. Such acts would not make the market, regulators, or taxman happy if they found out about them.
+
+* //To hide unethical behavior.// Manipulating nicotine levels in cigarettes, lending money to dictators to conduct genocides, conducting dangerous product trials on uninformed test subjects, using child labor, buying black-market materials, polluting rivers, stealing pension funds, bribing politicians, muffling union organizers, and so on. As with financial delinquency, profits can suffer when such acts become public knowledge.
+
+* //To hide internal corruption.// Directors, with the right to set their own salaries and benefits, regularly stretch the limits of what is appropriate. When confronted by unhappy shareholders, the response is usually, "Those are standard market practices," meaning "Everyone else is cheating their shareholders, so why shouldn't we?" It's much easier to keep such acts secret.
+
+In all cases, we have conflicts of interest between a privileged group with its hands on the levers of power and wider society. We see that transparency would force a change of behavior and loss of profits. Secrecy is good for the bottom line and it keeps you out of prison, as gwb43.com proved.
+
+Businesses have used lots of techniques to keep their internal records away from public scrutiny. Here's a sample:
+
+* //Arguing that a company is a person with the right to privacy.// The bizarre notion that a business is a person was made law by the US Supreme Court in the infamous Citizens United decision of 2010. This was one of the main complaints of Occupy Wall Street (OWS). Of course a business -- and I own several, I should know -- is just a proxy for its shareholders. I've even had lobbyists lecture me that companies come under the UN Declaration of Human Rights.
+
+* //The use of private equity to take firms off the markets// and out of the regulator's watch. Stock markets are efficient at allocating capital, and they demand certain reporting standards from firms. Private equity buyouts solve the shareholder issue and enable firms to operate within a wall of secrecy. The growing trend of private equity buyouts raises two main questions. First, where does all this money come from? Second, what is the economic benefit of the buyouts, except secrecy?
+
+* //The use of regulation to plug leaks.// Primarily, this refers to the US Sarbannes-Oxley Act of 2000 (SOX), which mandates the recording of all electronic communications for larger firms. While this sounds like a good thing, my cynical brain experienced SOX while working for JPMorgan Chase & Co. I noticed that its main effect was to switch off all "unofficial" routes to the outside world. Under SOX, firms allow only monitored email and chat protocols. So was the intent perhaps to make it harder for leaks? It certainly didn't prevent Enron, or the financial collapse of 2009.
+
+There is a growing inequality. Less information goes from the boardrooms to the outside world, while at the same time business collects more and more information about the public. The burden rests on whistle blowers, and the life of a whistle blower is not an easy one. Leaking sensitive information about malpractice in a business usually leads to firing, blacklisting, and poverty. It's still better than the life of a person who leaks state secrets. Such individuals tend to get suicidal in the most creative ways.
+
+Even darknets can't always survive determined leaks, as Chelsea née Bradley Manning and Edward Snowden showed. No security is perfect because it depends on people, and people make mistakes. Someone plugs an off-the-shelf laptop into a darknet, and suddenly it's trivial to copy gigabytes of documents to a USB drive. A maintenance engineer calls the head of operations warning that there's a problem with a router and they have to reset a password. However that "engineer" is a hacker and he gets the system password and access to every server.
+
+Given that no recording of a conversation is perfectly safe from being uncovered and leaked, how does the State handle the problem of whistle blowers? There are several strategies, as far as I can see. The most obvious and widely used is to attack any website that acts as a broker for leaks. WikiLeaks drew a massive amount of fire and fury for declaring its mission to be a broker for leaks, in 2006, leading to its founder Julian Assange infamously holed up in the Ecuadorian embassy in London, with Hollywood painting him in 2013 as a glory-seeking egomaniac. Threaten the powers that be, and you will pay.
+
+While it can be tricky to arrest and disappear a public figure, it is trivial to launch a "distributed denial of service attack," or DDoS, on any troublesome website. One simply tells hundreds of thousands of slave PCs to request the main page of the website, say wikileaks.org, at the same time. The simultaneous volume of demand overwhelms the server so that real users can't access it. They give up, and the offending material stays unseen and unread. And where do you find a hundred thousand PCs willing to act as your go-to agents for an attack on wikileaks.org or whatever site is in the crosshairs today?
+
+The answer comes from Redmond, in the form of Microsoft Windows, the most insecure and widely used operating system ever. It's [http://ssd.eff.org/tech/malware estimated that] 40-90% of Windows PCs are infected by some kind of rogue software -- viruses, trojans, worms, and so on. The measured level is 42%, for //known// vulnerabilities. What about unknown holes in Windows, a so-called "zero-day attack"?
+
+In June 2010, the [https://en.wikipedia.org/wiki/Stuxnet Stuxnet worm] was found to be sabotaging Iran's nuclear program in a very sophisticated attack that looked for specific Siemens industrial control hardware, and interfered with it when it found it. Stuxnet is significant for several reasons, two of which are worth paying particular attention to. It was [http://www.usnews.com/news/articles/2012/06/08/nsa-built-stuxnet-but-real-trick-is-building-crew-of-hackers built by the NSA's hackers], and it used no less than four Windows zero-days.
+
+Zero-days are very rare in theory. For a group of hackers to use four, in a single worm, hints that there are many more we know nothing about. So that 42% figure is low. It seems logical to assume that the NSA has worked to be able to access any Windows PC anywhere, at any time. I doubt that Microsoft directly created the vulnerabilities the NSA needs. More likely, Redmond has NSA teams discretely involved in the development of parts of the operating system, to "make it more secure," as the usual explanation goes. It's no shocker: the NSA publicly steers "secure" Linux and Android projects. So the figure of 90% seems more realistic. One would have to ask how the remaining 10% could possibly escape.
+
+With more than [http://www.businessinsider.com/right-now-there-are-125-billion-windows-pcs-worldwide-2011-12 a billion Windows PCs in use worldwide], that makes a lot of firepower. We've seen very large number of DDoS attacks on websites, even on [https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia entire countries].
+
+A DDoS attack can be beaten off using the massive caching infrastructure of the Internet. People will simply copy interesting material, especially if the originating websites are being attacked. Trying to censor the Internet is like [https://en.wikipedia.org/wiki/Streisand_effect pouring petrol on a fire] to put it out.
+
+A less visible and more effective plug is to cut financial support for the website. Big sites need hosting, and that costs money. WikiLeaks was the target of this in 2010, with US credit card processors cutting off all donations to the site. Despite not getting money from US contributors, WikiLeaks survived and got good press from being the victim of clearly abusive conduct by the US government and financial industry. So attacking a site will often just make it stronger. The very fact that authorities target a leaks site promotes its accuracy and importance. It is also technically hard to sustain.
+
+In 2011, Bank of America [http://wiki.echelon2.org/wiki/Team_Themis hired three firms] to [http://wikileaks.org/ attack Wikileaks]. One of the firms, HBGary Federal, was [http://arstechnica.com/tech-policy/2011/02/anonymous-speaks-the-inside-story-of-the-hbgary-hack/ hacked by Anonymous], and the plan was discovered. Emails and documents uncovered in the hack outline several proposed attacks on WikiLeaks:
+
+> Feed the fuel between the feuding groups. Disinformation. Create messages around actions of sabotage or discredit the opposing organizations. Submit fake documents and then call out the error.
+> Create concern over the security of the infrastructure. Create exposure stories. If the process is believed not to be secure, they are done.
+> Commit cyber attacks against the infrastructure to get data on document submitters. This would kill the project. Since the servers are now in Sweden and France, putting a team together to get access is more straightforward.
+> Run a media campaign to push the radical and reckless nature of WikiLeaks activities. Sustain pressure. Does nothing for the fanatics, but creates concern and doubt among moderates.
+> Search for leaks. Use social media to profile and identify risky behavior of employees.
+
+Once a leak is out and attacks on the website that released the information are shown to be useless, the next step is to attack the motives, sanity, and loyalty of the leaker. When there is a leak, the American press (when the leak concerns American secrets) focuses on the messenger and his motives, rather than the message. This isn't necessarily a conspiracy as much as how US media, and indeed much of US society, prefers style over substance.
+
+The most significant trove of documents that WikiLeaks published came from [https://en.wikipedia.org/wiki/Bradley_Manning Chelsea née Bradley Manning], who has been described in the media as [http://www.dw.de/the-trial-and-tribulations-of-bradley-manning/a-16839049 mentally unstable, reckless, and naive]. Manning was placed into extreme solitary confinement on arrest, [http://www.theguardian.com/commentisfree/2013/feb/22/bradley-manning-wikileaks-1000-days-detention prosecuted in secret], and largely forgotten about until his conviction and sentencing for treason.
+
+When someone leaks state secrets, as Manning and Snowden did, it is relatively easy to call out "traitor" and "national security" to trigger the tribalistic herd reflexes. Since those convenient attacks on 11 September 2001, we've been at perpetual war with [https://www.google.com/search?q=associated+forces an invisible enemy]. The state has a right to privacy, so the claim goes, and only a traitor would question that.
+
+Perpetual war. It is straight out of George Orwell's 1984, and as a technique, it is working well. The War on Terror has given us a tame media that precisely reports the official line, no more or less, and investigates only superficially the inner corruption of the state. However, Orwell did not predict the Internet and how far it would devalue traditional media and propaganda.
+
+I think the whistle blower is becoming the martyred saint of the Internet, the ultimate Original Poster, bringing us fresh and exciting content at enormous self-sacrifice. The way we view people such as Manning, Snowden, and Assange will be a litmus test of where we stand with respect to the future: for, or against.
+
++++ Freedom to Share
+
+All societies aggregate by remixing. We remix knowledge, and more broadly, we remix our culture. It's perhaps less formal a dance than the genetic remixing that occurs at conception, yet the process is broadly similar. Existing forms are brought together, remixed into new forms; these new forms are tested against real-world criteria and the successful forms are kept as sources for further remixing.
+
+Let me make a basic observation about culture: it is the product of social collaboration. We make it through endless remixing of our own and others' work. There is no truly original culture, ever, any more than music, language, or ideas can be fully original. However, part of the creative drive depends on our individual ego, and the feeling that we're special, talented, and creative. So we lie to ourselves to overstate our own accomplishments and understate how much we borrowed from others. The lie can be very solid. A musician can hear a tune one day, and then sometime later, recreate the same tune with the total belief they are inventing something new.
+
+This is one of those conflicts between the individual and society. As individuals, we believe in our originality and power to create and be different. As society we work together on a wide front, solving vast problems in countless little steps. This conflict can create a lot of drama in creative communities.
+
+In the nineteenth century, a new class of enterprising lawyer-investor drew upon this myth to justify the creation of a raft of new laws: the so-called "intellectual property" laws. Modern patent and copyright law, though very different in substance, share their common origin in this myth of the individual creator. This conflict was quite explicit in [https://en.wikipedia.org/wiki/History_of_copyright_law#Early_British_copyright_law the debate around early British copyright law], with London booksellers arguing for infinite copyright, and the competing Scottish printing industry arguing for freedom to copy.
+
+Modern patent law came into force in Europe in the mid-nineteenth century, with similar kinds of arguments. At this time, Germany, Switzerland, and the Netherlands had no patent system, while France and Britain did. Swiss pharmaceutics and Dutch electronics exist only because the absence of patent laws in those countries [http://www.guardian.co.uk/world/2002/mar/12/globalisation.comment let them take others' processes] and improve on them.
+
+At the start of this century, the US and Europe both had a nascent database industry (producing maps, phone books, and so on) In 2005, Europe [https://en.wikipedia.org/wiki/Database_Directive made it illegal to copy commercial databases]. The US allowed such copying on the basis that the information in them was not copyrighted. Today, the US database industry is massive while Europe's is pretty much dead.
+
+In technology, the free software sector, which effectively regulates a free-share zone, is massively larger, more successful, and more valuable to global industry than the proprietary software sector. Without free software, there would be no Facebook, Google, Web, Twitter, or Android. We would have the choice of Microsoft or Oracle. Yet today, the myth of the individual creator is still very strong. In the US, architects can use copyright law to stop people from photographing the design of their buildings, and copyright duration is now 70 years after death, which is effectively the infinite copyright that the London booksellers were demanding in the eighteenth century.
+
+While copyright and patent law can be very profitable for the owners, those profits are always taken at a larger cost to society. Economists have difficulty showing this, yet it's not for lack of data. Rather, working on this topic is a dangerous career move. Economists, like most ordinary people, have to feed their families and pay their mortgages. Very few have done extensive research into the real costs of the copyright and patent systems. The European Patent Office makes a habit of buying up economists who start to look at the economics of the patent system.
+
+I'll explore patent and copyright in more detail in [#property]. For now, I want to look at how they affect our freedom to share knowledge on line, why that matters, and what I think the outcome will be.
+
+Thanks to the music and movie industries, "sharing" has been turned into an accusation and even a criminal offense in many countries. Among the hip and leading-edge, the "Would you steal a car?" propaganda clip is a joke. "Would you download a car to your 3D printer?" they ask, mocking the bookseller's claim that copying culture is a form of theft. Yet for the majority of people, the threat of disconnection, prison, or massive fines because someone shared a few songs by accident on the family WiFi is real and frightening. The outcome of this is that, while people are confident in sharing photos of their cats and kids, they're less keen on stepping outside the walled gardens that Facebook and its ilk provide.
+
+It is very convenient for the establishment that the Internet is divided into "good" and "evil," where "good" encompasses people who take no risks and do nothing unusual, and "evil" consists of the criminal hackers, pirates, child pornographers, and terrorists. Once you decide to draw such a line, it becomes a snare around the neck of the quiet majority.
+
+Why does this matter? Who cares if the bulk of Internet users never venture beyond the safety of the manicured gardens of their social networks? After all, the average person has an IQ of 100, thinks Adam Sandler is funny, and types with one finger. It matters because people are only as stupid as their environments. That average person is the descendant of an infinite line of survivors, each meaner and more determined than their peers. Inside every calm, ordinary person sits a little implacable demon, able to come to life, grow and take charge if the situation demands it.
+
+Bread and circuses. The criminals inside the ring, fighting the wild animals, and the spectators outside, passively watching. That was the way the establishment hoped the Internet would develop. Except that the crowd jumped the barriers and joined the fracas in the ring.
+
+In 2008, the Church of Scientology tried to use copyright law to censor the video interview of a prominent Scientologist, Tom Cruise. YouTube complied. Other websites refused, and the loose communities calling themselves "Anonymous" decided this censorship was a casus belli. It wasn't the first time Scientology hit the Internet.
+
+In 1995, they sued a Dutch writer and Internet service providers for the leak of secret "church teachings," losing after ten long years in the courts. However, while the previous fight took place in the courtroom where Scientology's money could work effectively, this new fight took place on the Internet, where, curiously, all of Scientology's money was worthless. This raises a side question, which I'll return to somewhat later, of exactly what currencies operate in this strange world.
+
+Wikipedia [https://en.wikipedia.org/wiki/Project_Chanology tells the story] thus, "Project Chanology was formulated by users of the English-speaking imageboards 711chan.org and 4chan, the associated partyvan.info wiki, and several Internet Relay Chat channels, all part of a group collectively known as Anonymous, on January 16, 2008 after the Church of Scientology issued a copyright violation claim against YouTube for hosting material from the Cruise video."
+
+Before this, Anonymous was best known for ordering lots of pizzas for people they didn't like. Chanology was their first real fight, and out of that conflict emerged something surprising in its scale, and breathtaking in ambition. Up until this point, Scientology was a very powerful international organization. They had subverted the US Internal Revenue Service (IRS) and paid no taxes. They were able to make people disappear without consequence. They had friends in high places, and their lawyers scared the most defiant of websites into silence.
+
+What Chanology became was the focal point for thousands upon thousands of people who hated Scientology for strong personal reasons. Either they were ex-members, or they had lost family or friends to the cult. These were ordinary people, not youthful hackers with nothing to lose. They went to Scientology offices and protested. They went to on-line forums and talked.
+
+Anonymous [http://www.youtube.com/watch?v=JCbKv9yiLiQ told Scientology], they had "decided that your organization should be destroyed." And this is pretty much what has happened. They tore through the blanket of acquiescence, as Scientology's feared lawyers found themselves unable to stop the leaks and discussions. They spread those secret "church teachings" far and wide, and mocked them for being poorly-written sci-fi trash. They exposed Scientology's most precious internal secrets -- documents, money, names, and dates. The aura of success that people like Tom Cruise had cultivated through their membership of Scientology became a badge of pity, even in the mainstream press.
+
+Scientology was just the first real fight for Anonymous, which has become the armed wing of the Internet, despite not even being an organization at all. They have started to take on the State itself.
+
+Project Chanology showed what a large, diverse, angry, yet highly sane crowd could do, when they ignored the lawyers and the copyright claims, and focused on a real political objective, and a Bad Guy. I recall an elderly woman in France telling me there was an on-line vote on whether Scientology should be banned. Apparently the Scientologists had been voting //en-masse// for a "Non," which was at 60%. She was furious, in her firm, grandmotherly way. So I set up a few cloud servers and we downloaded a voting script some anon had made. After a few hours, the Oui vote was at 90%.
+
+It is sometimes harder to convince the crowd to jump over the barrier and get involved. There are real risks and the benefits can seem faint or unpredictable. Though the Piratebay torrent site tried to provoke a fight over copyright, most people are content to use Spotify and Netflix. Apparent civil obedience, breaking the rules when we can get away with it, is still easier for most of us than open confrontation, anonymous or not.
+
+++ Summing Up
+
+In this chapter, we looked at freedom as "being able to do interesting things with other people," and we looked at how freedom is essential to a healthy, wealthy society. We looked at how a regressive establishment tries to control digital society by reducing its freedom, and how digital society fights back. I hope I've given you tools for better understanding what is going on with WikiLeaks, Anonymous, and so on. In the next chapter, we'll look at privacy. More accurately, we will try to understand its disappearance.

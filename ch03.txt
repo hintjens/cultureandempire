@@ -1,0 +1,396 @@
+.bookmark mad-mobs
++ Faceless Societies
+
+> The Empire was run by an old, faceless society of criminals. It ran on cheap oil and cheap blood. It smashed its opponents in the name of Peace.
+
+Just as good on any scale can emanate from a wise crowd, large amounts of bad can arise from a mad mob. It's not about individuals. Rather, it's about how groups organize and are organized. In this chapter we ask, "//If humans are programmed to do good, how does one explain our amazing talent for doing bad?//" We will examine recipes for turning a wise crowd into a mad mob, and perhaps find paths to fix some large-scale mad mobs in future.
+
+++ Humanity as a Wise Crowd
+
+We live in a physical universe, and //everything// in it obeys physical laws that operate on many levels, from the quantum to the galactic. Each level has its own truths, all approximate, yet accurate enough to work. The progress of human culture has been to understand more and more of these truths. As we understand more, we move problems from the domain of belief (where the answers are long, complex, and superficial) into the domain of evidence-based knowledge (where the answers tend to be shorter, simpler, and more profound). At no stage has anyone done the reverse -- to prove that evidence-based science //is not// the best way to solve problems. Nor has this process slowed down; indeed, it moves faster each day.
+
+Human culture seems to have evolved to mine truths. Like the ancient bacterial colonies that filtered particles of gold from the sea and laid them down over millions of years to form gold deposits, human society acts as an information-processing machine. Each individual mind, for purely selfish reasons, collaborates with others to turn observed data into patterns of information, and then into reusable tools, in other words, knowledge. "Information" is shorthand for "data, information, and knowledge."
+
+Collective intelligence operates as a social network that collects interesting problems. It then solves these by casting around for as many solutions as possible -- even insane ones. It filters and remixes these solutions, testing them against known facts. It tries them out in as many diverse situations as possible. It finally reduces the set of possible answers down to minimal packages that can be traded and carried across generations. The better the collective intelligence, the faster it works and the more accurate and useful its results. The more these results approach general truths, the more useful they are, to more people.
+
+Collective intelligence needs ways to shift information around. Importantly, it must assign the right value to everything because otherwise it cannot filter out the rare and valuably accurate pieces of information from the vast majority of junk. The best mechanism appears to be that each peer in the network places a value on the information they share or are offered and work accordingly. It's not as simple as placing a monetary cost on a whispered secret.
+
+Rather, peers value other peers for their ability to deliver useful information over time, and peers will maintain notions of information credit and debt with respect to others. We can try to model collective intelligences as economies of information that operate according to the principles of specialization and trade in a free market.
+
+The basic rules for moving information around human society are economics. We specialize in our favored areas, and we trade information about those areas in what is ideally a free market. The ability to properly value and trade information with other people is a sign of adulthood. A teenager is mature when he or she can take part "in adult conversation," which essentially means entering the information market.
+
+And so the jet I am flying in is more "accurate" than the planes of a century ago. It is faster, carries more people, is safer, travels further, and consumes less fuel per passenger mile. It is //a truth//: the result of vast numbers of information exchanges between individuals and groups.
+
+Looking at successful on-line communities from a distance, we see human society in its most general form. Our history, over millions of years, is a long story of meeting stark challenges with radical cultural and technological innovation. Obviously, our species is the descendants of tough and smart survivors who found an answer for every single problem facing the family for over 3.5 billion years, the dawn of life. High five! For all its many inefficiencies and dark aspects, post-ape human culture has been remarkably adaptable and successful. It seems fair to assume that the earliest roots of our particularly human culture grew from our ability to think collectively as well as reason individually.
+
+How can I make such a broad statement? Well, it seems clear that the mental tools we need in order to construct wise crowds are built into our minds; they have evolved and were not learned. I'm not just thinking of the language instinct, though this is clearly fundamental. I'm also thinking of what I consider the social instincts, such as respect for authority and rules, willingness to collaborate, intolerance of cheaters, strength of identity, pride of accomplishment, memory of others' accomplishments, ability to calculate collective rankings, and so on. These are instinctive -- visible in young children without prompting, consistent across all human societies, and irrepressible no matter what pressure is applied.
+
+Yet one nagging question comes back: Why is there so much stupidity in the world when we're apparently so well equipped to act as wise crowds? The answer is that sometimes stupidity beats wisdom, and just as we're born with the talent to create, we're born with the ability to destroy. Wise crowds have the potential to become mad mobs, as you'll see in the following scenarios.
+
+++ Sports Break
+
+I remember the warm, late Brussels summer of 2000. Belgium was hosting the "Euro 2000" football tournament. Every day for several weeks, a match was played between two national teams, and every evening, two tribes of opposing fans would fill the Brussels city center -- the winning team parading for hours in open cars, honking and cheering, the losing team scowling in the shadows and drinking, and thousands of participants joining the raucous unplanned street parties.
+
+After about two weeks of increasingly noisy nights, which began to turn to violence, the police moved in with riot gear. Surprised and confused tourists taking the wrong turn through the historic heart of Brussels found themselves trapped between crowds of noisy beer-sodden youths throwing cans and dropping their trousers, and baton-waving riot police.
+
+As the police resorted to dogs and tear gas, the rioters began pulling up Brussels' famous cobblestones and using them to demolish restaurants and bars in the old center. I watched as the shocked patrons, lips still wet from after-dinner cognac, upturned tables to use as shields against incoming rocks. Then groups of plain-clothed policemen arrived and grabbed the rioters, using plastic cable ties to stop them from running away.
+
+The riots turned from simple national vanity to full-on battles between Brussels' disaffected unemployed youth and the State. Groups of masked youths ran up and down Brussels' alleyways looking for fights, while TV camera crews looking for footage tried to keep up. Heavily protected policewomen, followed later by much tougher policemen with shields and batons and dogs, tried to keep control. The police blocked off entire sections of the city center, squads of them chasing off or arresting the rioters. Despite that, the scene got more and more ugly, and violent running battles started to erupt.
+
+Then someone had the elegantly simple idea of turning off all the street lamps in the city center. Suddenly, there was dark, and almost instant peace. The youths could not see where to go. The TV cameramen could not shoot their scenes. And the police could continue cordoning off the old city, street by street, until it was swept clean of troublemakers.
+
+++ The Face in the Mirror
+
+What causes crowds -- both the rioters and the police -- to become so stupid? Can we even define what "stupid" means? The answer lies in the concept of //truth// and how efficiently the collective intelligence mines truth from the raw data the universe presents.
+
+Listen to the cry of a crazy crowd speaking about a social minority or otherwise perceived alien threat: "They are parasites and we must eradicate them all!" Here's a stupid crowd: "Ooh, burning police cars! That's fun. Let's also smash some windows!" To get a grip on what can seem like utter chaos, we need to see such patterns as inherently rational ones that tipped into dysfunction for various reasons. There is method in madness. When we see the method, we are better equipped to deal with the madness.
+
+In 2011, Anders Breivik calmly tried to start a civil war in Europe by murdering what he called "category B and C traitors" in a series of sequential shootings and bombings in Oslo, Norway. His 1,518-page manifesto is the brain dump of an intelligent, educated, highly conscious, and utterly insane individual. It is not political any more than it is religious. He compiles a world of mostly mythological or false material, taking only that which confirms his biases and insecurities, turns that into a painfully detailed rationalization and plan, and then uses that to commit acts of pure horror.
+
+Breivik's internal fractures turn into catastrophic mental failure as he reaches adulthood. Instead of getting help, he finds his life's cause in the politics of hate that are sweeping Europe, in cult-like far-right groups, and in shadowy paramilitary networks. Immigration often provokes resentment, and politicians can play on that. We hope that everyone understands it's a game. Most do, except minds like Breivik, who use the "Islamic threat" as a mental life jacket. The more he can blame Marxists, feminists, and Muslims, the more he can frame his mental fracture as enlightenment, and his isolationist and psychopathic tendencies as a warrior spirit.
+
+So while politicians play with fire, Breivik's very mental survival depends on his burning down the house. The more time and money he invests in his delusion, the more it becomes his reality. And then his reality collides with ours, children die, and he sits calmly in prison waiting for his time at the microphone.
+
+Because collective psychology is an expression of individual psychology, and this book is essentially about how we are working together to build a new world, let's put on the psychologist's hat and examine mental disorders. If we can understand how individual mental disorders can be "rational," perhaps we can apply the same approach to collective madness.
+
+Mental disorders range from caffeine addiction (yes, seriously, it is in the book) to murderous psychopathy. I'll look specifically at personality disorders, which compose half of psychiatric cases, and cover how we as individuals malfunction in society. As [https://en.wikipedia.org/wiki/Personality_disorder Wikipedia notes], "a person is classified as having a personality disorder if their abnormalities of behavior impair their social or occupational functioning."
+
+++ The Borgia Hypothesis
+
+The [https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders //Diagnostic and Statistical Manual of Mental Disorders//], aka DSM, is the bible of Psychiatry, and lists about 300 mental disorders. The disorders are categorized in various dimensions. DSM makes [http://www.psychiatryonline.com/DSMPDF/dsm-iv.pdf interesting reading]. What's particularly striking is how many symptoms of personality disorders are present in general society, people we know, and even ourselves if we look carefully.
+
+For example, [https://en.wikipedia.org/wiki/Personality_disorder#In_executives in business executives], histrionic personality disorder, narcissistic personality disorder, and obsessive-compulsive personality disorder scores were as high or higher than that of disturbed criminals.
+
+A widely-held explanation for personality disorders is poor parenting and/or abuse. If your daughter has borderline personality disorder, the assumption is often that she had bad or abusive parents. It seems a double punishment for those with troubled children. It also raises disturbing questions about how to intervene if, for instance, tests show a young child starting to show symptoms of a personality disorder. Do we remove them from their (failing, according to mental health professionals) family and put them into foster care? Or do we leave them in place, and administer drugs?
+
+The upbringing/abuse explanation concludes that people are fragile, easily broken, and only lifelong support from drugs and therapy can help them. It has two outcomes: to increase the number of people taking expensive drugs and therapy, and to fracture the families of those who are most vulnerable.
+
+The alternative explanation, backed by a growing body of data, is biological basis. It is still a controversial notion, absent from DSM-5, which was authored by the pharmaceutical and mental health care industries. A biological basis means that personality disorders are strongly inherited, and triggered or exacerbated by environmental factors to a degree that we can actually measure, from twin studies.
+
+Yet within this exists a paradox: How can genes that make us so dysfunctional, self-destructive, and even suicidal be the result of natural selection? The same paradox applies to groups: How can collective violence and stupidity be based on inheritable instincts when they clearly seem counterproductive?
+
+The simplest plausible answer is that "being functional" is //highly context-sensitive//. In societies with enough food, being tall is advantageous. In societies that live on ecological margins, being short is an advantage. The results: tall cattle herders and short forest pygmies. Your genes define how tall you might become, and your health and diet -- and that of your mother -- defines how tall you actually do become. In a tribe of herders, the shortest men won't have children unless they're particularly smart or funny. And in a tribe of pygmies, there will be a tall lanky woman who keeps hitting her head against the branches.
+
+Personality disorders -- like autism -- all have a spectrum of symptoms from mild and widely distributed, to severe and rare. A [http://archpsyc.jamanetwork.com/article.aspx?articleid=481789 Norwegian study] found a general incidence of 13% (one in eight of the population) for any personality disorder, with rates for individual disorders ranging from 1% or less (borderline personality disorder) to 5% (avoidant personality disorder).
+
+When we classify, say, severe psychopaths as sick people, are we missing the clue that this way of interacting with the world can be highly successful? Even in our modern world, sometimes the only difference between dangerous criminals and highly paid executives seems to be getting caught. In some societies, like southern Italy, US Congress, or Wall Street, criminals and successful businessmen are interchangeable.
+
+And subconsciously, we seem to value personality disorders as long as they don't touch us personally. The heroes and heroines of popular culture are often extraordinarily violent, manipulative, or emotional. A small amount of instability makes people attractive to others as long as it's combined with intelligence and beauty. Many men classify women along a "crazy-beautiful" scale. It's not just that we men tolerate more craziness in prettier women; we expect it. And as Waylon Jennings sings, ladies love outlaws.
+
+So taking the theory of a biological basis for personality disorders and adding a heavy layer of "sometimes you have to be crazy to survive," I'll propose the "Borgia Hypothesis" of personality disorders after Cesare Borgia, the model for Machiavelli's "Prince," who [http://articles.washingtonpost.com/2010-01-31/news/36899052_1_cesare-borgia-renaissance-man-savvy-diplomat shocked da Vinci and Machiavelli] with his "amoral and pragmatic methods."
+
+The Borgia Hypothesis says that personality disorders are evolved aspects of social behavior, and that they have a biological basis. Further, these aspects are not diseases, they are indeed powerful assets in certain situations. However, they can become dysfunctional in societies that have no use for them. In a violent and unstable society, being manipulative, charming, egocentric, and lacking all empathy for others is a winning strategy. In a peaceful and stable society, it is a dangerous mental disorder. In some circumstances, the ability to instantly project powerful emotions is a key to survival. In others, it is disruptive and antisocial.
+
+Any inherited talent needs culture to grow in. Our innate talents will often shrivel and die without opportunity to learn from others, and practice. Genes need culture, and culture needs genes. To argue between genes and upbringing is to entirely miss the point. Further, genes will express themselves in different ways and degrees, over time and according to circumstances. Gene expression is an incredibly complex aspect of biology that we're just beginning to understand.
+
+Genes can stay inactive for decades, then switch on, triggered by a cascade of other genes suddenly doing something a little differently. And it's specific to every type of cell in our bodies. This, together with the evidence that there are many genes involved explains the "spectrum." A person may have more of fewer of the responsible genes, copies from one parent, or both, and the genes may switch on and off during their lifetime depending on factors such as being in abusive situations.
+
+The hypothesis is therefore that the genetic infrastructure for personality disorders is present in different degrees in most people, and is there because it has real survival benefits and bearable costs. It's like sickle-cell disease, which protects most carriers (one in four in equatorial Africa) from the deadly malaria parasite at a fatal cost to the one in four of carriers who get two copies. If these genes were really uneconomic (if their costs outweighed their benefits), they would gradually disappear, like the genes for tails or full body hair.
+
+This hypothesis is much more optimistic than the "people get broken or sick" argument. It means we can recognize vulnerable babies and children simply by tracking parents who have difficulties. We don't need to wait until they show symptoms. It means we can search for the plausible social triggers and address them. It may simply be that while all children need socialization, those who carry severe personality disorders just need more love, physical play, and emotional security than most. Presumably, as for language, we have critical learning periods when young, and we can still learn on top of that, all our life long.
+
+Can adult sufferers be cured rather than treated with drugs and therapy? I'm not going to speculate on whether these genes can switch off or explore what kind of environments might be able to do this. I do have a question for the mental health profession. If personality disorders are (for the sake of argument) a programmed response to certain social triggers, are drugs and therapy really going to change the sufferer's interaction with society?
+
+++ Natural Born Killers
+
+In the twentieth century, there were two main schools of thought regarding humanity's bad habits. The first was that these were cultural and could be fixed by imposing cultural change. The second was that they were genetic and could be fixed by steering natural selection. Both views led to massive violence and suffering, proving first that it requires great force to bend society in any direction and second, that trying to fix society by force is itself an insane act. G. K. Chesterton, an early critic of eugenics, wrote of the United Kingdom's Eugenics Laws that "the State has suddenly and quietly gone mad. It is talking nonsense and it can't stop."
+
+If there was consensus by the late twentieth century, it was that trying to change society by selectively killing or sterilizing those we considered "unfit" was worse than mass brainwashing. We would tolerate dictators as long as there wasn't mass murder going on. Actually I think selective breeding of humans has a worse name to it than mass murder.
+
+However, around the end of the twentieth century, evolutionary psychologists began to uncover some rather different truths about human nature. The first was that it most definitely evolved. The second was that the evolution was carried both in genes and in culture, inseparably. Without learning, our inborn mental tools can't develop. All human languages come from a single common ancestor, just as all human genes do. Third, human nature, like culture, is a rich collection of strategies, which we can select and shape according to need. Our ability to adapt our mental toolset to new circumstance is as much a product of our evolution as the toolset itself.
+
+Thus, instincts are our basic inherited toolset, and culture is the learned strategic expression of those tools. We are born with instincts for sharing, fairness, and collaboration. We are also born with instincts for opportunism, deception, and violence. Depending on the economics of the culture in which we grow up -- which may depend on geography -- we select, develop, and sharpen certain instincts over others.
+
+To appreciate human culture, you have to be able to abstract yourself from it. This is a bit like appreciating the beauty of all life even as one tries to kill a mosquito. All culture, no matter how strange, is born from a survival strategy. There is no "forwards" and no "backwards," except from the seat of our own prejudices. We can and should strive for fairer, more pleasant societies, yet there is no basis for claiming that these are //better// in any objective sense. Having said this, from my own highly prejudiced seat, it's //definitely// better to live in a freer and less violent society, and this is the viewpoint I take in this book.
+
+The science that sociologists should practice is this: observe people in their best and worst moments. Then, reverse-engineer the underlying instincts that are at work, if necessary by analogy with other animals. This is what evolutionary psychologists do. Then, the sociologists should create hypotheses about which cultural strategies are at work, try to disprove these hypotheses, and eventually use the surviving hypotheses as guides for social regulation.
+
+Let's go back to violence. The majority of male-on-male violence is and always has been either over access to or control over women, or over status. These are much the same thing in the politically incorrect male mind. Honor feuds are a fact of life for most pre-industrial societies, and they typically run between families to the extent that new tribes are often the product of a feud that forces [https://en.wikipedia.org/wiki/Erik_the_Red one individual to leave, together with his close family].
+
+It makes sense to assume that instincts for attachment to and violent defense of the tribe and tribal territory are deeply embedded in the human psyche and genome. The human story has often played out in pockets of valuable territory -- refuges of fertility, security, food and water -- embedded in wastelands of semi-desert or forest. Until about 500 years ago, most of humanity lived where their ancestors first settled, having pushed out any previous owners. The main migrations as we walked away from or through Africa were either into empty territory made accessible by lower sea levels and retreating ice caps, or away from encroaching deserts and ice caps.
+
+Over millions of years, groups of our ancestors repeatedly clashed over water, food, and above all, territory. Any group that split and ran would be exterminated. Individual preservation means nothing. Survival when attacked lies in loyalty to the group, following others, and the ability to react violently and emotionally to defend the tribal turf. He who runs away may live to fight another day, yet we are like gazelles. Lone survivors tend to be picked off quickly. We don't generally scatter and flee when confronted; we gather together, and we fight.
+
+This is deeply embedded in our ethos and mythos. The hero is not the one who escapes; he's the one who prevails. This is worth repeating because if cowardice were a successful strategy, it'd be sexy. The market is brutal about how it values genes with survival value. The hero in the zombie movie either stays and fights, or runs to save his family.
+
+Of course in most times and locations, life is not confrontational. Though we notice the wars, they are spaced with long periods of peace, and Steven Pinker has argued convincingly that over time [http://stevenpinker.com/publications/better-angels-our-nature society has become progressively more peaceful]. The thing about violent confrontation is that it takes just one mistake to lose one's life. Peace is not risky, yet being too nice in a time of violence is the kind of mistake that wipes out entire genetic lines. I'd expect our genetic heritage to keep a knife-edge balance between too much and too little capacity for aggressive tribalism.
+
+History shows that most of us carry the instinct for murder -- or at least for physically violent self-defense -- and also strong instincts for suppressing violence. Most conflicts are not violent; they are just jostling for relative advantage. We've sublimated huge chunks of our tribal violence into sports, politics, and other non-lethal status competitions. Males do this in many species. Male elephants and walruses fight over dominance, nonetheless, those tusks are mainly for show and intimidation, not murder. In addition to a potential threat, other people represent a valuable genetic and economic resource. Only a broken society driven by insane leadership actually moves to mass killings.
+
+As human society has gotten more sophisticated and less dependent on raw natural resources, it has also devalued the need for strong tribal emotions, particularly male aggression. We can achieve much more today by dialogue and trade than by simple force. Still, our instincts for tribalism are deep and old, and only superficially controlled. They come out easily when provoked. Ask someone where "they are from," then say something less than polite about that country, and watch the reaction.
+
+One can draw two male caricatures: the "jocks" and the "nerds." The jocks tend to sports; the nerds to intellectual pursuits. Speaking as an intellectual, I can vouch shamelessly that nerds are more intelligent, have better looks and genes, and are more likely to thrive in digital society. However, I've never met a male -- jock or nerd -- that was immune to tribalism. The main difference is that the jocks do it without comment, as if it were obvious.
+
+The nerds, on the other hand, back their tribalism with endless self-justification that can turn into formalized dogmatic collective insanity in the worst cases. The jocks may be the ones shouting and wielding the sticks. However, it's the nerds who invent the slogans and ideologies and build the political machines behind the genocides.
+
+++ Stupid, Mad, or Bad
+
+A Serbian soldier in Bosnia, when asked by a journalist why they had not opposed NATO, after so many years of swearing they would die to build a Greater Serbia said, "We may be mad. We're not stupid." I speak sometimes of madness, sometimes of stupidity. When we speak of an individual, the two properties are quite different, as the Serbian soldier tried to explain. When we speak of a large group of people, madness and stupidity look almost the same.
+
+In general, collective stupidity is a precursor to collective madness. When someone asks me to explain Nazi Germany -- this happens almost daily on the street, I swear -- I give this explanation:
+
+"//By 1930, Germans were collectively stupid, having suffered a war, the loss of empire, punitive reparations, and hyperinflation. The German middle classes, especially, were bankrupted and in a state of shock. This made them easy prey for an aggressive takeover by a small group of malign psychopaths who rightly saw the weakened German state and depressed middle classes as vulnerable.//
+
+"//Using nationalism, xenophobia, and racism, these thugs took control over the state via the ballot box. They then built a cult-like power system increasingly based on propaganda, a climate of fear, and selective brutality. In 1933 they were strong enough to stage a coup and create a one-party state. The Nazi party took control of the army, and from 1934 to 1939 instituted a dictatorship based on fear and elimination of all dissent.//
+
+"//By 1939, Germany had gone collectively insane to the point where it committed genocide and then self-destructed in an all-fronts war it could never win.//"
+
+I realize that there are many more complex explanations. Mostly they try to blame the German people in some general way, or else they focus on the relationships between the Jewish community and its host nation. My answer to such explanations is: by treating this as a special case, you learn nothing -- or you learn the wrong lessons. Everything is a special case; you learn by finding the common patterns. The pattern here is: when a clique of thugs decides to take over a country, they have to first make it stupider and then keep it as stupid, afraid, and insecure as possible. This is priority number one for an old political elite or new junta that has something less than peace and reconstruction in mind.
+
+++ Sporting Colors
+
+[https://en.wikipedia.org/wiki/Nika_riots History tells] stories of entire cities driven by rivalries over symbols and colors. Set a class of teenagers in a hall, divide them into two, give one half blue arm bands and the other red arm bands, say nothing more, and watch what happens. They will mill around, abandoning friends with the "wrong" color and sticking closer to those with the same color. The two sides will measure each other and see which is superior. If there is a clear difference, the weaker group will cow and lower their heads. If they are equally matched, the two groups will move silently towards confrontation.
+
+There are variations on this experiment. Ask just half a class to wear arm bands of one color for a week. At the end of the week, ask who found the experience enjoyable -- those with the arm bands or those without. Now repeat the same experiment with another class, and this time get the teacher to also wear the arm band for the week. This happened in Constantinople during the time of the Nika riots, when the Emperor chose the blue side. The result was near civil war between the loyal blues and the rebel reds.
+
+These are easy exercises that demonstrate how random and petty it is to divide groups. I haven't actually tried the first experiment, however, apparently in American summer camps, they do this regularly, [http://www.thisamericanlife.org/radio-archives/episode/109/notes-on-camp calling it "color wars"]. My sister Dr. Helen Hintjens demonstrates the emotional impact of unfair land distribution before the Rwandan genocide by giving some of her class several chocolates, some none, and then taking a five-minute break. After, she'd ask them to express how they felt. Those without chocolates would feel angry and jealous.
+
+However, while some ate their chocolates, and felt guilty and fearful, some would share their chocolates, and others would come back to the teacher with the chocolates uneaten, to ask what on earth she was playing at. As Dr Hintjens says, "Which all went to prove the point that there are more than two (greed or grievance) possible responses to every situation of blatant injustice."
+
+Economic inequality can create strong negative emotions on both sides. This isn't the only way to divide people and create a mad mob. Here are some other techniques:
+
+* Anything related to sports or politics, as in the US, where politics is a form of sport. I've argued that our violent heritage is sublimated into sports. That makes sports an easy trigger for divisive antagonism.
+
+* Any situation where there are spectators to witness and enjoy a conflict, from the Roman amphitheaters to the Iraq wars.
+
+* Focus on issues that invoke tribalism: ethnicity, language, religion, race, and even class.
+
+* Focus on issues that create strong negative emotions: immigration, gay marriage, gun ownership, religion, race.
+
+Although I don't aim to be a political writer, politics does often provide the most tangible examples of mad mobs. US politics has all of the above criteria and has produced nonsensical results like the election of transparently incompetent and unethical presidents. A cynical observer would see deliberate strategy at work here. Drive public opinion towards stupidity by focusing debate on unsolvable emotional or tribalistic issues. Create spectator masses through television. Give political events the same look and feel as sporting events, including cheerleaders dressed up as Fox News anchors. I'd argue that mainstream US political parties are like the Nika red and blue arm bands: symbols of division lacking any substance.
+
+If we accept this analysis that US politics is largely about //not// discussing the real issues, it should be a simple (though in practice, nearly impossible) recipe to turn the mad mob of US democracy into a boring yet sane wise crowd. First, ban television coverage of party politics and televised political advertisements, no matter who pays. Second, treat discussions of religion, race, ethnicity, or language in political debates as immoral, rude, and unethical. Third, ban public political events. Last, ban party colors, slogans, and other tribal marketing.
+
+You might say such a democracy could never function. Nonetheless, there are actually quite a few countries where this is more or less how things work. They tend to produce boring yet competent governments that do not steal billions, do not declare war on other countries, and do not spy on their own citizens. Much of Europe is governed by such policies, formal or informal. The only cases in Europe where government starts to go mad is where tribalism gets added to the mix, like Belgium in certain seasons. From June 2010 to December 2011, Belgium had no federal government at all, and worked well enough for those of us living here at the time.
+
+++ Stupidity is Not Random
+
+I've looked at some main causes for mad mobs: territory, tribalism, religion, sports, and politics. There are many factors that make groups less intelligent without turning them into hooligans. There are degrees and shades. Here are some things that I think make people collectively stupider. They're not all that obvious:
+
+* //Television//. TV must be one of the most costly inventions ever in terms of direct productivity wasted through lost time, and indirectly through lower overall intelligence of a TV-viewing public. Why does watching TV make us stupider? It has a very strong effect on how we see the world. When millions of people see the same programs, their overall diversity of opinion seems to fall dramatically. This effect is obvious with propaganda TV, however it's present in all mass media.
+
+* //Team sports//. Beach volleyball, granted, can make good viewing. Team sports, however, express the essence of tribalism, sometimes violently. You don't hear of chess riots or origami hooligans. Many mass activities, like pop festivals, even with the addition of lots of drugs and alcohol, do not end in running street fights. Team sports [https://www.google.com/search?q=hockey+football+riots often do end in chaos].
+
+* //Belief in the supernatural//. Religion has its uses, like all our social instincts (this is my story, take it or leave it). It lets us delegate responsibility for disasters that have no logical explanation, so we can keep our logic safe for things we do understand. Without the fusebox of belief in an imaginary supernatural, we'd have to analyze and solve every single flood, drought, illness, accident, and social injustice. And since the world is full of disasters beyond our control, we'd go crazy.
+
+Normally, as science explains more of the world around us and technology makes our world more predictable, religion should decrease. This seems to be the way it works. Religion definitely makes individuals more dull witted, and groups stupid. Organized religion scores very low on the Collective Intelligence Index.
+
+* //Tribalism//. All modern humans descended from about 10,000 individuals who lived about 300,000 years ago, and all non-African humans from a far smaller selection. Anyone who thinks their particular family tree makes them special is as crazy as a Cardinal. True, some genes seem more fit than others, and some family trees have more of these genes. However, there is zero correspondence between good genes and "ethnic origin," except in reverse: the more isolated and homogeneous a gene pool is, the more likely it is to be filled with bugs.
+
+The evolutionary justification for tribalism ended perhaps 5,000 years ago when the technologies of agriculture, portable trade goods, and currencies made it more profitable to work collectively than to fight over patches of hunting ground, watering holes, or trade routes.
+
+* //Language identity//. Digital society specializes in intense and useless fights called "language wars." When we get attached to languages, that makes us dim witted. All languages are good for something. French for arguments: you can shout for ten minutes and say nothing. English for business: it's easy to pick up yet hard to master. German for poetry... well, just because. Japanese for secrets: it is really four languages depending on who you're talking to. Italian for traffic directions: it involves much hand-waving. Spanish for stories, because of the wine.
+
+A language is like a social credit card, and a pragmatic person learns as many languages as he or she can afford. One should never //belong// to a language.
+
+* //Anything that homogenizes our lives//. This is a long list, because industrial society is so good at producing endless identical products: same cars, houses, clothes, food, music, gadgets, and culture. There is a direct causal relationship between the cookie-cutter sprawl of US life, and the inability of most of American society to develop sophisticated answers to elemental questions such as "How free should a person be?" Europe is sometimes mocked for having too many languages and too many borders, yet it is Europe's diversity that has kept this continent more or less sane since the end of WWII and European empires.
+
+++ Society Versus the Individual
+
+In my last year at school, I realized that many works of literature could be cast as a struggle between the individual and society. Lord of the Flies, 1984, Death of a Salesman, A Tale of Two Cities, you name it. It's a classic theme, central to the very concept of existence, and retold countless times. I aced my English Literature exam. However, the story is mostly only half-told. George Orwell's real message is that tyranny must crush the individual spirit to survive. In other words, if a political elite wants to prevent the rise of a wise society that would overthrow it and replace it with a meritocracy, it should attack the individuals' ability to form wise crowds in the first place.
+
+The state of US political debate may be the accidental result of a young culture that has not developed enough authentic depth and interesting cities. Or, it may be that the eradication of free thought and the creation of mad mobs are long-standing goals of those in power. Why, you might ask, do ruling classes work so hard to keep society weak? Surely happiness and prosperity are good for all? The answer is one we saw in the story of Africa. Not only do ruling elites often try to use the law and politics to work in their own interests as long as possible, they try to escape all accountability for it afterwards.
+
+It's not just corrupt political elites that abuse their citizens. Big business, armies, prisons, boarding schools, religions, indeed many of the institutions of industrial society operate by squeezing part or all of the individuality out of people. In the worst cases, people become utterly compliant, willing to do anything, including killing themselves and others, for what they perceive as the good of the group. In the best cases, they just take a lot of abuse without complaining.
+
+It's not an accusation against right-wing capitalism, though that has been an excuse for massive abuse of individual rights. The twentieth century also saw many "collective" left-wing societies that were notable for their ruthless suppression of individual rights. "Collective intelligence" does not mean that collectives are intelligent, any more than "horse power" means that horses have the right to vote.
+
+1984 was a warning, not an instruction manual, and few people have explained how to really build a cult, religion, or totalitarian state. [http://www.miltontimmons.com/MindControl.html An excellent essay by Dr. Lee Carter] from 1989 is the best explanation I've read. He writes, "As I hope to demonstrate, these principles have been applied to most religious and political movements of the past, and will undoubtedly be applied to new ones in the future. By being aware of these techniques, the reader can be forewarned."
+
+We spoke of personality disorders. It's been said that you can spot a psychopath by the little cloud of followers he or she drags around. Psychopaths can be vicious about spotting and exploiting peoples' weaknesses in order to make people useful for them. At the heart of every little cult is a malign psychopath, surrounded by people and yet a loner. At the heart of every dictatorship, political movement, large business, or religion is a fraternity of malign psychopaths.
+
+There are, of course, decent people who are "pro-social" psychopaths, and malign people who show no symptoms of psychopathy at all. To avoid having to say "malign psychopath" over and over, I'm going to give such individuals a more suitable label, which is "bandit." The bandits make it their business to exploit others, on a massive scale.
+
+How do you manipulate people on the scale of an entire country? In the Art of War, Sun Tzu wrote, "//the control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers.//" In other words, a pattern that works for a few people can be scaled up to work for millions.
+
+Just as a Social Architect can create a wise crowd by deliberate design, a bandit can build a gang, which is a specific type of mad mob. A gang can be //very// lucrative. And where there's money, there are expensive consultants. I'm pretty sure there has been a lot of secret, well-funded research both by private groups and governments into what I'm going to explain. You may even find the research conducted in broad daylight, if you look for it.
+
+++ How The Bandit Got His Gang
+
+> Brian: I'm not the Messiah!
+> Arthur: I say you are, lord, and I should know... I've followed a few.
+
+Let's start with the overall process. It is very similar to how we built an on-line community, except we take the tools from [#community] and turn the dials down to absolute zero: insane rules, arbitrary authority, no freedom, and so on.
+
+Every gang starts with a charismatic founder and some promise of salvation. The founder is a middle-aged, decent looking man, usually, who has been playing ping-pong with people since he could hold a bat. By the time he is forty, he has collected a small cloud of dedicated followers, and more importantly, he has attracted one or two fellow bandits -- less handsome, and harder-working -- who smell an opportunity. These are the ones who will build the cloud up to something big.
+
+The market curve applies to the bandit's gang just as it does for on-line communities, and indeed the two are hard to distinguish at the start. The first to join the cloud are the fanatics, who know the Messiah when they see him. Then come the pioneers, the early adopters, the mass market, the late adopters, and finally, the stragglers. Let's face it: if you're converting to Catholicism today, you are a straggler.
+
+The first marketing wave goes out to people who are somewhat disconnected already. They have some issues. The bandits whisper stories about imaginary enemies and conspiracies and this draws in the low-hanging fruit, those with paranoia and other vulnerabilities. Then the bandits create a dichotomy between "them versus us" that targets the next slice of the market. Then they switch to the "Everyone is doing it, you should, too" argument to catch the mass market. Finally, they use "If you aren't with us, you are against us" to catch the late adopters.
+
+It's not enough to just get new recruits. It is utterly vital to stop those who have already joined from leaving. The difference between a successful gang of bandits and a lone bandit is twofold. One, how well he controls his followers. Two, how effectively he stops them from leaving. In George Orwell's 1984, there was no escape of course. This is the nightmare of a society built inside walls, be they the walls of a boarding school (where I received my education in this topic), prison, or totalitarian state. For most of the growth period of even a nationwide gang -- say, the German Nazi party from 1920 to 1930 -- there is some possibility of escape, and there is some resistance.
+
+So we come back to the individual and the insane society trying to control his or her mind, to eliminate both resistance and escape. Since "fight or flight" is a very deep instinct, it's not a simple process. Fittingly, only bandits are immune to other bandits.
+
+**Week One: Losing Myself**
+
+"I've been to a few meetings, and these seem like nice, sincere people. They've offered me a place to sleep for a few days, which is great since I've been on the streets for weeks now. We all sleep in big rooms, the men in one room and the women in another building. When we get up each morning, we make our beds and sweep the floor. Like everyone, I have a small locker for my stuff. The guy next to me told me to throw away anything I didn't really need. They give you everything here, he said. I told him I wasn't staying long so it was OK.
+
+"Breakfast was white bread, a slice of cheese, and tea without sugar. Since it's a special day (I didn't remember what exactly), we all got a fried egg too. My friend did not come to breakfast. When I saw him later, he looked hungry and pale and didn't speak to me about it.
+
+"Then, task assignment. This is how we pay for our board and lodgings. Work is good for you, the stern matron said as she pinned up a sheet with names and assignments. I wasn't on the list. "You are still a guest," she told me without a smile when I asked about it.
+
+"During the day I wanted to get a book from the dorm. The door was locked. Not allowed, they told me. Because I had nothing to do, I spent the day in the common room. No TV, no Internet, and no people to talk to. Everyone was busy. I read some books, which were all the same kind of stuff -- stories about the organization and its founder, someone called Father, and all the good things they do. Part of my mind laughed at that, and then it was lunchtime.
+
+"Lunch was soup, the same bread, and then mashed potatoes with sausages and cabbage. I don't know what they did to those sausages to make them both burnt and gray. I was very hungry so I ate most of it anyhow. My friend was there and ate silently. When I was done, he quickly switched trays, and ate my leftovers. When I spoke to him, other people told me to stay quiet. The matron came and scolded me, we don't talk when we eat, she said, it's disrespectful. My face burned with shame. I guess it's their custom.
+
+"That afternoon, we went to the main hall for recitals. Everyone had the same book with them, which I remembered from the common area library. I didn't have a book. I asked my friend and he told me, quietly, if you stay they'll give you one. So while the instructor and the whole group recited their texts, I sat at the back, face burning again.
+
+"There was no meal after that. Instead, we worked in the garden. Work is good for you, said the matron to us, as she handed us a shovel, or a pick, or cutters. One of my itinerant jobs was gardening, so I knew immediately what to do, and I started pulling out weeds and trimming the grass edges. The matron came to me and told me to stand up. When I did, she slapped my face, hard.
+
+"I dropped my shears in confusion. What was going on? All life is holy, she told me. How could you destroy those plants? They're weeds, I answered. Here, she said, nothing is a weed, no one is a weed. Not even you are a weed, though you are a miserable gardener. Plant them back, she said. So I spent an hour planting weeds. It was the strangest and most humiliating hour of my life, I think.
+
+"By 10 PM or so, we were done and exhausted. Finally, food! It was boiled potatoes and some kind of meat stew. There were women sitting at the other end of the hall, all dressed in the same green-gray as the men. Some looked cute. It was hard to tell with those clothes and the hair all tied up in head scarfs. I felt out of place with my own clothes on.
+
+"Sleep was a blessing. My mind was filled with unfamiliar feelings. What was this strange place, and who were these people? They seemed so calm, so peaceful. While part of me wanted to leave, to run away, I also felt a sense of security that I'd never felt before. No one is a weed here, the matron said. Not even me. Maybe for the first time in my life, I could belong.
+
+**Week Two: Bye-Bye, Mama**
+
+"Breakfast was the same, without eggs. Not a special day, I guess. Afterwards, an older man with white hair and a short white beard came to me and told me to follow him. He did not introduce himself, and we sat in a little room. He told me, be honest and open, and then asked why I had wanted to hurt the plants the other day. And then other questions about my feelings, my life, and so on. He smiled a lot at me with a twinkle in his eyes that made me feel comfortable and loved. We talked for so long. Only much later did I learn this was Father himself!
+
+"One of my prized possessions is, no, //was//, a photo of my family, from a few years ago. My mom and dad, and sisters and older brother. On the back, their phone numbers scrawled in different pens. I wanted to call them, tell them I was OK, safe. Matron said I'd be allowed to do that in a while, maybe even in a few days. She asked to keep the photo for me, and said she would call my mother for me.
+
+"Today I got chores, which was nice, because otherwise I'd have been bored and excluded again. Lunch was a vegetable stew. I missed my mother's cooking. She used to make such amazing meals! Roasted meats, fried vegetables, spicy sauces. As I ate that stew, I remembered it and started to cry.
+
+"Matron came over and pulled me up, gently, and brought me into a room painted in bright colors. I sat on a wooden chair, one of about ten in a circle. After a while, other people came in, including some girls. Matron explained that I was new, and feeling lonely, and then everyone stood up and came and hugged me. I began crying again, and they hugged me more, and I felt myself almost faint from the intensity of the love.
+
+"That afternoon, I told Matron I wanted to stay and would do anything necessary. She told me, good, hand over everything you have and we'll get you a proper set of clothes. I gave her the backpack with clothes and books in it, my old watch, and wallet. Then I went to get a haircut -- close shave -- and my clothes, my new name, and my number. I felt reborn, clean, perfect. Everything I had been, even my name, dead. A new man, a new life.
+
+**Week Three: A Brave New World**
+
+"Recitals, recitals, recitals. It's been weeks now and my mind is filled with the strangeness of it all. Words I never knew, concepts that attach to nothing except other slippery concepts. Enemies who want to destroy us, Father's fight to save us. First it's recitals, then it's tests. If we fail a test, we have to meditate in the silence room for a day, and then repeat the class. If we pass, we get accolades, and we move on.
+
+"I was always a rapid learner and by now I've progressed well. One day on my knees in the silence room was enough! Matron says I'll go far. She smiles a lot at me these days. I can't believe I used to be afraid of her. I've already finished the First Book and passed all the tests with very high scores. At night, I read the Second Book and try to memorize it so that I can do better at recitals. I don't even know if there's a Third Book. People speak of it.
+
+"Yesterday, my first punishment duty. There was a young woman, just a girl, who refused to eat her dinner. She threw it on the floor, shouting and screaming until she was taken away by three large men. The next morning, I was chosen to deliver Father's lesson. They didn't explain it to me, just took me to the room where she was being held, unlocked the metal door, and led me inside. She was tied to the bed, hands and feet, disrobed, gagged, face down. They told me, "Father says, do your will and you do His will. You have one hour," and left the room. I knew it was a test of my strength and faith.
+
+"I would lie if I told you I didn't enjoy it. I wanted to remove her gag so I could hear her moan and cry. I didn't dare. I never saw her again. We rarely spoke or mixed with the women, so it doesn't mean anything. Perhaps she was on kitchen duty. She was so young. Does that matter?
+
+"Tomorrow, they are choosing new people to go out for meetings. I've asked to be one of them. It's too soon, they tell me. At least I'm now sleeping in a different room with fewer of us, and getting eggs every morning. Life is good. I wish my family could join us.
+
+**Week Four: The Enforcer**
+
+"Waking up every day at early hours for more recitals is hard. I understand the necessity for spiritual cleansing. Father showed us the way; we follow his steps.
+
+"I finally got my own room. It's small, without any decoration, a little slit window and a concrete slab with a thin mattress for a bed. It has a door, and it's mine! They told me, the room is free because the last occupant did not love Father and we had to send him away. I don't ask what that means. I can guess. There are a lot of punishments here, some worse than others, and the very worst is to be kicked out, excluded, rejected.
+
+"I know about the punishments because it has become my thing. I'm not sure why, they trust me with this, since that first girl. You know, they filmed it all, and later showed it to me. They record a lot here, on video. You'd think there were some secrets, some privacy. That's not true though. No secrets here.
+
+"I have to admit a certain genius in inventing new punishments and applying them when people expect it least. There's nothing more fun than watching someone doing something they absolutely //know// is good, then pointing out that the rules changed, and that they are committing a terrible crime. Like stupid me with my weeds, that first day.
+
+"Technically, everyone here is a criminal before we even start. Father says this many times in his recitals: we are all sinners, and only a few can be saved. The whole outside world, all sinners that want to destroy us. Most people here, sinners who will fail. Even me, a sinner, weak and filled with doubt. I know this, and every time I teach a lesson in blood or pain to another person here, it feels true and real again. 'Only through sin can we become truly innocent.' That's the first recital of Book Three.
+
+"I think of it as a form of love."
+
+++ From Bandits to Bakers
+
+I trust you see from my story of the bandit Father and his gang of followers, that political movements, religions, and criminal movements of all kinds do not depend on the extremism of those involved. They are a form of prison. The overwhelming majority of people caught up in them -- [http://www.washingtonsblog.com/2012/08/as-many-as-12-million-americans-are-sociopaths.html about 96%, to be precise] -- are innocents who lack the very special talents needed to recognize what is going on from the start, and make what we could arguably call a choice.
+
+Many of those trapped in such places adapt to survive and may become part of the system, yet they are doing what most of us would do. First, find a way to survive; second, rationalize what we have to do, or become. Whether it's working for a bank that is stealing pensions, or locking the doors on a labor camp, we need to find justifications.
+
+Some countries do go crazy, yet most do not. What makes the difference? Highly motivated bandits are not a sufficient danger in themselves. They exist in every place and time, and mostly they can only do limited, local damage.
+
+In order for bandits to get real power in a society and [http://www.washingtonsblog.com/2012/07/why-dont-the-psychopaths-on-wall-street-and-in-d-c-show-remorse-for-their-destructive-actions-and-why-dont-we-stop-them.html inflict wide scale harm to many], the social elements who would normally block this have to be too weak to act effectively. It's not random. Only specific kinds of people will really fight the bandits tooth and nail. And these people get their power and strength from certain conditions that are often externally defined.
+
+I'm going to propose one more pop-science political theory, which is the "4B hypothesis." This emerged from my research into African politics and economics for [#going-digital], and is as far as I can see broadly applicable, a good tool for understanding broader political conflicts.
+
++++ The 4B Hypothesis
+
+For the sake of argument, let's divide society into four roughly equal chunks. We have the bandits, who specialize in taking from others, and who we have already met. Then, we have the beggars, who specialize in getting something for nothing. Middle management, perhaps. Then, we have the bureaucrats, who specialize in making rules and keeping things organized. Finally, we have the bakers, who specialize in making things that other people need.
+
+There is both talent and opportunism. So, while some people are born to be a particular B, others switch depending on what works best. So you can have societies with 40% bandits, and societies with 10% bandits. And there are tipping points where suddenly whole generations switch from old strategies to new ones as times change.
+
+Depending on various factors, one or other of the Bs will be in charge, aided by one or more of the other. By default, the bandits and the bureaucrats team up on the bakers, and ignore the beggars, who live in abject poverty. The only law is power and family. When the bakers -- who after all feed everyone -- begin to accumulate wealth and power, they slowly recruit the beggars and the bureaucrats into their ranks, and beat the bandits into a corner. As the bakers (the commercial middle class) get more power, they bring into existence what we'd consider the fabric of a modern state: stable currency, fair courts, representative government, commercial law, universal education, universal health, roads, water and food for all, housing for all, policing, and so on.
+
+Let's work through the various possible states of society, depending on who's in charge, and map them to current societies:
+
+* Bandits: Somalia, Syria (the bakers are on the run, and beggars).
+* Bandits and beggars: North Korea
+* Bandits and bureaucrats: United States, Italy
+* Bandits and bakers: Russia
+* Bandits, beggars, and bureaucrats: Zimbabwe
+* Bandits, bureaucrats, and bakers: Saudi Arabia
+* Beggars and bureaucrats: Cuba
+* Beggars and bakers: Belgium
+* Beggars, bureaucrats, and bakers: France
+* Bureaucrats and bakers: Switzerland
+
+The bakers haven't suddenly proven Darwin wrong and developed genes for altruism. They're acting totally selfishly, with a very different strategy from the bandits or beggars. The bakers need wealthy clients and stable suppliers. They need scale and growth, which transcends family and tribal ties. They need fair laws and courts to arbitrate, because conflict is bad for business. They need an educated workforce, and they need good infrastructure for transport so they can get their goods to market rapidly and safely. They need security. They need healthy neighbors because disease spreads.
+
+The bakers need all these things because they are good for business. As the bakers and bureaucrats build a better society, the beggars help them, and all except the most inflexible bandits switch strategies and join in the boom.
+
+Societies flip from state to state as they grow prosperous and develop a wealthy commercial middle class, exhaust resources, enter violent conflict with other societies, and so on. There is no inevitable path, just a set of states and events that push societies from state to state fairly predictably. Nothing here is new. Practically, the first written text was legal codes [https://en.wikipedia.org/wiki/Code_of_Hammurabi dating from 1,700 BC] and half of those cover contract law. Currency and banking date from 3,000 to 2,000 BC. Human society has been flipping between the 4B states since the dawn of history.
+
++++ How Geography Drives Society
+
+Now let's apply this hypothesis to different parts of the world. Bakers don't simply organize and get wealthy by being prettier and smarter. They organize around trade, which develops around two things: transport and markets. Initially, naturally occurring transport such as rivers, lakes, seas, and flat dry plains; and later, man-made transport such as canals, railways, roads, and airports. Markets mean cities, which means agriculture fed by fertile river deltas or plains.
+
+The economy that develops in any region depends directly on the natural transport it offers. On the highly crinkly coastline of an inland sea, with hundreds of huge cities fed by rich farmlands, it is possible to produce and ship goods to millions of consumers. Large-scale trade, backed by military power, could [https://en.wikipedia.org/wiki/Republic_of_Venice build an empire out of a single city]. Large-scale economies build large-scale political systems, and large-scale baker-bureaucrat societies.
+
+On the other hand, a jungle-covered country with no big cities and little in the way of natural transport will not develop a significant commercial middle class because there is no scope for trade. One can produce a thousand chairs, yet how to sell them, and who to sell them to? Societies that are isolated geographically and spread thinly over large landmasses do not develop industrial technologies: no glassware, no metallurgy, no precision instruments, no machines. At the same time, they don't develop advanced military weapons either. There is no need and no benefit in building warships in the middle of the desert, nor on an oceanic coast with no scope for trade.
+
+As we look at the world, we see that the better the natural transport systems and hinterlands, the larger the population concentrations and the wealthier the society, and the more the bakers and bureaucrats dominate society. In [http://www.zum.de/whkmla/histatlas/asia/haxasia.html Asia], Europe, America, and Africa, the most "developed" societies have always grown up around water, and the most "primitive" societies have always been the most distant from water. Compare Uzbekistan to Sweden, Texas to San Francisco, Chad to Uganda, Tibet to Taiwan.
+
+The apparent exceptions prove the general rule. Switzerland is land-locked, nonetheless it derived great wealth from its position on the Rhine, its internal lakes, and as a crossing point for Alpine trade.
+
+In fourteenth century Africa, the Manden Kurufaba empire of Mali controlled cross-Saharan trade in salt and gold carried on camels, or "ships of the desert." The Manden Kurufaba became so wealthy that when its king, Mansa Musa, traveled to Mecca, he spent so much gold that [https://en.wikipedia.org/wiki/Musa_I_of_Mali the price of the metal was depressed for a decade].
+
+Post-genocide Rwanda, another exception, has a booming middle class and economy. There, it seems to be driven by the determination of the elites to never again allow such a horror to occur, with help from China and the US, and pillage from Congo-Kinshasa.
+
+Northern civilization started in what is now Syria and Iraq, and spread east out to India, and west to [https://en.wikipedia.org/wiki/History_of_the_Mediterranean_region the Mediterranean basin]. Without exception, the Mediterranean states, from prehistory until modern times, were based on maritime trade fed by major rivers and based around major cities.
+
+So Europe was particularly rich in commercial middle classes who defended their precious institutions with blood. Over and over, as the bandits tried to gain power, the bakers drove them out. This may sound over-dramatic, yet the history of a country like France is basically one of bandits (the descendants of Vikings) [https://en.wikipedia.org/wiki/Hundred_Years'_War being driven out] by coalitions of bakers and bureaucrats, using beggars as cannon fodder. And bearing baguettes, one imagines.
+
+Conflict has been widespread throughout Europe wherever and for as long as there has been any significant population. And systematically, the baker coalitions have won. The last time the bandits were in charge in a European country was when Tito's Yugoslavia fell apart and bandits took over Serbia, then tried to conquer the rest of the region.
+
+So Europe's current political models are a direct consequence of these conflicts. We learned, long ago, to look after the beggars and turn them into assets, not liabilities. We learned to create space for the bandits, giving them symbolic power in government. Belgium, my home, has a long history of commercial city-states fighting for their independence, and today has [https://en.wikipedia.org/wiki/List_of_governments_in_Belgium six governments]. To me, that's directly related.
+
+Why and how do the bakers win? They need a few key things. Principally, they need freedom, and they need access to markets. When the bandits want to stop the bakers from taking power, their first tool is to block trade. Freedom can mean many things. My definition in [#freedom] is, "the ability to do interesting things with other people." And if you're a baker, that means to buy and sell, hire and fire, without undue taxes, tolls, delays, or theft.
+
++++ Extraction Economies
+
+When a country doesn't develop a commercial middle class, industrial technologies, a strong military, and strong institutions, it is particularly vulnerable to a certain form of theft that I call "extraction." This is when a bunch of foreigners land on your shores, buy up some local chiefs, chop down your forests, rip the minerals out of your soil, enslave a few generations, and eventually go home, leaving their half-caste bastards in charge.
+
+If you're lucky enough to live in a malaria-infested swamp, the settlers leave or die. If you live in a healthy, inviting landscape, you will be corralled into reservations in the worst parts of the country (those furthest from water, of course). Your land will be taken away by "treaty." Your rebels will be slaughtered by machine gun, and the survivors poisoned with alcohol. And your prettiest women will be taken as concubines. After a few generations, people will forget you ever existed, except as quaint memories.
+
+Extraction economies do not depend on a commercial middle class. There are no networks of trade. No one needs to read and write in order to carry rubies out of a deep mine. Educated middle classes make trouble. They form unions, elect honest politicians, and demand fair prices for their natural resources. Extraction economies don't just disregard the needs of the people; they actively oppress them. That is, for an extraction economy to operate at maximum efficiency, it must destroy the middle classes, and turn the mass of people into near-slaves.
+
+When a land has limited resources, the extraction economy will stop. When the trees are chopped down, farms spring up; and farmers are just bakers with mud on their boots. However, if the soil is rich in valuable minerals, the extraction economy can continue for generations, even hundreds of years.
+
+++ Fixing the Sick Men
+
+Whereas analyses based on cultural differences, religion, skin color, or endemic disease do not offer much hope for fixing the sick men of the world, the 4B hypothesis does offer an answer. Moreover, it's something we see happening today, in real time, across Africa and much of the world. It offers us an answer to fixing the sick societies of the world. Give the bakers freedom and opportunity so they can form commercial middle classes and fix their own societies. Bakers do not need gifts: that just reinforces the beggars. Bakers don't need guns: that strengthens the bandits. Bakers need access to markets and the freedom to trade in them. In today's world, that means cheap, fast broadband.
+
+Here's a claim: the quality of any society correlates directly to the performance/price ratio of broadband Internet in that country.
+
+There is still one unanswered question. What is the best form of government for a country that has warring communities, no middle class, and a history of violent politics? How does one solve a Haiti or a Congo-Kinshasa or an Angola? It seems painfully obvious that "elections" do not help, and have never helped. In these countries, the people are thinner and poorer than they were under previous dictatorships.
+
+Fake democracy and dictatorship will have the same result: the looting of natural resources and the treasury, economic failure, suppression and flight of whatever remaining middle classes there are. There have been a few "gentle dictatorships" that actually promoted commerce and the middle classes. They are so rare we can consider them outliers. There was Tito's Yugoslavia, Venezuela under Chavez, perhaps China.
+
+So what can the international community do when a country is unlucky? Would assassinating Hitler in 1929 have changed anything? The answer is no, it would have just created another martyr. Charismatic bandits are not that rare. How about foreign invasion and forced administration? It worked in Bosnia and failed in Haiti, Iraq, and Afghanistan. It's expensive, dangerous, and only makes sense as part of a smash-and-grab operation on the largest scale. It certainly doesn't fix broken countries.
+
+I think the solution to fixing failed states like Congo-Kinshasa is to recognize that a government, whether "elected" or installed by violence or bluff, does not by itself create a valid state. When we recognize a failed state as a bandit gang, we see that the problem is the bandits and their economic model.
+
+* The first step is to flag a country as sick when, like a person suffering from a mental disease, it becomes dysfunctional. We can measure that in terms of mortality and life expectancy, education, freedom of expression, and corruption.
+
+* The second step is to accept a doctrine of international intervention. Just as we can demand that our neighbors be treated for infectious diseases, we can demand that sick countries be made healthy again. It is bad for business and dangerous to have broken societies on your borders.
+
+* The third step is to intervene by hitting the leadership of the country. They should be targeted personally and without pity. If they funnel assets out of the country, banks that accept such funds should be prosecuted. If they leave the country, they should be arrested and charged for crimes against humanity.
+
+* The fourth step is to attack foreign businesses that are profiting from the situation. Anyone who sells them weapons should be prosecuted. Anyone who does business with the family of the leadership should be prosecuted. To change the behavior of an individual or a group, the only sustainable strategy is to change the economics. If it's unprofitable to be a thief, people will stop becoming thieves.
+
+* And lastly, there should be strong pressure for cheap, fast, unfiltered broadband. This should be the main condition of the relaxation of pressure. High Internet costs and censorship should be treated as crimes against humanity, and access to IP packets as a basic human right, along with free education, clean water, and freedom to travel.
+
+The reality is that we are still very far from this. The West has its own crises, its own bandits, and is immature in many ways. The next decades will be key. The violent racism that immigration provokes is a gold mine to politicians. The guilt and fear of getting too many chocolates, and eating them all, makes us northerners easy to mess with.
+
+Will western society embrace multiculturalism, or turn against it? Will Europe one day allow black Africans to travel freely as we expect to do? Will the US one day treat Muslims and Latinos as equal to Protestants and Germans? Or are we heading to a world of global databases, ethnicity chips, and facial scanners at every railway station and bus stop?
+
+At the heart is the question: Will digital society, which venerates diversity and multiculturalism, beat industrial society, which venerates paranoia and control? One can hope. It's far from inevitable. Those database and facial scanners are already there, and used 24/7.
+
+++ Summing Up
+
+In this chapter, we've looked at the ways in which the wise crowd can be turned upside-down to become a mad mob, and how classes seeking political or financial advantage often do this deliberately. In the worst cases, they create cult-like gangs around a core of bandits that can be extraordinarily destructive. Human social instincts, like knives, can be essential implements or deadly weapons.
+
+Were the bandits always in charge or was there a big shift in the last decades? I think we're witnessing a shift, at least of perspective. It used to be so hard to know what was going on between the walls of power. Now like all our walls, those walls are getting transparent. And we're shocked, //shocked//, to see the nice old men we trusted all those years are just like, if not actually interchangeable with, drug wholesalers, loan sharks, and other miscellaneous mobsters. Wasn't corruption meant for poor countries?
+
+The next chapters will look at three big areas where the old guard is fighting the new digital society. These areas are: freedom, privacy, and property. As so often, the real story is about people rather than technology, and it's cost gravity that drives the stories forward. Things get cheaper, and that shatters old assumptions and old arrangements.

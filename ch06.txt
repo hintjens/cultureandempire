@@ -1,0 +1,539 @@
+.bookmark property
++ Wealth of Nations
+
+> It owned all the lands, the wealth beneath, and the wealth above.
+
+After the heady mix of paranoia and drama from the last two chapters, let's look at something more sober and calming if not downright boring: wealth and property. These, like freedom and privacy, only make sense in the context of other people. Property is the main reason the State exists at all. The State defines property by law, and enforces its law through courts to create a free market. It builds its economy on the resulting market and derives its power from that economy.
+
+It was always so. To control England after their invasion, the Normans set a lord in a castle on each piece of land, extracting a yearly quota of knights or taxes. Land was the seat of feudal power. This lasted until the seventeenth and eighteenth centuries, when international trade became more profitable than agriculture. By the nineteenth century, the new industrialists took control of politics across the world, and the rural landowners were slowly impoverished.
+
+In this chapter, I'll start by exploring what wealth really is, where it comes from, and where it's going in our digital world. On the way, we'll see why governments and property laws exist at all, and why some forms of property, like patents, make us poorer instead of wealthier. I'll try to answer the question, "How much is digital society worth?" Finally, I'll try to convince you that the new wealth of digital society presents an existential threat to industrial politics.
+
+//The Culture seemed harmless. However, the Empire depended on its vassal masses. If these left to go to the Culture's cities, the Empire would starve, and it would die.//
+
+++ In Search of Meaning
+
+The dictionary definitions of wealth and property are, if technically accurate, devoid of any deep meaning. Wealth, we're told, is the abundance of possessions or money, or the state of being rich. Even without pausing for breath, I know this to be wrong by omission. What about knowledge and skills? Family? Friendships, contacts, business relationships, secrets, status, good genes? And who or what defines value?
+
+As with "freedom," my intent is to dive below the surface so we can see what's going on. Without a deeper meaning, we float on the surface with no clue as to the currents below. Like freedom, "wealth" and "property" only have meaning in terms of other people. Let me thus provide some simple yet functional definitions. I'll use these as the theoretical basis for the rest of the chapter:
+
+* //Assets// are things you have that are valued by other people. Assets can be tangible or intangible, more or less convertible, more or less portable, and so on.
+
+* //Property// is the exclusive right to control some assets. Property can be owned by individuals or groups. It can be backed by the authority of the State, or by other means.
+
+* //Currency// is a form of property that society accepts at the present time, as a medium of exchange. It is synonymous with "money."
+
+* //Wealth// is the balance of our assets minus our liabilities.
+
+In some cases, property and the underlying asset are the same thing. In other cases, the differences are profound. Although people are usually assets, they are not, generally, property. Though more money can make us wealthier, some assets, like family and friends, are much more valuable. A lonely man with a lot of money is not wealthy.
+
+Some other terms I'll use are //convert//, //transfer//, and //trade//. We convert assets into other forms and acquire property by transfer or trade. For example, my assets include my time, talents, expertise, and good health. I can convert these into currency by working for others. With that money, I can buy a month's exclusive use of the apartment I rent, which is an asset.
+
+Over time, societies may collect more accurate knowledge and truths, more people, and more arable land. They may build up infrastructure, cities, markets. They may discover more natural resources. All these will add to their wealth. They may also lose forestation, topsoil, people, knowledge, and thus become poorer.
+
+We can measure a society's success objectively by looking at countable indicators of the quality of life: life expectancy, working week, levels of violence, levels of illness, and suicide. Would you rather live longer or have more money? Even my children know the answer to that one. By such measures, global human society is becoming wealthier. World average life expectancy [https://en.wikipedia.org/wiki/Life_expectancy in 2010 was 67], while a hundred years ago, it was 31, up from 20 in the Neolithic, 28 in classical Greece and Rome.
+
+++ Why the State Exists
+
+A classic libertarian argument is that the State, though evil and expensive, exists because it is too powerful to remove. I'd like to put people who seriously believe that into a stateless region of the world for a week or two, such as Lebanon in 1980, Somalia in 2000, or any major slum that the police do not patrol.
+
+The State is a human universal because it answers an old problem in the simplest and usually cheapest way. This core problem is that we men (I can't speak for women here) argue and fight over access to females, territory, status, and property. As a matter of survival, we don't back down from fights unless we're entirely outmatched. Further, when someone attacks us, the winning strategy is to hit harder, not retreat (again, unless we're outmatched). This entirely logical strategy has a disastrous outcome. Small arguments escalate into major tit-for-tat violence, until one side is too weak to fight anymore.
+
+It's this simple dynamic that powers many civil conflicts between previously peaceful neighbors. It can turn small arguments into nationwide destruction, as we saw in Lebanon from 1975 to 1990, or Somalia from 1991 to the present day. Such conflicts can be impossible for outsiders to understand because they occur between clans and fluid extended families, rather than political blocks. One feature is consistent, however: the lack of a State strong enough to intervene with force.
+
+The State grants itself a monopoly of force, which it uses to define a set of laws and enforce them through criminal and civil courts. If a family squats on another's land, the State will evict them, not the owners. If one man shoots another dead, the State will punish him, not the dead man's family. If a man rapes a woman (arguably a form of theft), the State will prosecute him, not the woman's family.
+
+Laws, courts, and police are tools for reducing violence by intervening in conflicts at the earliest possible moment and punishing the aggressors. To be utterly cynical, it doesn't really matter who is innocent or guilty as long as there is no option for either side to take matters into their own hands.
+
+A successful State reduces violence over time, and thus we tolerate it and pay for it. Even a State that steals from its people on a massive scale -- like the Para-state -- is better than no State at all.
+
+++ Arbeit Macht Frei
+
+I'm a firm believer in the free market. I'm not a fan of free market economists. Here is how [https://en.wikipedia.org/wiki/Economic_freedom Wikipedia sums up] the free market view of private property rights:
+
+> According to the free market view, a secure system of private property rights is an essential part of economic freedom. Such systems include two main rights: the right to control and benefit from property and the right to transfer property by voluntary means. These rights offer people the possibility of autonomy and self-determination according to their personal values and goals. Economist Milton Friedman sees property rights as "the most basic of human rights and an essential foundation for other human rights."
+> With property rights protected, people are free to choose the use of their property, earn on it, and transfer it to anyone else, as long as they do it on a voluntary basis and do not resort to force, fraud or theft. In such conditions most people can achieve much greater personal freedom and development than under a regime of government coercion. A secure system of property rights also reduces uncertainty and encourages investments, creating favorable conditions for an economy to be successful.
+> Empirical evidence suggests that countries with strong property rights systems have economic growth rates almost twice as high as those of countries with weak property rights systems, and that a market system with significant private property rights is an essential condition for democracy.
+> According to Hernando de Soto, much of the poverty in the Third World countries is caused by the lack of Western systems of laws and well-defined and universally recognized property rights. De Soto argues that because of the legal barriers poor people in those countries can not utilize their assets to produce more wealth.
+
+It sounds sensible, doesn't it? The theory of strong private property rights, as the basis for democracy and prosperity is attractive. It appeals to our self-interest and seems to fit the empirical data. The West emphasizes private property, and also has successful economic systems and democracy. The US takes this theory to the extreme, and is the wealthiest, most democratic nation on earth. Surely this proves the theory.
+
+To nullify any theory, it's sufficient to find a single exception. So let's take a secure system of private property rights that breaks this theory. For hundreds of years, on and off, the West had a property system called "slavery," which allowed one person to own another. It was a very strong system of rights, backed by law and the full force of the State. It made many very wealthy, and the proceeds of slavery were arguably the seed capital for the industrial revolution.
+
+Yet we abolished slavery, and few would argue that abolition was a mistake. Why did we abolish it? Certainly the work of abolitionists in uncovering the hidden costs of slavery was crucial. However, the end of slavery in the Americas came, I think, simply because it did not work very well as an economic system, once mechanization ended the profit margins on manual labor. Cost gravity, again. However, even disregarding mechanization, slave societies are poor relative to societies where everyone is free to contribute, and where no infrastructure of repression is needed.
+
+The Union beat the Confederacy in the US Civil War not because of superior strategy, or better generals, or the Will of God. It was simply much more powerful. Its free market attracted more immigrants, and gave them more freedom to organize socially and economically. It had better infrastructure. It could produce weapons, medicine, and soldiers significantly cheaper than the South could. It could build and maintain a powerful navy. In a war based on slaughter, the South could simply not keep up with the industrialized economy of the North.
+
+The US does have a large free market, and it benefits greatly from immigration and the control of abundant natural resources. Its military spending is more than that of the dozen next biggest spenders combined. However, the US is like a lonely rich man: wealthy in some respects, painfully impoverished in others.
+
+The US ranks 33rd in [https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy global life expectancy], neck-and-neck with Cuba. It actually sits right between the western European countries, all in the top 30, and those of the ex-Soviet block, that follow it.
+
+The centuries-long experiment in capitalism has thus produced clear empirical results. US worship of strong private property rights beats slavery, yet is barely better than Soviet-era central planning. If the proof of the pudding is in the eating, the right-wing economists are chewing on something cold and rubbery.
+
+The blind worship of strong private property rights has allowed many abuses. Broadly, it is an excuse for the rich and powerful to steal public assets and then claim they are the "wealth creators." It has been the plank for many a coup, invasion, and even genocide on grounds to stop "socialist" regimes and their "mad" policies. It blessed the "greed is good" mantra that eviscerated business ethics in the last decades. It protects the patent system from scrutiny and gives it space to grow. It is the curtain that hides the malevolence of the Para-state.
+
+And it is fundamentally and powerfully wrong. Wealth does not come from creating more private property. //Wealth comes from other people.// It is true that the concept of property can protect, capture, and carry that wealth. Yet, property does not create wealth any more than a bucket creates the water it holds.
+
+How could so many leading economists be so wrong? The US should be heaven on earth and yet is instead tottering towards corrupt totalitarianism. It is becoming a crony State run by and for billionaires, no matter the cost to wider society.
+
+Let's look at the theory again, specifically its notion that a free market is one without coercion. The nineteenth century German economist Prince-Smith wrote, "//Any claim for protection of private property is a demand for the intervention of the power of the state.//" Private property can //only// exist thanks to government coercion of one kind or another. Some forms of private property, like slavery, or patents, have very high coercive costs. A "free" market is not one without coercion. It is one where the coercion is accurate and fair.
+
+And here we come to the core flaw with the theory. It claims that private property is always good, and public property is always bad. It claims we will not invest unless we can own the results privately. It was Margaret Thatcher's belief that "there is no such thing as society. There are individual men and women, and there are families" cast into economic policy.
+
+I've shown in earlier chapters how we humans can be extraordinarily good at working together. Not only is society real, it defines the human experience. We invest in public assets for entirely selfish reasons on such a massive scale that it takes a special kind of blindness not to see it. Any large-scale investment needs the right mix of public and private assets. Observe the Internet -- the largest and most effective global infrastructure ever built -- constructed as millions of private properties built on public assets (its standards and technologies).
+
+In fact, an efficient free market absolutely depends on public assets. If you privatize the playing field, the owner [https://www.google.com/search?q=railroad+barons will tilt it in his favor].
+
+All law is an answer to a set of problems. Stronger private property law is a brilliant, rational answer to the wrong problem: how to encourage individual investment and how to allow the wealth creators to escape the shackles of a parasitic society. The actual problem is: how to protect real investments from cheats (both the skinny beggars and the fat bandits).
+
+As I showed in the story of sub-Saharan Africa, endemic poverty comes from distant, fragmented, and unfair markets. No stronger property laws will open more ports, move Africa closer to Europe, or break the grip of the criminal elites and their foreign allies. In fact, the demand for "strong property laws" can have the perverse effect of privatizing common assets such as plant genes, malaria research, and natural resources -- in effect destroying, not creating, wealth. Congo-Kinshasa, one of the wealthiest nations on earth in natural resources, ekes out a life expectancy of 49 for its citizens, third last out of 193 countries. Yet it has some of the strongest property rights imaginable, for the friends of the regime.
+
+Strong private property laws are an outcome -- not the origin -- of a successful free market. The economists who developed the flawed theory saw poor countries with weak protection of private property, and assumed this was the cause of the poverty. It fits an anti-socialist political bias and confirms the West's superiority complex. It played into the hands of the wealthy, who got justification for yet more profits. And even economists need their grants, wealthy donors, and tenure. The right-wing economists missed, or ignored, the fact that poor countries were also hostile to trade, with restrictions on travel, poor natural infrastructure, bad communications, monopoly control of the market by state enterprises, and, often, extraction economies.
+
+++ Property as Game Theory
+
+Perhaps I am being unkind to the right-wing economists, and their confusion of cause and effect. They did get at least one thing right: property laws //do// make a difference. Bad property laws can crush us, and good property laws can raise us up. I'm absolutely a fan of good and fair private property rights. However, I've also experienced, personally, how destructive bad property rights can be.
+
+There is no single law on property. There are many, many forms of property in a modern society, each with their own set of rules. These rules have been worked out by trial and error over thousands of years. However they always have one thing in common: they are written by powerful people for their own benefit. Sometimes that matches the greater good, and sometimes it does not. How can we tell the difference without the trial-and-error that so often results in dire consequences? Did we really need centuries of war in Africa leading to tens of millions dead, and a major civil war in the US to prove that slavery was a bad idea?
+
+If we see property as wealth by definition, it is very hard to say, "There are bad forms of property." That would be like saying, "There are bad forms of money." The notion would be ridiculous. Surely all property is worth at least //something//. Property with a negative value? Perhaps one rotten house, or polluted piece of land, or even a dying city, yes. A whole class of property? Unpossible!
+
+However, if we see property as monopoly control over some assets in order to stop cheats, then we can definitely measure the pros and cons of that monopoly. People are assets, yet there is a profound difference between assigning the monopoly of control over a person to that individual (freedom) or to another person (slavery).
+
+It becomes easier to measure the costs and benefits of property law once we understand creating de jure property titles does not create assets except in a corrupt legal system. Property can be a container for assets. However, those assets exist with or without property law. Let me make this clear by comparing two situations.
+
+* The city owns a large apartment complex built to house poor people. Under a new right-wing mayor, the city sells the apartments to their owners at a low cost. The new owners repaint and repair their apartments, and sell them to others at the higher market price. Have we now created assets? We've certainly created property. However, any assets we've "created" has actually come from someone else's pocket. That is not wealth creation, indeed it is theft.
+
+* There is a shantytown just outside the city, where other poor people built rickety houses. Under a new left-wing mayor, the city grants long-term leases to the inhabitants and provides them with subsidies to buy better materials. It provides water and electricity to the area, creating a new district. The old tin homes start to be replaced with brick houses. Have we created assets now?
+
+So a good form of property is one that wraps up existing investments and assets, and protects them from abuse. It's not the selling of a home at a higher price that creates wealth; it's the building of a house close to other homes, and the creation of a society. All rules -- and especially property laws -- must be resistant to cheats. Otherwise, people will not play. When a market tolerates cheating, people work around it and eventually abandon it. A favorite tactic of cheats is conflict and confusion, because in a legal dispute, the more powerful party almost always wins.
+
+A good property rights system steers cheats away and draws in honest investors. It has these features: it gives proportional title over a real investment; it has explicit and unambiguous boundaries; it is cheap or free to acquire the title; it is cheap or free to enforce; it does not conflict with other assets or property rights; and it has a low or negative cost to the rest of society.
+
+By "proportional title over a real investment," I mean that the title should match the investment in a sane way. For example, if I clear one small patch of jungle and thus get title over 10 acres of land, that is disproportionate. If I clear an acre and get title over that acre I cleared, that may be fair.
+
+Nowhere on my list is "encourages investment" because that is a bogus criteria based on a misreading of the human spirit. We compete obsessively, it's in our genes, and we'll simply focus our attention where we think it will pay off best. Artists won't suddenly stop making art because they can't take imitators to court.
+
+For the most part, property systems that score high are never in the news because they simply work. Trademark law mostly works very well. It gives title to existing investments (business goodwill) and has no cost to society, yet protects the investor from cheats. It is cheap to acquire and easy to enforce.
+
+When a property system is often in the news because of lawsuits, that is a good sign that it has problems. Coercion and law only go so far. It is especially significant when you see wealthy lawyers suing ordinary businessmen: this should send alarm bells ringing up and down.
+
+++ A Rough Timeline of Property
+
+Two hundred thousand years ago, modern humans went hunting and foraging their way around the planet. When your tribe moves on foot from campsite to campsite every few days, physical goods are liabilities rather than assets. You can make new stone tools, shelters, and other necessary things with less effort than it takes to carry them around.
+
+I asked my young daughter this question: "If you were in the park with your friends and you had five ice cream cones, what would you do?" She answered, "I'd share them with my friends." I then asked, "If you had a lot of money, would you share it?" She replied, "Of course not." I then asked, "If you wouldn't share the money, then why would you share the ice cream?" She thought for a while and answered, "Because I couldn't eat it all myself."
+
+Likewise, a successful hunter who has no way to preserve his meat has to convert it immediately by sharing it with others. However, give that same hunter a fridge or a bag of salt, and suddenly he may see the logic of not sharing. We don't need to be taught to accumulate assets or know the difference between dried meat (highly convertible, yet perishable) and social credit (non-perishable, though not convertible).
+
+Ten thousand years ago, we invented the wheel and the ability to carry our possessions around on wheeled load-carriers. Suddenly, our things became assets instead of liabilities. We could invest much more time in tools, weapons, jewelry, clothes, tents. I assume, though can't prove, that property was de facto; you owned what you held, whether you made it, found it, traded it, or stole it. I am absolutely certain that the hours and days invested into a tool or jewelry or clothing or weapons were not treated as disposable.
+
+Four thousand years ago, we invented agriculture and built the first cities and empires. Suddenly, we could accumulate wealth beyond what we could use individually or in a clan. We rapidly invented writing, number systems, money, de jure property, written laws, courts, and a civil service.
+
+The first currencies were precious objects like [https://en.wikipedia.org/wiki/Shell_money cowries], or rare minerals like salt and gold. These became symbolized and regulated over time. Gold was shaped into standard bars, marked with the sign of the ruler, then into smaller pieces, then coins of various metals. Eventually these were replaced by paper money.
+
+A currency doesn't have to be backed by the State; however, it must be convertible. A state-backed currency loses value if the State prints too much of it, as States tend to do eventually. A natural currency stops being convertible if it stops being rare. The best currencies are highly portable (I can carry them with me), anonymous (I can spend them without others discovering), and scalable to any size of market.
+
+Two thousand years ago, we invented clean water, hot baths, social security, highways, concrete, and civil engineering, and built continent-wide trading empires. We invented public and private law as the basis for modern legal systems, and the free market. It all went well except for the lead in the water.
+
+Two hundred and fifty years ago, we invented the steam engine and decided it was more profitable to build factories than grow sugar. We invented "intellectual property" on the basis that if we didn't own the ideas in our minds, we would stop thinking.
+
+About five decades ago, we invented the Internet as a few megabytes of technical protocols anyone could implement for free. The notion of open and free protocols was radical at the time. By the end of the twentieth century, investors were pouring billions into businesses whose only model was "spend money." For many people, the main reason to go on line was to download stuff for free and annoy the music and movie industries. Eventually, most people went on line just to meet and talk with other folks, building huge social networks of all shapes and sizes.
+
+Some of digital society's most valuable assets are those social networks. You might think they're owned by the businesses that operate them. You're wrong.
+
+++ The Most Liquid Asset
+
+MySpace (remember that?) had a peak valuation of $12 billion in 2007. To put this into context, the price of land in Paris, France is about $1.2 million per acre (EUR 240 per square meter, according to Pierre-Philippe Combes, of Aix-Marseille University). So the 20,000 acres of metropolitan Paris is worth about $26 billion, not including the infrastructure, buildings, and businesses on that land.
+
+Imagine all of Paris south of the Champs-Élysées and Seine River -- 9,000 acres -- owned by one company, supporting an immense amount of social and economic activity. By 2006, MySpace had 100 million accounts and was the most visited website in the US, even more so than Google. It wasn't just inhabited by teenage girls. Every musician and his or her dog used MySpace for their fan clubs.
+
+Five years later, in 2011, MySpace was sold for $35 million. In early 2013, its owners launched a facelift that demolished the last remaining buildings and evicted their tenants. Before that, Britney Spears had about 1.5 million friends on MySpace. After, [http://techcrunch.com/2013/02/02/myspace-squandered-the-only-thing-it-had-left/ she had fewer than 7,000].
+
+An acre of land in rural France costs about $6,500. That puts the value of the 9,000 acres of virtual Parisian soil at about $58 million. In effect, MySpace's various owners managed to raze half a city (and not just any city, the City of Light!) and poison the earth so that it was worth less than empty farmland.
+
+The MySpace disaster is a textbook example of smart people doing stupid things. There are many technical explanations for what went wrong, when in fact it was really simple. Facebook built a better city, and people moved. It took a few years, yet everyone migrated and took their assets -- their friends and connections -- with them. Facebook is, in 2013, about six times more valuable than MySpace was at its peak.
+
+What we seek, when we move, is a better market for our assets. That is, easier and cheaper convertibility, and better and cheaper authority. This is why the freedom to leave a corrupt authority is so important. It is essentially the only force that promotes honest competition between authorities.
+
+++ Copyrights
+
++++ How Good is Copyright Law?
+
+The word "copyright" only makes sense when you prefix it with "exclusive." Copyright gives a monopoly on the right to distribute some creative work. Originally it covered books, and today it covers any creative expression that has tangible form. Like all laws, copyright law comes down to convincing a judge or jury.
+
+From the start, copyright law was about protecting distributors more than creators. An author writes a book, which is an asset. The copyright on that book is the property. The author can, and usually does, sell the property to a publisher, thus selling off the right to distribute his or her own work.
+
+Let's see how copyright fits our criteria for a good property system, ranking each criterion from 1 (worst) to 10 (best):
+
+* It gives proportional title over a real investment: 4
+* It has explicit and unambiguous boundaries: 9
+* It is cheap or free to acquire the title: 10
+* It is cheap or free to enforce: 6
+* It does not conflict with other assets or property systems: 4
+* It has a low or negative cost to the rest of society: 2
+
+The overall score is 35 out of 60. It's not bad, not great. Copyright has some major issues. It is not proportional, lasting far too long. To enforce copyright against a determined cheat, you still need to hire a lawyer. It conflicts with digital society's social networks, which depend on sharing. Even a marginal amount of copyrighted work in a collection of culture makes the entire culture dangerous to share. The cost to society is high, as distributors can keep prices for works much higher than the real cost of distribution.
+
+Copyright law is based on the theory that reducing cultural sharing is good for society, because the distribution monopoly encourages creators to create. It's a logical theory if you are a certain kind of person.
+
+At best, we can claim that copyright motivates distributors to actively seek out and develop talent that would otherwise wander, feeble and unknown, in the wide world. It provides distributors with an assurance of profit, so they can pay musicians, artists, movie stars, and directors for their work. The outcome seems to be, however, that artists either die from drug overdoses at 28, or live in near starvation, cursing the labels. A cynic might claim that both these extremes produce interesting art. I suspect most creative people would prefer something in the middle.
+
+The Netherlands used to [https://en.wikipedia.org/wiki/Artist_subsidy_(Netherlands) maintain a policy] of allowing people to register as official artists. They got a stipend, in return for producing three creative works each month. Paintings, sketches, sculptures, Found Art, anything material. When the government ran out of warehouse space to store the millions of pieces of...trash, they finally came to their senses and canceled the program.
+
+You cannot market-force the creative processes any more than you can market-force a child to dance to music.
+
++++ A Replacement for Copyright
+
+In recent years, creating and distributing works has become so cheap that the traditional concept of copyright no longer suits. Publishers need no protection from cheats because their investments are close to zero. Indeed, sane publishers realize that the greatest threat isn't people redistributing copyrighted works, it is the public ignoring them.
+
+Speaking as an author, I'd argue that creators do need some protection from cheats; that is, people who copy their work and claim it as their own or mix it into proprietary work. As a creative person, your only asset is your reputation. When people pass off imitations as authentic, that is damaging. Yet as modern digital creators, we absolutely depend on people sharing our content, remixing it, adapting and improving it. Otherwise, we starve.
+
+Can we fix copyright law? Let me try. Consider that the asset is the work itself, that sharing is essential to digital culture, and indeed it's the only way to create a real hit. The 2012 hit "Gangnam Style" was memorable to me for two reasons. One, I was in Gangnam (a district in Seoul, South Korea) when the song came out. Two, it was the subject of innumerable imitators, literally thousands of people making their own remixes with the same music on top of their own video, or their own music and video. The song was a massive success and propelled its singer, Psy, to global fame and fortune.
+
+The YouTube remixes and the record label's wise though unusual policy of allowing them were the keys to Psy's fame. Most labels would have hit remixes with Digital Millennium Copyright Act (DMCA) violations to take them down. Still, one thing the label did not tolerate was people re-hosting the same video. There was one original, clearly labeled, and a thousand imitators doing the marketing.
+
+This is the model I propose. Let's call it "Creative Title," or CT:
+
+* Automatic CT on any digital work, identified by content, a unique title, and author.
+* Clear attribution by the hosting site (YouTube, for instance).
+* Automatic removal of any identical copies, or copies claiming the same title or author.
+* Guaranteed right to remix any work as long as a different title is used.
+* No expiration on CT; it can last forever, as long as the user account exists.
+
+That's it. The whole thing can be implemented by content hosting sites without any state intervention -- no courts, or lawyers, or police. The main problem is that it could conflict with existing copyright. That can be solved by mandating up-front that all work put into the domain must be correctly licensed.
+
+We can do this for any digital work: text, music, images, video, software. We can do this today by using a mix of a share-alike license (like the Creative Commons Share-Alike license, or the GPL) and traditional trademark. This is what we do in the ZeroMQ communities for the software we make. However, with the backing of content hosting sites, we could dispense with trademarks.
+
+Let's see how this would work in practice. A studio makes a new movie. They upload it to YouTube (obviously, because how else would they distribute it?) on the official studio channel. People immediately make their own versions with fake soundtracks, remixes with other movies, and so on. It's all tolerated, even encouraged, as long as they don't use the same title. The movie goes viral and gets a billion views. The advertising and referrals earn the studio $100 million. Their channel sells toys, gadgets, and other merchandise, which earns them several times more.
+
+Or, I upload a new software project to GitHub. Someone forks that and makes a patch. I merge their patch back into my work. They publish their project under my title, and it gets taken down. They republish it under a new title, and it remains there. All this was possible without any need to define a license, argue about ownership, or worry about mixing proprietary code into an open source project.
+
+It is in fact easy to fix property systems when you realize what they should be doing. The hard part is fixing a system when every justification is a partial or total lie. "Without life-plus-70-years copyright, there would be no incentive to create" is a lie, and debating copyright terms (Is 50 better than 70? Why not 5, or 1,000?) just reinforces the lie.
+
+Instead, to fix a property system, look at the real assets and investments of society at large, and then look at the cheats and how they work. Then make it as cheap and automatic as technology allows to protect assets and investments from cheats. More often than not, the cheats are individuals or companies who look to capture investments made by wider society.
+
+Speaking of cheaters and their lies, and capturing the work of many for the benefit of a few, let's look at the patent system, a glorious example of a property system done wrong. (Not "gone wrong," since it is working essentially as it was designed in the mid-nineteenth century, making lawyers and cartels wealthy by taxing wider society to use essential technologies.)
+
+++ Patents
+
++++ How Good is Patent Law?
+
+There are towns in Texas where [http://www.newyorker.com/reporting/2013/08/12/130812fa_fact_stillman?currentPage=all?mobify=0&intcid=full-site-mobile&mobify=0 the police may follow you] if you are an out-of-state driver, black, or Latino. They may stop you on the pretext of driving too close to the white line, staying too long in the left lane, or other imagined offenses. They will ask to search your car, and then claim to smell marijuana. If they find money, jewelry, or even an iPhone they like, they will seize it and possibly your car, too.
+
+They will tell you, "We are seizing your property since we believe it is being used for a crime." Then, they will tell you, "We will also file felony charges against you." If you are traveling with young children or babies, they will tell you, "We will also seize your children and hand them to Child Protective Services." However, if you sign a forfeiture and hand over your valuables, you will be free to leave. Whether you are actually charged with a crime or not makes no difference. The State files a civil lawsuit against your property; if you want to fight that, you must pay your own legal costs.
+
+Some police departments get 40% or more of their funding from civil forfeiture. In some states, profits sometimes go to charities and then the abuses are not so marked. Often the profits are spent on the police themselves, including bonuses for officers involved. It is a form of legalized piracy -- highway robbery by the powerful on the weak -- using the cloak of the State.
+
+The patent system is somewhat like this, though worse. Let's back up for a second and see how patent law scores on our ranking system. It gives disproportionate title over paper-thin investments; it has fuzzy and even cryptic boundaries; it is expensive to acquire; it is expensive to enforce; it conflicts with other assets and property systems to an absurd degree; and it has a high cost to society. I give it a score of 2 out of 60, and that's only because my scoring system doesn't do negatives.
+
+Let me back up further and explain what a patent actually is. It is the exclusive right to use some idea or knowledge (also known as the "invention") in products and services. The patent system deifies the "inventor" and the "invention." The patent has a list of claims, which describe the specific uses of the idea that the claimant wants to own. Patents are checked by examiners, who reject or grant them. Examiners tend to assume that a bad patent will be caught by the courts. The patent is then used to threaten businesses into paying license fees, exiting the market, or accepting other settlements. Patents are judged by specialized patent courts (in the US and soon in Europe), which tend to assume that an examined patent is valid until proven otherwise.
+
+Patents have a long and contentious history. Very roughly, they got their modern form around 1850 to 1870, first being abolished and then reinstituted in Western industrial countries. The main arguments for patents were, and are: they protect long and arduous investments from copycats; they encourage investment in new products; they stimulate research and development; they protect small innovators from large predator firms; they are a fair and natural reward to inventors; they are a reward for disclosure of inventions; and they are a reward for documentation of knowledge.
+
+None of these arguments stand up to real scrutiny, nor does empirical data back them up. The largest holder of software patents is IBM. Do you know of a single successful software product they have ever made using their patents? The largest and most successful software system ever built was the Internet. Not a single of its protocols is patented.
+
+The patent industry tells so many lies that it's hard to pull them apart. The core lie is that mythological inventor. As I argued in [#community], we don't invent solutions so much as discover them, and it takes a society to do this, not individuals. The basic tenet of a patent -- namely that a single person or company can create knowledge -- is false. Even in the temples of research, such as pharmaceutics or genetics, it's a clear fact: researchers work by sharing knowledge, not hoarding it. The [https://en.wikipedia.org/wiki/Human_Genome_Project Human Genome Project] beat privately funded research in a race to publish sequences before the commercial teams could patent them.
+
+As with copyright and culture, the only way a society can improve its technology is to share and remix. It does not matter how much you bribe your researchers. If they cannot share, they cannot innovate. Have you seen the latest smartphones from North Korea?
+
+Products and markets and other people are how we test that some knowledge is valid. We don't use some magical process of "invention." Patents claim that discovery by the market does not exist, and if it does, it is piracy.
+
+The lies go much further. A patent is only as good as the innocent infringers it can catch. Patent attorneys write patents to be as vague as possible, inventing new language for old concepts, and using any other tricks that make it hard for businesses to avoid infringing.
+
+In [http://www.patentlyo.com/patent/2013/08/judge-plager-construe-ambiguous-terms-against-the-drafter.html a 2013 patent case over diaper elastics], one of the judges wrote, "...it appears that claims are drafted with a degree of indefiniteness so as to leave room to later argue for a broad interpretation designed to capture later-developed competition." The extremely fuzzy boundaries of a patent mean that litigation is common and expensive. Just because you license patent A does not mean you are safe from patent B. A common technology like video encoding may have hundreds of overlapping patents.
+
+Patents are expensive to buy and expensive to enforce. To write and file a patent application costs around $10,000 to 20,000. To defend it against low-level challenges can cost half a million. To defend it against major challenges, tens of millions. This makes patents a game for the rich. Small product-making firms that try to use patents tend to find themselves in hot water. Acquiring a patent is like painting a large target on your back. If the patent is worth anything, you can expect to be sued into handing it over.
+
+And each "successful" patent, that pinnacle of a strong personal property right, comes at great cost to society. The Australian CSIRO research institute acquired four weak patents on WiFi and [http://arstechnica.com/tech-policy/2012/04/how-the-aussie-government-invented-wifi-and-sued-its-way-to-430-million/ extracted $430 million] from the electronics market. Everyone in the industry knows that CSIRO's patents covered existing technology. However, the patents covered a widely used wireless standard with many sitting ducks in its territory.
+
+The first lawsuit hit a small Japanese wireless company, Buffalo. CSIRO filed their case in a patent-friendly Texas court. The judge rapidly ruled against Buffalo, and issued an injunction to ban their products from the market. Buffalo settled, and the industry followed.
+
+CSIRO doesn't make products. Nor do any of the other 10 or so firms claiming patents on the 802.11 WiFi standard. The end result is that firms like Buffalo that are doing real innovation are taxed by private interests who make no products and do no innovation at all.
+
+In the worst cases, where patents hit a really crucial area of technology, cost gravity slows down for two decades while the monopoly owner tries to bully the industry into licensing deals. It happens over and over, from steam engines to touch screens. Patent holders and their wealth offer such a powerful example of the "success of strong private property rights," and the costs remain hidden. Who is measuring expected cost gravity, and raising the alarm bells when it doesn't happen?
+
++++ Answering the Pro-Patent Arguments
+
+Now let's give the pro-patent arguments a fair and open trial before we take them out back and shoot them. You will often hear these arguments from people who deliberately or credulously support the patent system.
+
+//They protect long and arduous investments from copycats.//
+
+I already explained why patents don't protect real investment from copycats, and rather, interfere with a free market in knowledge. In terms of economic theory, patents are as solid as blowing up bridges and highways to stimulate local markets.
+
+//They encourage investment in new products.//
+
+Businesses sometimes claim that without patents, they would not invest. This is trivially falsified by markets such as fashion and food that have no such protection and yet massive production. The first to market wins. Firms that patent heavily tend to stop making products. Monopolies do not build wealth.
+
+//They stimulate research and development.//
+
+Research institutes such as CSIRO claim that patents encourage R&D. Innovation comes from many small steps and many participants -- not research institutes, which I believe are largely bogus constructions that pander to the egos of academics and politicians. CSIRO's windfall paid for nice cars, higher salaries, and first-class fights.
+
+//They protect small innovators from large firms.//
+
+This is only true if the small patent holder is a troll, like CSIRO. If it is a product-making firm like Buffalo, holding patents makes it a target for aggressive lawsuits designed to prise out the patent. If you make products, you most likely infringe on other patents.
+
+//They are a fair and natural reward to inventors.//
+
+There is no such thing as individual inventors. For sure, people discover solutions, yet that discovery happens on a wide front. Patents are assigned to specialists in patent law who happen to have staked first claim.
+
+//They are a reward for disclosure of inventions.//
+
+Knowledge that could be kept secret or never discovered by others would not be patented. By necessity, a patent covers knowledge that others already have, or will discover. Patenting encourages secrecy and hoarding, not disclosure.
+
+//They are a reward for documentation of knowledge.//
+
+You could simply pay people to document knowledge. A 20-year monopoly on some knowledge simply because you wrote it down on paper seems disproportionate. Wikipedia is an example of a much cheaper way to collect knowledge.
+
++++ Costs to Society of Patents
+
+Patent law has high costs to society. What is the cost of 20 years' slowdown of research into solar energy? What is the cost to the market of extracting $430 million in private taxes in an area -- communications -- that is utterly essential to the progress, if not the very survival, of our species? More than that, it is a corrupt form of property that encourages a psychopathic "might makes right" view of the market where private profit is always good, no matter the cost to wider society. It drives wealth from the many to the few, and creates concentrations of power that corrupt.
+
+Michele Boldrin and David K. Levine, in [http://levine.sscnet.ucla.edu/general/intellectual/against.htm "Against Intellectual Monopoly"], write acidly:
+
+> A realistic view of intellectual monopoly is that it is a disease rather than a cure. It arises not from a principled effort to increase innovation, but from an evil combination of medieval institutions -- guilds, royal licenses, trade restrictions -- and the rent-seeking behavior of would be monopolists seeking to fatten their purse at the expense of public prosperity.
+
+> This cancer is attacking the most vital centers of our economy: metastasis is near and so it is time to face the intellectual monopoly threat squarely, and to take action.
+
+CSIRO's patents (Thank you, US Patent and Trademark Office!) turned it from a place to stick semi-retired academics into a gangster outfit. Its "success" will modify Australian policy in favor of stronger patent laws and more investment in banditry. The decent, productive sectors of Australian society will have to fly economy class, lose political support, and find themselves taxed by the gangsters.
+
+More than that, the attorneys who made this happen will get jobs in the Australian patent office. They will be the ones defining state patent policy. They will lobby for expanded scope of patents, enforcement of patents on trading partners in Asia, unification of the US and Australian patent systems, and so on. When they have completed a few years in that role, they will find themselves hired as top patent advisors by large firms. This is how the patent establishment has grown and survived over the last century: by pouring money into policy and then reaping a hundred times back from the market. This "revolving door" is a core mechanism of the patent industry.
+
+Private property has such sacred power that patents can easily trump competition law. Creating a cartel to fix prices is highly illegal. If the milk producers tried that, they would go to jail. When the phone companies agree to license key patents thereby excluding competitors, the antitrust regulator can do nothing. Patents are the only reason, when I drive across the border from Belgium to France or the Netherlands, I pay EUR 3.50 per megabyte of mobile data versus EUR 30 for my "2.0 GB + unlimited phone calls" plan.
+
++++ A Replacement for Patents
+
+The patent system has no function other than to enable gangsters dressed in suits to call themselves "honest businessmen." There seem to be a lot of bandits in power around the world, so it's highly unlikely that our current crop of leaders would see the patent system as "bad." Sure, it steals from the poor to give to the rich -- what's the problem with that?
+
+A replacement for patents should focus on the investment in products and the knowledge accumulated by small firms. Instead of allowing monopolies, a better system would make them illegal by mandating that:
+
+* Any product sold on the market must have a published bill of parts or ingredients.
+* All industrial processes must be documented and that documentation made freely available.
+* The right to leak processes and parts for commercial products would be protected by the State.
+* The right to copy and modify a product would be protected by the State.
+* Product titles and names would be protected by a simpler form of trademark.
+
+I'm not describing a dystopia or theoretical world. This is effectively how the fashion industry and open source software industry work. I think the same models would scale well. Of course the patent lawyers and cartels would fight such reforms to the death.
+
+++ Assets and Property in the Digital Economy
+
+Stepping carefully around copyright and patents, let's look at the other assets, possessions, and properties that comprise the digital economy, from most tangible to least obvious.
+
++++ Content
+
+The most tangible assets on the Internet are its content: text, photographs, videos, software, and music. Never in history has there been so much culture available so widely. It has immense value that is very hard to measure.
+
+The usual way to measure the value of something is to measure its cost. For instance, in 2008 the project at the heart of the Linux operating system, its kernel, [http://www.linuxfoundation.org/news-media/announcements/2008/10/linux-foundation-publishes-study-estimating-value-linux was valued at $1.4 billion], about 10 times the cost of Microsoft's Windows NT. The cost of a full Linux distribution (like Android) came in at over $10 billion. The value of Linux (rather than its cost) is arguably tens to hundreds of dollars per device, and there are half a billion devices running Android alone. I'd suggest that Linux is worth 50 to 100 billion dollars.
+
++++ Domain Names
+
+A domain name translates a printable name into a real Internet address. Domain names are cheap to acquire and enforce, and clean containers for the asset represented by a website, its content, and community. The cost to society is negligible.
+
+Whether domain names are property or not is arguable, and courts do not all agree. The patent and copyright mafia is keen to bring domain names into their "intellectual property" stable. Other people argue that domain names are just a contractual agreement for a period of time to have a name like "hintjens.com" translated to some physical Internet address. However, domain names have clear boundaries, can be traded, and grant exclusive rights over the asset (the website). They may not be a de jure property right in all jurisdictions, yet they are property by my definition.
+
+Domain names do conflict with trademarks. These conflicts are mostly rapidly resolved by various dispute resolution mechanisms. Trademarks usually trump domain names.
+
+There is also a problem with people registering domain names that protect non-existent assets, in speculation of their own or others' future investments. This means that many potentially useful domain names are registered and never used, which is a loss to society.
+
+The temporary nature of domains creates wasteful entropy, as references become broken, leading to "link rot." For example, in the FFII we started many projects with their own domains. As people stopped paying for those domains, the project websites became unavailable. This is not good for archival purposes.
+
+Finally, the domain name system grants private interests monopoly control over top-level domains (.com, for instance). The rationale for this was to push the costs of domain name management to business, though the outcome has been a new private tax on the digital economy.
+
+Fixing the domain name system is pretty simple. We already have an international organization, the Internet Corporation for Assigned Names and Numbers (ICANN), that routes the root servers and contracts out to registrars who run each top-level domain. ICANN should cancel all deals with registrars, creating a single domain marketplace, and remove the concept of private top-level domain by allowing anyone to register any domain with two or more levels. Domain names should be free and should last forever. Non-use of a domain (or abuse for purposes such as link farming) should be grounds for losing it.
+
++++ Trademarks
+
+Trademarks are mostly harmless. They are well bounded, so accidental infringement is difficult. There do exist trademark trolls, though they are rare. Trademarks are cheap in historical terms and reasonably easy to enforce. In digital society, domain names serve the same purpose as trademarks, and do it better. Why should I trademark "IMATIX" when I own imatix.com?
+
+I'd fix the trademark system by merging it with domain names, so that a trademark is an additional right you can buy on top of a domain name. For instance, if I can show that I've used a business or product name for some time, I can ask that all domains containing that word be protected. That stops cheats from using my business goodwill for their own benefit. Since this is a large exclusion, it should -- like a trademark is now -- not be too cheap. This would also fix the current conflict between trademarks and domain names.
+
++++ Standards and Protocols
+
+A standard is a curious thing. It is a form of property owned by a group, created by consensus, and its main purpose is to define a competitive market that will encourage buyers and sellers to invest. For example, we have standards for electric power sockets. That lets us invest in putting electricity into homes and offices, and buying equipment that will use it. If every provider had a different voltage, we wouldn't invest as much in fridges and washing machines.
+
+Let me explain very briefly how standards work. You might think it's all about making revolutionary new concepts available to the public. In fact, standards are more about stopping innovation than opening the door to it. Standardization always works from the bottom up, from more basic and broadly used technologies to more sophisticated and narrowly used ones. Over time, the stack of standards gets compressed like seams of sediment and unused stacks fall away, leaving fewer and fewer basic standards underpinning the whole world of computing.
+
+The economic basis for making standards is the concept of "natural monopoly." This means -- at least in this context -- that a successful standard will attract and hold all users. Currency is an example: when the State decrees a particular currency to be legal tender, this becomes a natural monopoly. Holding other currencies means you can't trade, except at a penalty. Similar natural monopolies are rail transport, electricity, phones, and the Internet Protocol. You want your toaster to plug into any power socket. You want your phone to reach anyone and be reachable by anyone.
+
+When a successful natural monopoly emerges thanks to luck, regulation, or market forces, it eliminates a lot of waste -- also called "friction costs," "transaction costs," or perhaps "excess profits." Natural monopolies can create huge value. Vendors (those selling stuff) have a corresponding incentive to try to capture that value, restoring profits that would be lost by too much of Adam Smith's invisible hand. The natural monopoly can benefit users by releasing value. A good example: the Internet. It can also punish them by capturing users and then taxing them without mercy. Your mobile phone bill is a case in point.
+
+The dream of every self-respecting patent troll is to get patents on a widely used standard, CSIRO-style. Owning a standard allows the owners -- usually a consortium of firms, often including patent trolls -- decide who gets to implement it. This is how large firms keep control of the audio and video encoding markets, the mobile phone market, WiFi, and so on. Consortium standards are generally backed up with patents (because it's a far easier argument to the regulator to say, "We're licensing our patents under a Fair! and Reasonable! and Non-Discriminatory! basis" than "We're a cartel of crooks, and we'd like to offer you a consultancy gig."
+
+The most potent and profitable standards are those that are not captured by any business. The Web is built on Requests for Comments (RFCs) that are open to all. Open standards create new markets. Closed standards extract rents from existing markets. Many firms forget or ignore this lesson, and aim to define standards as tools to control markets rather than create them. Standards for mobile phones, streaming music, video encoding, and so on, appear successful, yet they are all dead ends and survive only thanks to the patent system.
+
+The RFCs, a collection of thousands of open standards, are an immense asset. They are also brutally effective. In the decade before 2010, Microsoft especially spent a lot of money trying to hijack existing standards with patents, get its patents into new standards, or force its patented standards into government use. Digital society spent a lot of effort fighting back.
+
+One of my projects, launched in response to Microsoft's hijacking of the EU's open standards process in 2007, was the [http://www.digistan.org Digital Standards Organization] (Digistan), which built a set of templates for small teams to develop standards cheaply. It used the GPL as license to stop cheats (people modifying the standard to make closed versions).
+
+In my work for the ZeroMQ community, I write a lot of [http://rfc.zeromq.org/ standards and protocols], and all these use the Digistan templates. It works very well, and is extremely cheap. The only flies in the ointment (imagine a swarm of flies the size of horses, spitting nuclear poison out of multiple heads) are patents.
+
++++ Licenses
+
+A license is a grant to use a specified property under specified conditions. Licenses govern most content on the Internet. Without a license, only the copyright holder can redistribute a work. There are many licenses of different types. Many represent huge investments of legal time and expertise. The largest open communities depend on one or another kind of license that allows sharing of different kinds.
+
+Non-trivial licenses are themselves governed by copyright. This means that you cannot, for example, make remixes of them without permission. That is ironic in the case of licenses like the GPL.
+
+As property, licenses work very well. They have no cost, clean boundaries, and are relatively easy to enforce by using the threat of copyright action. However the very existence of licenses and the need to use them signal a problem. Many people do not accurately license their work because they forget.
+
+If Creative Title (TM) replaced copyright, content licenses would be unnecessary and could be scrapped.
+
++++ Identities
+
+How much is your email address worth to you? Email addresses and user profiles are de facto property, protected by the courts in some ways. Boundaries are clear and enforcement is simple: don't lose your password or allow a virus to run on your computer.
+
+God help you if someone steals your identity on a large site, though. You will not find a person in technical support to help you, in a hundred years. While there is legal protection for privacy -- stealing someone's emails is a criminal offense -- there are no laws to protect your identity on the Web. This is a problem because our identities are one of our biggest investments and assets.
+
+I propose an identity protection system based on who we are and where we go, and one that is not really private: a central registry, perhaps maintained like domain names by ICANN, where you can register a name and profile. This would be used to sign in to participating websites with different passwords for each website. Systems like this already exist to some extent, such as [http://openid.net OpenID].
+
++++ On-line Games
+
+The most incomprehensible of assets (to an outsider) are those used in on-line games. Monopoly money, so to speak. Most games start and stop, yet the "massively multiplayer on-line role-playing games" (MMORPGs) continue forever. This means players can, and do, accumulate assets over time and build realistic simulations of property, economies, and currencies.
+
+These virtual economies are interesting in how they develop. Each game is, in effect, a state with its own rules and authority. There is a large secondary market, probably around $1 billion a year globally, for game assets such as avatars and in-game currencies. When the operators of a game regulate the market and economies, they create black markets.
+
+Linden Labs launched the [https://en.wikipedia.org/wiki/Second_Life Second Life] game in 2003, and had about 600,000 active users by its tenth anniversary. Its currency, the Linden dollar, is convertible to "real" currencies via market-based exchanges. This means Linden Labs had to regulate its virtual society and economy quite carefully, not always to the delight of users whose in-game businesses suddenly became illegal and were stopped.
+
+One of the more interesting games, //EVE Online//, prohibits the conversion of in-game currency or items into real money. This means in-game fraud, banking, theft, gambling, murder, and the destruction of masses of virtual property can be allowed. The result is a more interesting game. The big battles in EVE Online [http://www.theverge.com/2013/7/28/4565558/eve-online-biggest-space-battle-in-history involve thousands of players and ships], and destruction of property worth tens of thousands of real US dollars. From Wikipedia's [https://en.wikipedia.org/wiki/EVE_Online article on EVE Online]:
+
+> One infamous example was an infiltration and heist where one corporation infiltrated a target corporation over the course of nearly a year. They then performed a virtual assassination on the target's CEO and proceeded to steal corporate property to which they had gained access. The target corporation lost billions of ISK worth of property (amounting to about $16,500) and a great deal of prestige; the CEO's expensive ship and cybernetic implants were destroyed in the attack.
+
+The existence of black markets for on-line gaming communities reveals the problem with non-convertible assets. I'm not sure what the solution is, though I think it involves more freedom to convert in-game assets to and from real currencies, without risk of lawsuits or prosecution.
+
++++ Communities
+
+Some of the most valuable, and least tangible, assets of the digital economy are its communities. You might think a community is owned by the company that runs the website and owns the domain name, and you would be wrong. The community aspires to own itself, and be highly mobile.
+
+This is the lesson we learned from the MySpace story. A poor authority will see its assets flow away, not quite overnight, yet within a few years, perhaps even months. When Oracle [https://en.wikipedia.org/wiki/Sun_acquisition_by_Oracle bought Sun in 2010], they also took over Sun's many free software projects, including MySQL and OpenOffice. Within a few months, these had forked -- as allowed by their open source licenses -- to create MariaDB and LibreOffice, simply because Oracle was doing what it does best, being arrogant and overbearing. That works well with corporate clients. It is not the ideal way to treat on-line communities.
+
+Industrial-age businesses survived by capturing their clients. Digital-age businesses survive by bribing their clients with freedom and getting them to co-invest in their properties. Look at how Amazon entices its clients to become partners. Review this book and become part of our marketing machine. Your opinion matters! It's mutually profitable and it's honest.
+
+When a firm owns the domain name and website for an on-line community, it owns the //anchor// for the community. This makes it the authority, able to define licenses, rules, and policies. If it is a good authority, the community will stay there and grow. If it is a poor authority, the community will fragment, detach, and move to another anchor. Who owns your Twitter profile? You do, of course. Who enforces that property? Twitter does.
+
+So digital society is filled with authorities, from huge ones like Google, Facebook, and Twitter, with hundreds of millions of citizens, to tiny ones with a handful of participants. Me, myself, and I make three. These digital authorities define their own property laws, and enforce them without negotiation, and are thus analogous to a State. Such digital authorities are the digital successors to the industrial-age nation-state.
+
+Digital society is not a single authority, it is many. When an authority tries to cheat, the outcome is simple: people abandon it. The freedom to leave one on-line community and go to another is unquestioned and unparalleled in the real world.
+
++++ Knowledge
+
+Finally, we have the intangible asset called "knowledge." Of all the websites in the world, one is precious beyond any measure, and becoming more so every day, and that is Wikipedia. Any attempt to describe how important and valuable Wikipedia is would fail by understatement. As a species, we only really have two fundamental assets: ourselves, and our knowledge.
+
+When I scored Wikipedia in [#community], it hit 96%. Wikipedia is not perfect, though it comes close. This isn't accidental -- it was practically founded on the principles of the wisdom of crowds. The one area it does not handle perfectly is current events -- politics, sports, news -- where there is still money at stake.
+
+Wikipedia is the ultimate in collective property, the antithesis of private property with its strong rights, de jure protection, profits, and friction. It is the ultimate slap in the face to the right-wing economists and their belief that wealth comes from individuals rather than society. I relish my personal possessions as much as anyone, yet the collective property that is Wikipedia's knowledge stirs deep joy in me akin to religious fervor.
+
+++ Money in the Digital Economy
+
+The industrial economy had a very clear definition of money: legal tender, issued and regulated by the State. Currency was coin of the realm, and the realm could make it, or break it.
+
+Often, the world had a "reserve currency" that was considered the most stable and convertible, and held by governments as part of their foreign exchange reserves. For a long time, this was the British Pound Sterling. Then in the middle of the last century, the US Dollar became a significant reserve currency, and at the start of this century, the Euro joined. The government behind a reserve currency tends to use it to create debt, which then causes the currency to deflate and the world to switch to another. This seems to be happening with the US Dollar today, though it's unclear what the future reserve currency would be.
+
+The Internet has been searching for a reserve currency, indeed any currency that could be used to buy goods and services on line, for a long time. The digital economy presents a unique set of challenges for security and privacy.
+
++++ Credit Cards
+
+Most Internet trade still uses credit cards from firms like Visa and MasterCard. These firms charge merchants about 3-4% on each transaction, which is an astonishing amount and points to a cartel operation. Indeed, these two firms have been under fire from European antitrust authorities for years. They should have gotten some patents.
+
+Mobile phones can now be turned into wireless credit card terminals by using little credit card readers that plug into the phone. The customer swipes their card to make a payment. It is all rather impressive, until you realize the deceit. The currency is all digital, held in bank accounts somewhere. The devices are all digital. The credit card itself and that little reader are a physical bridge between a digital financial system and itself.
+
+Credit cards are a very bad fit for the on-line economy. To make a transaction, the buyer gives his credit card details to the seller, who registers the transaction to the credit card company, which then authorizes it. The buyer only sees the details at the end of the month, and the seller may have to wait for several months to receive his money in his "merchant account" minus the processing fees and any disputed transactions ("chargebacks").
+
+It takes a decent credit history to qualify for a "merchant account." This puts credit cards out of reach for newer, smaller sellers. Thus a second layer of businesses have cropped up which offer credit card processing to websites, adding further costs and delays on top.
+
+Exchanging credit card details across insecure networks to strangers is an invitation to fraud. By 2000 or so, to use a credit card on the Internet was akin to driving without a seatbelt on the wrong side of the road.
+
++++ PayPal: the Web's Bank
+
+The need for safe transactions between strangers was nowhere more obvious than on the eBay auction site. In 2000, two existing financial service firms (Confinity and X.com), which already allowed users to email each other money, merged to form PayPal. Their successful strategy was to focus explicitly on eBay users in the US, then grow internationally.
+
+PayPal did a decent job of building a payments system that worked for on-line commerce. Though credit cards are widely used for purchases, sellers will often use PayPal as their payments processor. PayPal is cheaper and easier than the credit card companies and takes only 2% instead of 4%, allowing anyone to become a merchant.
+
+However, PayPal built a reputation for being a bit of a thug. It tended to seize accounts without explanation, freeze payments to sites without explanation, and even [http://java.dzone.com/dose/dzone-daily-dose-210 cut off entire countries]. Its customer service is legendarily bad. Many websites simply refused to work with PayPal at all.
+
+eBay bought PayPal in 2002, and despite its poor reputation, the service grew into what is today one of the largest web payment processors. It is, in effect, the Web's bank -- hated by many, yet a fact of life. In Europe, PayPal is in fact regulated as a bank, while in the US it is licensed as a money transmitter, which is a key license. The PATRIOT Act makes it illegal to transmit funds from account to account without such a license. The loss of this license would effectively kill PayPal.
+
++++ Micropayment Systems
+
+As the Web boomed from 1995 to 1999, various groups developed micropayment systems that solved credit cards' high transaction costs. The theory at that time was that people would, for example, pay a few cents to read an on-line newspaper.
+
+These systems were developed, cast into official standards (the HTTP web protocol has an error code called "Payment Required"), and then quietly abandoned due to lack of interest. It turned out that advertising worked much better as a micropayment system, which brought us Google. Advertisers pay the website operator via Google each time a visitor clicks on their advertisement.
+
+The massive volumes of free content also hurt the case for micropayments. There are [http://www.cjr.org/the_audit/the_nyts_150_million-a-year_pa.php a few businesses] that use so-called "paywalls" successfully. Typically, these are existing publishers whose subscribers already expect to pay. The focus however is on subscriptions, not micropayments.
+
+In 2002, the [https://en.wikipedia.org/wiki/M-Pesa M-Pesa] system formalized mobile phone micropayments in Kenya. Before that, users sent each other phone credit. Phone credit makes an extraordinarily good digital currency, as it is safe, portable, and has minimal transaction costs. Systems like M-Pesa succeeded in Africa mainly because there was no existing financial industry to lobby against it. Good luck trying to get a Visa card if you live in Lagos, Nigeria.
+
++++ Digital Currencies: From E-Gold to BitCoin
+
+The first digital currency was [https://en.wikipedia.org/wiki/E-gold e-gold], founded in 1996. At its peak, e-gold had five million users and transactions of $2 billion a year. An e-gold account was backed by actual gold held by the service. One e-gold account could then transfer gold to another account. The company offered interfaces to allow websites to accept payments in e-gold, much like PayPal did later.
+
+e-gold died in 2009 after a long struggle with fraudsters, imitators, and patent lawsuits. It was finally killed by the US federal government, which first denied it the all-important money transmitter's license, and then prosecuted it under the PATRIOT Act for transmitting money without a license.
+
+It is safe to assume that e-gold was deliberately targeted, not because it allowed terrorists to collect money (US dollars work much better for that), rather, because it was a viable digital currency. The use of anti-money-laundering regulations and the PATRIOT Act to attack a digital currency is, I'd claim, a good indicator of how seriously the currency threatens to succeed.
+
+The same year that e-gold died, its successor popped up in the form of BitCoin, the first credible crypto-currency. While e-gold based its denomination on the tangible value of gold coins, BitCoin is backed by nothing more than mathematics. This has led people to accuse it of being a pyramid scheme, destined for collapse.
+
+BitCoin works by "mining" new coins as a side effect of doing the cryptographic bookkeeping for other people, processing the so-called "transaction chains." In the beginning, when transaction chains were short, they were easy to process, and people could mine thousands of coins on their PCs. Today, as chains are long, it takes more effort to mine coins. Every year, the number of coins that can be mined falls, so at some point there will be no new BitCoins.
+
+The BitCoin design and open source software was written by a prudently anonymous team calling themselves "Satoshi Nakamoto." They took some existing concepts from the cryptographic community, and invented some new ones. The technology had one major vulnerability, which was fixed in 2010. Since then, it appears robust.
+
+BitCoin satisfies most of the criteria for use as a medium of digital trade. It is free from coercion by authorities. The transaction fees are paid in the form of computing power used to verify blocks and network bandwidth to exchange chains with others. It allows micropayments.
+
+There are some vulnerabilities with BitCoin:
+
+* As a small currency, it is still vulnerable to speculators and exchange rate attacks. Its value has often been very volatile.
+
+* To convert to and from other currencies, BitCoin depends on exchanges, which can be attacked.
+
+* It is unclear whether people will still go through the effort doing block verification when no more BitCoins can be mined to pay for the work.
+
+* If a large attacker were to control more than half of the verification network, they could generate unlimited BitCoins and destroy the currency by inflation.
+
+* It depends on conventional broadband, so is vulnerable to surveillance.  BitCoin transactions are public and individual BitCoin holders' transactions can be identified.
+
+* It depends on a "digital wallet" held on a computer, which is vulnerable to malware attacks and physical seizure.
+
+The history of money on the Internet and the power of the banking industry suggest that BitCoin will come under serious attack in coming years. We can expect to see the same attacks that we've seen often before:
+
+* Financial blockades, prosecutions, and technical attacks on BitCoin exchanges.
+* Association of BitCoin users with terrorists and child pornographers.
+* Surveillance of BitCoin transactions to break expectations of anonymity.
+* Interference in the BitCoin verification network.
+
+As an exercise, I tried to buy some BitCoins. Since I don't know anyone with BitCoins to sell, I looked for an exchange with coverage for Europe. A bit of searching led me to a European exchange, Bitstamp.net, where I registered and prepared to make a small deposit to the exchange's bank account in Slovakia. My banking website refused to accept the transfer, showing an error that I've never seen before in decades of making international transfers. I tried a few times, then gave up. One imagines an "attempted to buy BitCoin" flag being set on a dossier somewhere in a secret Spider data center.
+
+++ The New Billionaires
+
+How much is a Facebook "Like" worth?
+
+In 2011-2013, the US State Department spent $630,000 to buy nearly two million likes on Facebook. It's doubtful anyone actually liked the government more afterwards, except the consultants doing the work. It shows the real value we are willing to place on our on-line reputation.
+
+I think we have vastly underestimated the value of the digital economy. I tried to show how many assets it has, yet many -- like the content on Wikipedia or YouTube -- are considered worthless because they are "free."
+
+Is it possible to calculate the gross Internet product (GIP) to compare to the gross world product (GWP)? We can count the assets created in all the virtual worlds, as it's clear that people clearly assign value to them or else they would not create black markets, nor pay for "Likes."
+
+Let's assume that two billion people regularly toil on line, spending 20 hours a week in constructive work (not just flipping through YouTube channels). The Organisation for Economic Co-operation and Development (OECD) average GDP is $35,000 per capita. Let's assume that the on-line society is as productive as the OECD average. The ratio is probably much more than one because the digital economy is so much larger and more efficient. However, this suggests that our investment in on-line assets is around half of our investment in the real world, which seems to match empirical observations.
+
+This gives us a GIP of $35 trillion a year. When we hit four billion Internet citizens, the GIP will start to exceed the whole industrial economy. (Actually, since GDP includes all Internet transactions, the industrial economy is already smaller than $70 trillion.) I think this estimate is low, and that the real productivity on line is both higher than in the real world, and growing faster than we think. However, I'm not an economist. Perhaps a proper economist will find better figures.
+
+One claim that I am making that you might have missed is that our on-line productivity is not dependent on where we live. That is, a poor person invests just as much as a wealthy person. This means that for poor countries, the digital economy is much more powerful a shift than in wealthy countries.
+
+The peak population of the Internet will be around 10 billion, in 2030, and I'd estimate per capita GIP of $100,000 by then, giving a global GIP of a mind boggling $1,000 trillion (that's a one followed by 15 zeros).
+
+++ The Price of Salt
+
+My children were amazed to learn that ordinary salt used to be a currency: the origin of "salaries" and "salads." It costs perhaps $1 per kilo in the supermarket, and eight times less if you buy a truckload.
+
+There is a theory of wealth, which is that for every rich person, there must be a poor person. This is indeed how it sometimes seems to happen. However, the theory is wrong. Despite disparities that may be huge, overall society generally gets wealthier together, thanks to cost gravity. The tragic exceptions, like Congo-Kinshasa, where life expectancy has fallen from 55 in the 1950's to under 50 today, underline the general rule that most of the world has gotten wealthier together. Much of that new wealth is invisible to the old economy, yet it has a very important effect on it.
+
+One of the shocking things about American society is [http://www.pewsocialtrends.org/2013/04/23/a-rise-in-wealth-for-the-wealthydeclines-for-the-lower-93/ its inequality]. The bottom 80% of the population own less than 7% of the nation's wealth. Many people are in permanent debt and worth less than zero by traditional measures.
+
+The disproportionate accumulation of wealth by the already wealthy has not caused a revolution -- not even mass protests. Basically, people are happy or resigned enough with the way things are. One explanation is that the mass of people are brainwashed, bribed, and blackmailed by what is in effect a nationwide cult system. This is certainly at least partly true. If you ask the average American citizen, "Why aren't you in the streets protesting the unfairness, the spying, the corruption," they probably won't reply, "I'm afraid of being arrested," and will instead say something like, "I don't really see that it's necessary."
+
+I don't think that this is the result of complacency. Rather, I think most people have accurately and subconsciously assessed that old money is like salt. It's still essential, of course. Without salt, you die. Yet only fools fight over salt, and only madmen accumulate cellars of the stuff on the off chance that its price will one day go up again.
+
+The trillions hoarded by the mega-rich cannot buy friends on the Internet. It cannot buy truth on Wikipedia; it cannot buy success in digital markets, bribe the digital authorities, or convert into any real form of power in digital politics. People have tried this over and over and [https://www.google.com/search?q=microsoft's+stock+price it keeps failing].
+
+++ Conclusions
+
+In this chapter, I've looked at the digital economy and its assets, bouncing off copyrights and patents in the process. I came to the perhaps raving mad conclusion that the gross Internet product (GIP) is already about half the size of the global world product (GWP), the total GDP of all countries on earth. More insanely, I'm claiming that by 2030, when 10 billion people will be spending most of their waking time on line, GIP will be 10 to 15 times today's GWP.
+
+This explosion in assets is both an existential threat to the Para-state, and the answer to its excesses. As I've written, political power comes from economic power. As the digital economy's power exceeds and then eclipses the old "real" money of the Para-state, the political conflicts will increase, alliances will be formed, and we will see the outbreak of a real world-wide conflict, ending in either the death of digital society, or of the Para-state. The war has been going on for some time now, and this is what we'll examine in the next chapter.

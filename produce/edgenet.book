@@ -1,0 +1,43 @@
+#   Culture & Empire
+FILENAME=edgenet
+AUTHOR=Pieter Hintjens
+TITLE=Culture & Empire
+SUBTITLE=The Edge Net
+TITLENOTE=
+
+#   Page dimensions in cm
+WIDTH=13.97
+HEIGHT=21.59
+TOP=1.5
+BOTTOM=1.5
+INSIDE=1.75
+OUTSIDE=1.5
+
+#   Fonts
+HEADERFONT=EB Garamond
+BODYFONT=EB Garamond
+TEXTHEIGHT=95%
+TEXTAFTER=0.10cm
+TEXTSIZE=10.5pt
+
+#   Copyright page
+EDITION=First Printing: xxx
+ISBN=ISBN 978-xxx
+DEDICATION=For Sheila
+COPYRIGHT=Copyright © 2013 Pieter Hintjens
+LICENSE=Free to share and remix under CC-BY-SA-3.0
+TRADEMARKS="Culture & Empire" is a trademark of Pieter Hintjens
+PUBLISHER=Published by iMatix Global Services
+CREDITS1=xx
+CREDITS2=Fonts: Kontrapunkt (Bo Linnemann, Kontrapunkt A/S), Existence (Yeah Noah), DJ Gross (SDFonts), EB Garamond (Georg Duffner)
+
+#   Build index
+INDEX=
+BREAKS=none
+
+#   Body content
+HEADER=Culture & Empire
+FOOTER=Digital Revolution
+
+#   Content
+../edgenet.txt

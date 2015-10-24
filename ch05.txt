@@ -1,0 +1,455 @@
+.bookmark privacy
++ Eyes of the Spider
+
+> If the Culture ran on light, thought the Empire, then it would destroy light.
+
+Privacy isn't totally dead yet, although we are very close. It's happened rapidly, over the last fifteen years or so, as the political and technical barriers that stop others from monitoring us have fallen away.
+
+Every credit card purchase we make is recorded. Where, when, what, how much. So is everything we buy at the supermarket using our loyalty card. So is every trip we make by air, or by train and bus, if we use an electronic card to travel, or to pay. So are details of every film we watch or rent, if plastic comes into the picture somewhere. Every book we check out from a library, or buy on line, is recorded and stored in a database somewhere.
+
+Every website and page we visit, when, for how long, and where we came from. What emails we send, to whom, and what we say. Every search we make, every post and comment on any forum anywhere. Who we call or chat with, when, and what we say.
+
+Our own mobile phones track us like pigeon collars: where we are, to the closest 50 yards, across almost the entire habitable globe. Every call we make, who we call, and what we say. Our fixed phone lines were already bugged decades ago. When we're on foot or in our cars, where we go, whom we meet, how long we stay: it's tracked by cameras posted in public and corporate spaces, and recorded, and stored.
+
+The list goes on like science fiction. The spy state is well leaked and documented, though we can assume there are large secret surveillance systems, like those of the FBI that were discovered only by long and determined work to open classified documents. And these are not just simple databases. They are parts of a puzzle -- your life -- that the state and big business are carefully putting together, one piece at a time.
+
+This is the story I'll tell in this chapter: the death of privacy. I'll try to explain how it happened, how it affects us and why that matters, and what digital society can do about it.
+
+++ Enter the Spider
+
+There is an alphabet soup of agencies that spy on us. Today the NSA makes the news, tomorrow the headlines may be about the British General Communications Headquarters (GCHQ), the US Federal Bureau of Investigation (FBI), Office of Naval Intelligence (ONI), the Department of Homeland Security (DHS), or Israel's Mossad. It would be naive to assume there is one single agency that has all the software taps and hard disks. Rather, it's a network of agencies and programs and databases that reaches around the globe, penetrating and corrupting business and politics.
+
+Furthermore, it seems implausible that this network operates independently, outside of any political structure. Where there is power and money, there are always political structures. The political structure behind the spy state is simply not the one we vote on, or exert any real control over, as governed.
+
+Silvia Swinden, a writer on human rights, nonviolence, and humanism, [http://www.pressenza.com/2013/06/the-economic-para-state-in-its-yearly-show-of-strength-bilderberg-comes-to-watford-uk/ coined the term "Para-state"] to describe the "rich bankers and industrialists, royalty, corporations and most powerful politicians of the world" who meet yearly as the Bilderberg group.
+
+And indeed, we see the formation of a parallel global state, with its own citizens, its own laws and courts, its private security forces, its physical and social isolation from the rest of humanity. It's an old storyline in the futuristic dystopia, from Fritz Lang's 1927 movie Metropolis and The Time Machine from H.G. Wells, through to modern tales such as the 2013 movie Elysium. In that movie the wealthy literally live off-Earth on an orbiting mini-planet. In reality of course, there is only one Earth, we are all stuck on it, together. Humanity will survive as one species, or die as one species.
+
+Yet despite the obvious face-in-palm insanity of global apartheid, it seems to be what those unnamed political structures are striving for. And here, as a writer, I face a problem. One cannot examine things without names, nor can one resist forces without names. I cannot say "NSA" when I mean the powers behind it. Nor can I say "Empire," for that's a parable. Nor will I use any of the labels that the "New World Order" conspiracists enjoy, loaded as they are with fear, hate, and anthropomorphism. The only one I like is "Lizard People," except some readers would take it seriously.
+
+So Silvia Swinden's "Para-state" is the term I will use, to describe the old power structures that digital society is laying bare, and confronting, and will eventually overcome. Whereas the State derives its power from the governed, the Para-state feeds off the State and treats the governed as the enemy.
+
+As for the NSA and its fellow alphabet agencies, and including without prejudice all businesses and criminals involved in spying on us, I'm going to use the term "Spider," which is what early Internet geeks called the computer programs that "crawled the world wide web." It wasn't a great pun then either. However, I rather like the notion of a massive thing with eight legs, eight eyes, sharp venomous teeth, and no brain to speak of, implacably stalking us as we struggle with our pathetic little lives.
+
+The Spider is nothing to laugh at, however. It reaches around the world, into every communications network and technology industry, into every country that has not raised a strong firewall against it. It has global reach and immense budgets. It employs armies of [http://www.policymic.com/articles/48845/booz-allen-hamilton-70-of-the-u-s-intelligence-budget-goes-to-private-contractors private contractors], both civilian, and military -- mercenaries who operate outside national laws. And the Spider does one job: protect the Para-state from threats. It exists outside conventional political reality, disconnected from the democratic process, making up its own definitions of constitutionality and legality, as it goes along.
+
+++ The Dollar Yoltabyte
+
+Is it paranoia to assume every phone call is recorded?
+
+It seems clear the political will to spy on us is there, and has been for some time. That, by itself, is extraordinary, given the history of the last century. The "free" West positioned itself opposite the spy states of the Soviet Empire. In Europe, we had solid laws limiting the collection of personal data. The US had solid laws protecting privacy. These seem to be washed away as if they'd never existed. The story of how that happened is worth exploring, and I'll do that. First, I want to crunch some numbers.
+
+Since politics said "yes" to the spies years ago, the limiting factor has been technical feasibility, and subsequent cost. There's a limit to how much a government can spend on surveillance before it shows on the budget. Let's estimate the cost to store and process the data produced by the domestic US market at various points in time.
+
+How much data are we talking about?
+
+Over time our use of communications has shifted significantly. In 2000, it was mainly mobile phone calls. In 2013, it's far fewer phone calls, and a lot more chats and text messages. We also produce and consume a lot more content in the form of photos, videos, documents, and so on. There are also more of us on line.
+
+The vast majority of Internet traffic is, however, irrelevant to the spies, or already stored by cloud services. For example when you watch a YouTube video, does the Spider need to store the video stream? It only needs the YouTube URL, and metadata such as when you watched, when you pressed play and pause, what site you came from, and so on. Similarly for those photos you upload to Flickr. All the Spider needs is a guarantee from Yahoo! that it will store them forever.
+
+The actual amount of useful information one person can generate is fixed. Even if we type or click faster, its not going to grow exponentially. So we can assume the data the Spider must collect is only growing incrementally over time, and thus presents a slow-moving target. I will call this the "target data set" (TDS).
+
+To calculate the TDS size, I'll take the US domestic market with its population of about 300 million, and I'll assume a modest average amount of surveillance:
+
+* 15 minutes of video surveillance (closed-circuit television, or CCTV): about 100MB per day.
+* One hour of audio surveillance (phone calls): about 50MB per day (half of 100MB).
+* Four hours of web surveillance (clicking and typing): about 5MB per day.
+* 24 hours of location data (mobile phone and license plate tracking): about 1MB per day.
+* Other surveillance (credit cards, shopping, etc.): about 1MB per day.
+
+That's a total of 157MB per person per day. Multiplied by 300 million, and 365 days, that gives us 17.2 exabytes (1.72E19 bytes) per year. Rounding up, we get 20EB as our TDS size. If you enjoy useless imagery, that's a stack of 1TB hard drives 135 miles high.
+
+It's probable that the Spider can automatically transcribe phone calls. It seems an obvious research area, essential for automated scanning of conversations. Such text would be much smaller than the audio data. However the Spider would still store the original audio, just to be safe. So this doesn't affect our calculations.
+
+Now, the cost of storing this 20EB target data set. Over the last 30 years the cost gravity of hard disks has been 14 months, giving a 90% price fall every four years. That high stack of drives collapses to one-tenth its size every four years. Here is how much you can store for one US dollar, from 1990 and into the next fifty years:
+
+|| 1990 || 100KB ||
+|| 1994 || 1MB ||
+|| 1998 || 10MB ||
+|| 2002 || 100MB ||
+|| 2006 || 1GB ||
+|| 2010 || 10GB ||
+|| 2014 || 100GB ||
+|| 2018 || 1TB ||
+|| 2030 || 1PB ||
+|| 2042 || 1EB ||
+|| 2054 || 1ZB ||
+|| 2066 || 1YB ||
+
+For comparison, the total bytes of DNA in a human body (treating the human body like a hard disk, and ignoring that our cells have almost the same DNA) is about 150ZB (100 trillion cells at about 1.5GB per cell), and there are about 21 yolta atoms in a gram of silicon. I think the dollar yoltabyte will happen right on schedule fifty-some years from now. Side note: the prefix "yolta" was only coined in 1991.
+
+Hard disks are only the raw cost. Let's assume we store all data in two different data centers, to guard against disasters. In each location we add backup disks to guard against disk failures. We need industrial-strength disk storage racks, power supplies, cooling, and maintenance. We need at least 15% for bribes and consultancy fees back to the congressmen who voted us the budgets. We get a volume discount. Let's assume all that makes a cost factor of four.
+
+So here's the real cost over time of storing the TDS from 1990 through to 2050, falling about 350 times every 10 years:
+
+|| 1990 || $687.7T ||
+|| 1994 || $68.8T ||
+|| 1998 || $6.9T ||
+|| 2000 || $2.2T ||
+|| 2004 || $217.5B ||
+|| 2006 || $68.8B ||
+|| 2008 || $21.7B ||
+|| 2010 || $6.9B ||
+|| 2012 || $2.2B ||
+|| 2014 || $687.7M ||
+|| 2016 || $217.5M ||
+|| 2018 || $68.8M ||
+|| 2020 || $21.7M ||
+|| 2024 || $2.2M ||
+|| 2030 || $68,766 ||
+|| 2040 || $217.46 ||
+|| 2050 || $0.69 ||
+
+Clearly as late as 2006, it was only possible to store data only on a fraction of the population, the so-called "Persons of Interest." These make a nice data set for several reasons. First, no politician who cares about elections is going to refuse a request to spy on a potential terrorist. Second, these people produce data that can be cross-checked with real-life events such as political protests or bombings. Third, it's a data set that can be expanded organically to cover everyone.
+
+That expansion has happened. The TDS has grown (by the Spider's own account) from persons of interest, to anyone they talk to, which is one degree of separation, or one hop. Then, anyone //those people talk to//, or two hops. And today, three hops. This easily covers the whole domestic population. "Talking to" someone could simply mean visiting the same website.
+
+Though these figures are just estimates, they show the overall trend. There's a moment, perhaps 2012 or 2014, where a full TDS becomes affordable. There's a moment, in 15 to 20 years, where the cost becomes so low that there will be dozens or hundreds of organizations doing this. Any attempt to stop surveillance by budget control becomes impossible. By 2030, the cost of global TDS, covering 10bn people, will be just a few millions. By 2050, it is a child's weekend project.
+
+++ The Drying Lake
+
+Because of cost gravity and politics, privacy is dying in the twenty-first century like a lake in a drying desert. This is a one-way and unstoppable process, caused simply by the asymmetric nature of information. It is much cheaper to spy on someone than it is to prevent people from spying on you. As Cost Gravity pushes down the cost of cameras, networks, hard disks, and CPUs, the cost of maintaining privacy grows higher and higher. In the end it comes down just to politeness and ethics and restraint, things we can expect of other individuals, just not of businesses, nor of governments.
+
+The death of privacy has costs, and benefits, depending on the situation. Our secrets are our property, and losing them devalues us. Those same secrets may benefit many more people, when they become public knowledge. When the cost of secrets held by one person or group outweighs the benefits to society, then it's right that those secrets be leaked. Health research based on population-wide data can help, for instance, to pinpoint causes of illness and disease.
+
+Yet personal privacy remains a core requirement for individuality. Losing our privacy makes us weaker, easier to manipulate, and easier to control. Vitally, we lose our taste for critical analysis, and we stop demanding information. The invasion of privacy is not just about stopping terrorists, or making more money off us. It is a basic mind-control technique. Every cult starts by isolating people from wider reality, whilst forcing them to live in something like a commune.
+
+I think we've seen the deliberate stripping of privacy used with wide effect. The passivity of the American public is famous, and confusing. After all, these are the descendants of people who crossed oceans to fight for a better life. Americans can get very angry about little things. Yet, when it comes to the shenanigans of their leaders, the majority response seems to be "Yeah, well, what you gonna do?"
+
+++ Bad Things Come in Threes
+
+There are, overall, three columns fighting the War on Privacy against the digital citizenry. They work together often, overlap quite significantly, share techniques and knowledge, and presumably they answer to the same range of pay masters in many cases.
+
+The first column works for business, particularly the web industry, which tracks us obsessively. The range of techniques used to spy on us would be breathtaking if we were not all so cynical. Every page is filled with little tracking devices. Every click sends back traces to databases, and profiles are fattened up, cross-indexed with data from the real world and other sources, used for targeted advertising, price manipulation, and market research. Data is bought and sold like pigs in a market, breaking every possible regulation on personal data protection. There is no real escape, and we accept that the "free" Internet has this as one of its costs.
+
+The second column work for themselves. They bug our PCs with viruses, trojan horses, worms, and spyware. They watch what we type, steal our credit card information and bank details, passwords, and emails. They control the best part of a billion PCs worldwide, largely thanks to Microsoft's inability to make Windows secure.
+
+And the third column works for the state. We're not talking about one country, rather, of coalitions of varying degrees of integration. Centrally, [https://en.wikipedia.org/wiki/UKUSA_Agreement the Anglophone axis]: Canada, US, UK, and Australia. Even New Zealand goes along for the show. Secondarily, NATO around that: Germany, Italy, Turkey, France. Third, the silent partners: Israel, Egypt, Saudi Arabia, Pakistan, Sweden, Japan, South Korea. And then the Independents: China, Russia, India, and Brazil, building their own networks and sharing very little, if anything, with the west.
+
+It's the third column that is the most dangerous to digital society, because their prime goal is the control of political discourse. They don't want to make money from us, or use our PCs to send spam. They want to make sure we don't build a revolution.
+
+The third column's strength, at least in the US, comes from two things. First, unlimited secret budgets, enabled by the "War on Terror," and the signing of the PATRIOT Act in October 2001. Second, the highly centralized nature of today's web. A handful of phone companies control Internet access for most people, and a handful of websites account for most Internet traffic. The capturing of the airwaves is an old sport. What's shifted is the sheer volume and focus. It's the mass digitization of social activity, and its concentration, that has created fertile ground for the greatest spy regime of all time.
+
+++ The Listeners
+
+In 2013, Edward Snowden focused the public's attention on the scale and audacity of the global surveillance state, mainly the American parts, and the roles played by the UK and France. The goal of this surveillance state was, and presumably still is, to //know everything about everyone, all the time//.
+
+However, the growth of the global surveillance state wasn't really news. We've been hearing reports of this for some time. The grandfather of spy networks, [https://en.wikipedia.org/wiki/ECHELON ECHELON], started intercepting international phone traffic almost as soon as it was technically feasible, in the 1950's and 1960's.
+
+As Kevin Drum [http://www.motherjones.com/kevin-drum/2013/06/wsj-nsa-program-also-tracking-credit-card-transactions wrote in Mother Jones] about the NSA tracking credit card use:
+
+> This is sure starting to sound a lot like our old friend, Total Information Awareness. You remember TIA, don't you? It was the Bush-era program designed to tap into commercial and government databases across the country and hoover up credit card statements, medical records, travel plans, phone bills, grocery receipts, and anything else that sounded interesting. Congress killed it in 2003, but forgot to salt the earth behind it. TIA didn't die -- it metastasized.
+
+In August 2007, Wired magazine [http://www.wired.com/politics/security/news/2007/08/wiretap reported that] "The FBI has quietly built a sophisticated, point-and-click surveillance system that performs instant wiretaps on almost any communications device, according to nearly a thousand pages of restricted documents newly released under the Freedom of Information Act."
+
+That state agencies have modern technology is normal and expected. The surprise is the ease with which traditional political barriers to intrusive surveillance have been set aside. It used to be that a wiretap required a physical action by a phone company, acting on a court order. Now, wiretapping functionality is built-in to phone equipment and networks by law and accessed through the click of a mouse. As Wired explains:
+
+> ...the surveillance systems let FBI agents play back recordings even as they are being captured (like TiVo), create master wiretap files, send digital recordings to translators, track the rough location of targets in real time using cell-tower information, and even stream intercepts outward to mobile surveillance vans.
+
+It sounds nice: a powerful set of tools that give agents everything they need. There are two problems. First, the systems assume we can blindly trust the intelligence agencies not to click that mouse until the court has issued an order. This seems extraordinarily naive. The second problem is that powerful tools are regularly misused, either by corrupted insiders or well-informed outsiders. As Wired notes in the same article:
+
+> More than 100 government officials in Greece learned in 2005 that their cell phones had been bugged, after an unknown hacker exploited CALEA-like functionality in wireless-carrier Vodafone's network. The infiltrator used the switches' wiretap-management software to send copies of officials' phone calls and text messages to other phones, while simultaneously hiding the taps from auditing software.
+
+CALEA was the FBI's wiretap system at the time. That "unknown hacker" turned out to be working out of the US Embassy, in cooperation with Vodafone. The network planning manager in Vodafone [https://en.wikipedia.org/wiki/Kostas_Tsalikidis had one of those mysterious suicides]. Snowden revealed, somewhat later, that the NSA has been bugging officials across Europe.
+
+The NSA, formally responsible for spying on foreigners, runs what is perhaps [https://en.wikipedia.org/wiki/Utah_Data_Center the world's largest hard disk array], in Utah. Responding to allegations that this facility was being used to collect data on US citizens, the NSA denied they were "unlawfully listening in on, or reading emails of, US citizens."
+
+That critical "lawfulness" of the NSA's surveillance is governed by the Foreign Intelligence Surveillance Act (FISA) and decided by a [https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court secret court, FISC]. FISC judges are appointed without oversight, and their rulings are made in the dark and locked up forever. Until, that is, someone leaks them.
+
+One of Snowden's juicier leaks was a top secret court order issued by FISA that required Verizon, a US phone company, to provide a live feed of phone calls -- including those for domestic calls -- to the NSA. In 2012, the government presented 1,856 applications to the FISC, [http://www.npr.org/2013/06/13/191226106/fisa-court-appears-to-be-rubberstamp-for-government-requests which approved 100% of them].
+
+Let's skip around the obvious and massive loopholes such as "we only spy on foreigners." Presumably Americans count as "foreigners" to [http://www.spiegel.de/international/world/snowden-reveals-how-gchq-in-britain-soaks-up-mass-internet-data-a-909852.html the UK's GCHQ], which captures every single Internet packet it sees, and merrily exchanges data with the NSA. And presumably the NSA doesn't speak for the other alphabet agencies when it says "we".
+
+More interestingly, [http://www.wired.com/threatlevel/2007/10/nsa-asked-for-p/ there are claims] that the NSA's surveillance program started some time //before// September 11th. In February 2001, a full seven months before the War on Terror officially started, the NSA asked four US phone companies to turn over call records to an NSA database, offering secret contracts as an incentive. The request was illegal and a violation of federal privacy laws. AT&T, Verizon, and BellSouth turned over their records nonetheless. Just one firm, Qwest, stated publicly that they would not take part until served with a valid court order.
+
+The court order never came. Qwest didn't get the NSA contracts or money either, and by 2002, overwhelmed by debt, was being sold off in chunks to private equity firms. Its ex-CEO, Joseph Nacchio, was charged with fraud, convicted, and went to prison in 2009. Its Chief Operating Officer Afshin Mohebbi was cleared of all fraud charges in 2011.
+
+The Electronic Frontier Foundation (EFF) wrote in December 2007 that, "after months of pressure from the Bush Administration, the full Senate is poised to grant retroactive immunity to these companies, which would effectively ensure that the full extent of their complicity will never be known." The collaborating phone companies were given retroactive immunity in July 2008. Nacchio was released in October 2013, to somewhat of a hero's welcome, given Snowden's revelations.
+
+As a side note, all anti-trust actions against these mobile phone companies stopped in 2000, and the US government allowed them to merge and [http://technologizer.com/2011/03/20/att-buys-t-mobile/ reform the phone cartel] that the regulators had broken up in 1984. In 2006, AT&T merged with Bellsouth, leaving it and Verizon with two-thirds of the 300 million mobile phone subscribers in the US.
+
+For me, the really interesting parts of the Qwest story are how the spying on Americans started before the War on Terror, not after, and the level of bribery and blackmail that governments seem willing to focus on industry to get their collaboration.
+
+Perhaps Qwest was doomed due to debt accumulated after the dot-com crash, and its CEO was corrupt anyhow. It's hard to imagine a corrupt man refusing bribes, and taking such a principled stand. The simpler explanation is: you work with us, and we'll take care of the legalities afterwards. You'll get market share and secret cash. And if you resist, or if you talk about this deal, your company //will// die, and you //will// go to prison. When you hear the CEOs and spokespeople of thriving corporations denying their level of cooperation with the NSA, you need to question their freedom to tell the truth. When a firm receives a National Security Letter, it is obliged by law to deny that fact.
+
+The tragic irony is that it's the nicer business executives, the 96% or so who are not psychopaths, who buckle under such threats. It takes a peculiarly tough disregard for authority and their sanctions, one close to a mental disorder, to stand up and fight bribery and corruption when all those around you are losing their heads, as it were.
+
+++ Analysts Retentive
+
+In the hot summer of 2013, following the Snowden leaks, European governments angrily denounced the American surveillance state. Their flamboyant shock and horror reminds me of a careless driver, who after causing five accidents, explodes in rage because someone cuts in before him at the intersection.
+
+My first encounter with the global surveillance state was in December 2005, when the European Union passed the [http://en.wikinews.org/wiki/Data_Retention_Directive_passed_by_EU_Parliament Data Retention Directive], or DRD. At the time, we in the FFII and some allies lobbied against this law, and we were pretty much alone. Political parties left and right united to push the law through with little debate. National governments supported it, with a few exceptions. At the time, we reported:
+
+> The so-called "Big Brother" directive, highly controversial at least among those even aware of its existence, requires all Internet and telecommunications service providers to log all traffic metadata (who called who, who visited what sites) in Europe for 6 to 24 months and turn the data over to police forces, secret services, and other organisations, as decided by national governments. The law was drafted and passed in three months, an extraordinarily rapid process, and was heavily influenced by earlier UK legislation that failed to pass in Britain.
+
+The DRD was written in a hurry, and sold to a compliant European parliament as necessary to Save the Children from Organized Criminals and Terrorists. It was one of several anti-Internet laws passed in that decade, at high speed, and in silence. The Intellectual Property Rights Enforcement Directives (IPRED) criminalized copyright and patent violations, which were traditionally civil disputes. The Telecoms Directive regulated the telecoms market (and did nothing to stop the roaming mobile broadband banditry across Europe, the one issue regulators should have tackled).
+
+The DRD had two main features. First, it cracked down on anonymous access to the Internet and telephone systems. No more access to Internet cafés without identification. No more mobile phone subscriptions without papers. If this hurt undocumented immigrants, so much the better. Second, it required Internet service providers (ISPs) and phone companies to collect metadata on all communications (emails, phone calls), store this for several years, and make this available to governments.
+
+The process by which the DRD was passed was quite the lesson in how to sell impossible laws to the public. Let's remember that the US was pushing for exactly the same kind of surveillance. So this was probably the generally agreed upon policy of the governments of the West. However, it was a difficult sale given Europe's staunch history of data protection, in other words, laws to limit how much data could be held on individuals. In 2004, the Westminster parliament roundly rejected a proposal from the Blair government to collect and store metadata on phone calls and emails. I can imagine their televised outrage at the idea.
+
+The next day (metaphorically speaking, for I'm sure there was a pause for sandwiches and wine), the UK government was in Brussels. They laid their proposal before the European Commission. We don't know how the discussions went, though they cannot have been difficult. The Commission wrapped up the British proposal as a Directive, without the usual public consultations, and laid it before the Brussels Parliament. It basically told them, "If you're against terrorists, and cybercriminals, and pedophiles, you will vote for this," and the European Parliament did just that, overwhelmingly.
+
+The UK government then took the new European legislation back to London. They presented it to the Parliament in Westminster, and said, to paraphrase, "Sorry, chaps, it seems those damnable Eurocrats have done it again. We've no choice except to ratify this one." Just before tea and more sandwiches, they decided, with televised regret, to vote the DRD into British law. There was no real alternative, was there?
+
+In Germany, the DRD was ruled unconstitutional and was not implemented. Other countries embraced the legislation. Here's how Wikipedia [https://en.wikipedia.org/wiki/Telecommunications_data_retention#European_Union describes Italy's enthusiastic implementation]:
+
+> Internet cafés and public telephone shops with at least three terminals must seek a license permit within 30 days from the Ministry of Home Affairs. They must also store traffic data for a period which may be determined later by administrative decree. WiFi hotspots and locations that do not store traffic data have to secure ID information from users before allowing them to log on. For example, users may be required to enter a number from an ID card or driving license. It is not clear how this information is validated. Mobile telephony users must identify themselves before service activation, or before a SIM may be obtained. Resellers of mobile subscriptions or prepaid cards must verify the identity of purchasers and retain a photocopy of identity cards.
+
+Britain was then, and still is, creating what must be the most dense surveillance state in the known universe. In London there are approximately 2,031 cameras per head of population. OK, that figure is a joke. The real figure is somewhere between "a lot" and "you //cannot// be serious"). So the DRD, with its shifting of the burden to private industry and the bulldozing of data protection, came at an opportune time.
+
+Much of what the DRD mandated wasn't even possible then. ISPs scratched their heads, wondering where they were going to find so many hard disks. Of course, technology caught up, and by the time of the First Revelations of St. Snowden, the NSA's little brother in Britain, GCHQ, was storing three days of all Internet traffic crossing the UK. Using my previous TDS calculations, for 60 million people, that's 30 petabytes, or 30,000 terabyte hard disks. That's less than $1 million in 2013, which is pocket change.
+
+++ The Whale Shark's Maw
+
+It still sounds like a lot of data to process in real-time, like in the movies. I'm sure real-time tracking is part of any modern surveillance system, limited to a tiny number of high-interest targets, such as politicians, lawyers, judges, journalists, activists, and so on. It needs a live person at the controls.
+
+The bulk of the work has to be automatic processing of the raw data, at multiple levels. There is a science to this, and it explains why the security apparatus obsessively expands its data sets, and why it probably keeps them forever, no matter what the law says. I'll explain one possible approach. This is not a factual account; it's just one plausible strategy.
+
+The raw streams are published out to thousands of different "detectors." A detector requests specific slices of data and searches for particular keywords or patterns. These patterns could include when a person uses a specific keyword in a phone call, or visits some website, or makes a particular kind of purchase. Each person's data is in effect a separate stream, so the detectors can be run on any number of compute nodes. The raw data is recorded so that different detectors can be run over and over on real historical data.
+
+The detectors produce matching "events." These events are indexed in databases, and a series of "trawlers" scan these, looking for correlations between multiple individuals. Perhaps two persons of interest were in the same location at the same time. Maybe one man tagged as "homosexual" met another man in a hotel for an hour, the day after exchanging emails.
+
+The trawlers produce "hits." Each hit provides a potentially interesting fact. Most hits will be false positives, which are too expensive to filter out by hand. So the next step is "filters" that remove false positives using different heuristics. What's left is a high-quality (at least in theory) stream of positive hits that the expensive and slow human analysts can examine.
+
+To do this work on realistic data sets requires a lot of "pre-computation." I'll give one example. If 10,000 compute nodes are working on the raw data, a naive algorithm would have to make 10,000 comparisons against each incoming piece of data. That would not be fast. To be fast, we must first pre-compute an index that turns any given keyword into a set of compute nodes. We can then hash any piece of data into a set of keywords in constant time, and turn that set of keywords into a list of compute nodes also in constant time. It makes the difference between processing 1,000 pieces of data per second and processing 10 million per second.
+
+This excludes real-time "what if" scenarios. These are possible on small data sets, such as the stream for a single individual. It's not possible on the real raw data. Instead, the analysts improve their detectors, trawlers, and filters over time by seeing where they don't work perfectly, and improving them there.
+
+So for example, if the FBI missed the Boston Bombers of 2013 (which they apparently did), they'll go back to the data set of those individuals -- back 2, 5, or 10 years -- and try different algorithms. Eventually, they'll develop better ones that could have given positive hits on these young men. They can then replay those algorithms on other data to check that they make sense and don't produce new false positives. Once the new detectors, trawlers, and filters are working, they are plugged back into the production systems.
+
+The tools don't need to be perfect today. For such data mining to work, one need only collect enough data and hold it forever. Any new detector or algorithm must be retested against historical data and historical events to make sure it is better than previous ones.
+
+From the perspective of the ones building these systems, storing everything forever is a logical answer to a real problem. There are privacy laws, which are for other people. No spy was ever convicted for breaking a law on privacy.
+
+This obsessive tracking of our private lives is of course entirely asymmetrical, and wasteful. It makes us all criminals, all the time. Society cannot be divided into those with nothing to hide and the terrorists. This collected data can be leaked, used to blackmail politicians, stolen, and sold. It's certain that this collection of our private lives as the exclusive privilege of gray men who work for the rich and powerful is not a good thing.
+
+Having said that, the cost of tracking everything about us is falling by 50% every two years or less. Sooner or later the monopoly of power that the alphabet agencies enjoy in this domain will be gone. This is, I think, the real outcome: cost gravity will take those emperors' toys and make them commoners' tools.
+
+In the meantime, exposure of the Spider's and Para-state's own secrets provides something of a balance. Those most ready to attack others are usually also those with the most to hide. I can't wait until the first leak of the full files for every single Congressman.
+
+++ Skynet, I Presume?
+
+One of the groups processing what the Spider sees is the Special Operations Division (SOD) of the DEA. In August 2013, Reuters [http://www.reuters.com/article/2013/08/05/us-dea-sod-idUSBRE97409R20130805 reported that], "//A secretive US Drug Enforcement Administration unit is funneling information from intelligence intercepts, wiretaps, informants and a massive database of telephone records to authorities across the nation to help them launch criminal investigations of Americans.//"
+
+The SOD unit, numbering several hundred people, shares information with the FBI, NSA, CIA, IRS, DHS, and half a dozen more agencies. The unit was created in 1994 to fight Latin American drug cartels. It is true that the Mexican drug cartels [https://en.wikipedia.org/wiki/Miguel_Trevi%C3%B1o_Morales are undoubtedly vicious] and if they lived on my doorstep, I'd probably bless any agency who asked with the powers it asked for to fight them.
+
+There are strong arguments that drug prohibition created these cartels in the first place, and law enforcement budgets that depend on them in the second. Every police force eventually forms a symbiotic, and profitable, relationship with the criminals it is meant to catch. Let's set that aside for now, though.
+
+I see two red flags in the SOD's work. The first is the sharing of information with other agencies. This may sound innocuous, even sensible. However, what it means is that those 12 agencies are building an integrated spy network. "Sharing" is a euphemism for "standardizing data formats and real-time interconnectivity." Before, we have a dozen or more autonomous and disconnected agencies. After, we have the Spider. This of course makes sense for enforcement. It is, however, an extraordinarily dangerous tool. As we've seen, law enforcement is not neutral.
+
+Not least, as the Guardian [http://www.guardian.co.uk/commentisfree/2012/dec/29/fbi-coordinated-crackdown-occupy wrote in 2012], the Spider takes orders from the banking industry. This is the same industry that [http://www.theguardian.com/global/2009/dec/13/drug-money-banks-saved-un-cfief-claims in 2009 received $352 billion] from those drug cartels which excused the creation of the Special Operations Division to start with. This influx of cash saved many banks, according to Antonio Maria Costa, head of the UN Office on Drugs and Crime.
+
+The second red flag is the use of "parallel construction" to fake the evidence trail. Ostensibly, the goal is to protect informants and sources. However, Reuters' report shows it being used instead to conceal links with the NSA, in other words to hide the existence of the Spider. Suddenly, the Spider is targeting US citizens. Reuters adds that "the SOD's mandate has expanded to include narco-terrorism, organized crime, and gangs."
+
+The slippery slope goes one way. From drug dealers to growers, and small time dealers. From gangs to anyone who has been in prison or lives in a poor neighborhood. From terrorists to political activists and campaigners, and eventually anyone who threatens the establishment.
+
+Society has largely tolerated wire-tapping because the security services only targeted "foreign terror threats." Parallel construction (aka, "intelligence washing") tries to maintain that pretense. However, as "anti-terrorist" intelligence is used more and more in straight-forward criminal cases, we'll see the term "domestic terrorism" expand. Eventually the pretense will collapse and it will be clear that the security services are focused on political dissidence above all.
+
+++ The Bogeyman Cometh
+
+As we FFII volunteers worked in Brussels, without success, against the Data Retention Directive in 2005, I wondered what the real back story was. The argument that "this is against terrorists/cybercriminals/pedophiles" seemed -- and still seem -- fatuous. The sheer cost, in financial terms, and in privacy terms, seemed disproportionate.
+
+The fact that the UK was the driving force behind the DRD seems significant. Why, I asked myself, was the UK government so obsessed with putting every one of their citizens under complete and secret surveillance with no judicial or legislative oversight? Technically, "domestic spying" is banned by any country with a sane constitution. We've had enough experience of what happens when the State allows this to happen. At best, it's a stifling blanket that turns the country into a poor, tired, cardboard box of a place. At the worst, it leads to the collapse of reason, and self-destruction.
+
+The question no one seems to be asking is, "Why?" Why would the UK government want to spy on their citizens and push the whole EU to follow? There was, after all, no real political dissent, no dramatic challenge to established authority, no risk to the political elite that they would lose their grip on power. The unspoken deal was, you continue to give us cool gadgets and digital toasters and the Internet. In return, we'll ignore your thievery, whoring, and corruption of the peaceful society for which our parents and grandparents fought.
+
+It is true that the EU Parliament passed the DRD in February 2006, six months after the London bombings. However in June of 2005, one month //before// the London bombings, the European Parliament had already [http://www.zdnet.com/eu-parliament-rejects-data-retention-plans-3039203034/ rejected the draft proposal]. It was finally passed only by force; the European Commission threatening much worse legislation if Parliament rejected it again.
+
+The digital revolution does present a real, existential challenge to the Para-state. However this challenge is like an off-shore tsunami, taking place deep beneath the surface, and almost invisible until it is very close by. That makes it all the more dangerous, yet also too subtle to have registered on the radars of our leaders, before the Facebook revolutions of 2011 and later.
+
+Something else happened. It must have been around the turn of the century, and whatever it was, it created enough paranoia and fear to drive major world governments to do some pretty extreme stuff. We're not just talking about good statesmanship and careful preventive action. We're talking about a broad international agreement to disregard the rule of law in the name of maintaining order; specifically, to undermine laws that protect privacy and the freedom to assemble.
+
+There are three main threats that could potentially explain the urgency of the Para-state to build the Spider:
+
+* //The digital revolution itself//, which I discount because the Spider was already assembling by early 2001, too soon to be a response to the growing power of digital society.
+
+* //Islamic terrorism//, which we realize today was, and has always been, [http://www.washingtonsblog.com/2013/04/statistics-you-are-not-going-to-be-killed-by-terrorists.html a bogey man]. There is no War on Swimming Pools and Stairs.
+
+* //File sharing// and the threat to the media companies. I would like this answer except that the Spider simply didn't care about file sharing until it was prodded heavily. Perhaps this is because the nerds in the NSA are all too busy downloading Game of Thrones themselves.
+
+It's possible that the threat of international nuclear terrorism was real. Perhaps we are safe and sound thanks to the alphabet agencies, and their careful recordings of our private lives. Maybe. It's hard to prove the negative. I will state my opinion, for the record. That is: the threat of turbaned terrorists nuking our cities and blowing up our planes was an obvious hoax, played by the propaganda arms of our governments on us, the television watching public.
+
+One of the foundation beliefs for the War on Terror is the notion of religion as the basis for conflict. We've been taught that the world is filled with dangerous, angry, and jealous people. They hate our democratic, peaceful, happy way of life. They have decided to destroy it. And that hate, we are told, stems from religion, radical Islam, which is (we are told repeatedly) a nasty backwards philosophy that turns people into monsters.
+
+Now, I've lived for 15 years in a largely Muslim part of Brussels. It's true that there are not many pubs and bars in this area and the cafés are filled with men drinking //café au lait//, rather than beer or wine. We live just down the street from a mosque. It is true that on Friday evenings there are cars parked literally everywhere. I have amicable chats with our neighbors, two Moroccan brothers in their 40's who will occasionally share a smoke with me. I've had pleasant chats with the caretaker at the mosque, a bearded Pakistani man with seven children, about immigrant life in Brussels. My most stressful experience with Islam to date was a discussion with a group of kids in the park, who insisted that God was real.
+
+The notion that religion makes men mad is ludicrous. It makes them less sharp, for sure, yet it also has strong survival value for societies in stressful environments. However, our newspapers have been filled with stories of religious wars, extremists murdering women, blowing up ancient monuments, taking hostages, exploding car bombs, and so on.
+
+Let's assume these reports are all true, and not even slightly fabricated, exaggerated, or emphasized. Let's accept that there are no //agents provocateurs//, no secret slush funds to pay armed men to create havoc, no incentive whatsoever for the CIA and its friends to stir up trouble and give it a name and branding. It still doesn't click.
+
+Every violent so-called "religious conflict" is driven by local politics. Northern Ireland, Bosnia, Lebanon, Chechnya, Syria, Algeria, Libya, Northern Nigeria, Iraq, Afghanistan, Sudan, Indonesia, Burma... the story is always one of cynical older psychopaths wrestling for power, using whatever weapons they can, including weak and vulnerable people who can be convinced to fight and die for them. However, if you are in the business of conflict, then sticking the "religious" label onto a political problem does something magical. It makes the conflict unsolvable except through invasion, exhaustion, or genocide. There is no negotiated settlement for a religious war.
+
+It struck me as sinister that in the conflict in ex-Yugoslavia, the three main sides were the Serbs, the Croats, and the Muslims. We didn't speak of Orthodoxes and Catholics, yet in labeling the Bosnians as "Muslim" and casting the conflict as "ancient ethnic rivalries," the world media created the scene for intractable conflict, and arguably, genocide. The actual story was of a group of gangsters who had seized the armory of the defunct Yugoslavia. The thugs then went empire building at the cost of their neighbors, mostly farmers and small city folk, who were unarmed and unprepared. All NATO had to do was hit the gangsters hard one time, and they crumbled.
+
+Myths do of course create their own reality over time. Today there are thousands of young men who have been trained in killing in the name of Jihad, in camps and wars around the world. And whenever there is a violent conflict that figures Islam anywhere in it, it draws these men in. This is not, however, an international organization or movement, just a large bandit gang. And to be honest, it is hard to distinguish this gang from one of the Spider's teeth.
+
+I grew up 300 km from the troubles in Northern Ireland, which were portrayed for decades as an intractable religious conflict between Protestants and Catholics. And yet, when people stopped talking about religions, and instead looked at the politics, we found solutions. This is a consistent pattern.
+
+Conflict is always political, yet leaders often invoke religion to bolster their followers, and create more tribalism. Outsiders, searching for simplistic explanations, and possibly arms sales, embrace this rhetoric as reality. As the conflict increases, the religious arguments will definitely increase. However, it's correlation, not causation. And in the end, the solution comes from addressing the original political issues. Until then, and as long as possible, the beneficiaries (war can be incredibly profitable!) will pump up the "irreconcilable ancient hatreds" angle.
+
+And so it goes with the Global Extremist Islamic Threat to Modern Civilization. It appeals to atheists and Christians alike, and provides convenient cover, both for unprecedented profit-taking, and for creating the spy networks. However, a pumped-up threat of crazy foreign religious nuts doesn't explain the breathless alacrity with which the Spider was assembled, starting in 2000 or so. It doesn't explain why the US government threw away its own rule book on spying on its citizens, why the UK wanted that DRD so badly. As for why the rest of Europe went along without hesitation, perhaps the timing of the London bombings had something to do with it.
+
+++ The Unmentionable Canary
+
+Child porn is the unmentionable canary in the coal mine of privacy. As much as we may detest child porn, and I do, the crusade against it smoothly morphs into a [http://www.telegraph.co.uk/technology/internet/10194641/Camerons-crackdown-on-illegal-pornography-criticised.html general crusade against obscenity]. This brings us back to censorship, regulation of morality, and the expansion of criminalization. Though it's easy for the authorities to claim, as UK Prime Minister Cameron did, that "on-line pornography is eroding childhood," this is frankly an appeal to laziness and the most negative emotional responses to a serious social problem.
+
+My three children have ranged free on the Web since they could click a mouse, at the age of two or three. We have no Internet filters at home. There are many noxious places on the web, not least inane Flash games that somehow always end up asking for credit card details. My children, even young, have learned that there are dangers out there. It's no different than the dangers of the real world. Strong children are not those who grow up in safety helmets.
+
+The right approach for parents and schools is to actively guide children away from dangerous places -- and to explain why -- and towards safe places. It doesn't take a genius to realize that if pornography is banned or hidden, it simply boosts its appeal and makes it harder for parents to take control. I'd much rather my son stumbled across a porn site while using the PC in the living room than while at a friend's house.
+
+The creation of the "family-friendly Internet" is a slippery slope, with the obvious, and I assume intentional, outcome of creating an Internet too feeble to hurt the Para-state. First, it's the child porn networks. Then, it's obscenity in general. Then it's unmoderated forums, since adults might meet and groom children there. Then the use of on-line aliases, since that's how child abusers hide. Then it's a ban on anti-establishment forums, because terrorists. Then encryption, because that allows discussions to happen secretly, because pedophiles. Then unsanctioned software and devices. And so on.
+
+Meanwhile, children won't be protected in any concrete way. Rather, they will be cut off from anything that might teach them important facts about the dangers of the real world. Worse, it will create a generation of criminals who learn how to circumvent the blacklists and break the law to get access to porn. But above all it would throttle the essential freedoms to speak out and organize against the abuses of the Para-state.
+
+Britain often leads the way in the attacks on privacy, which then become wider policy across the world, especially the Axis of English: Australia, Canada, the US, and New Zealand. If Cameron's experiment takes hold, we can expect to see censored Internet access pushed on a wider basis. In fact, Britain is trailing -- Australia has had Internet censorship since 2008 and is classified as a country "under surveillance" by Reporters without Borders.
+
+There is no dividing line between "protecting the children" and removing free speech and free access to information. We just have degrees of state intervention. Digital society must be careful about tolerating the criminalization of behavior, such as seeking socially unacceptable porn, that gives the goons an excuse to push the line the wrong way. As with narcotics, the police are not the right tool for public health issues.
+
+++ Zombie Conspiracies
+
+There is one other global existential threat to our way of life, and I'm not talking about Hello Kitty. I am however talking about peak oil, and the risks it brings for our comfortable holiday society. Bear with me, I'm not a catastrophe fan (we made it through Y2K, so how bad can the future be, right?). However, that doesn't mean that other people are as optimistic as me.
+
+Though the industrial revolution started with coal, today's global economy owes its very existence to long-chain liquid hydrocarbons, aka "oil." Of the [https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue seven largest global businesses], six are oil and gas -- Exxon Mobil, Shell, Sinopec, BP, CNPC, Aramco -- plus Walmart in position three. Eighteen of the top 50 businesses are oil and gas.
+
+Oil is a funny thing, and I mean apart from the fact that it's about [http://www.cockeyed.com/science/gallon/liquid.html 10 million times cheaper than scorpion venom]. Without it, we wouldn't have an industrial society at all, and no digital world either. One could argue that by definition, our species would have found //some// form of cheap energy, thanks to cost gravity. Or alternatively, that by sheer luck and chance, we hit oil just when coal started to become too costly and dirty. Either way, oil is the lifeblood (though about 500 times cheaper than human blood, after the processing fee of $1,500 per gallon of blood is factored in) of our industrial society. Take away oil, and we have some really big problems.
+
+And, although it has [http://www.google.com/trends/explore?q=peak+oil#q=peak%20oil&cmpt=q dropped off the radar] in the last years, peak oil is a fairly solid thesis. That is, we're ending the era of cheap oil, and the future is one of rising oil prices, scarcity, and (more) wars over oil. Deja vu, anyone? We're going to end with Mad Max and large men in weird masks chasing us down the road so they can cut our faces off. The future is scary!
+
+Whether in 50 or 100 years, it's clear that oil is peaking, cheap oil supplies are running out, and the world will change forever as a result. It is difficult to overstate the impact on society as we know it. Our modern sprawling cities, energy-greedy economies, and political systems all grew in the bath of cheap energy. Modern representative democracy -- one adult, one vote -- was born alongside with the motorcar and cheap petrol. Remove the petrol and the motorcar, and what happens to the political system?
+
+Personally, I'm sure we'll shrug it off. Democracy seems largely a puppet show anyhow. We don't actually need cheap private transport to create an educated and representative society. In fact, cheap energy may be making us stupider; it certainly makes us greedy and wasteful. Perhaps a world where we're forced to chop and carry our own wood once more, where cities are built to a human scale, and where the night skies are dark, would not be so bad. An extra hour of sleep every night would not hurt.
+
+Further, technology never runs backwards. Cost gravity means that what is expensive today becomes cheap tomorrow, with the arguable exception of scarce natural resources. One example: solar technology, which today is still a luxury good. Thank you, oh patent system! Tomorrow, it will be as cheap as paper and we'll wallpaper the deserts with black panels and connect them with cheap superconducting grids. Oil will run out, and no one will notice except the oil industry. And that industry will have to stop its sabotage of the solar and wind energy sectors, with patents and lobbying, and instead embrace the future.
+
+Does industrial society's political elite see things like this? Do they have such a positive, optimistic view of humanity? I doubt it. The powerful never sees others as good, only as cheap. In 2000, just after the turn of the century, fuel protests broke out across Europe. The [http://news.bbc.co.uk/2/hi/europe/919354.stm BBC reported]:
+
+> Protests over high fuel prices have been gathering momentum across western Europe. Lorry drivers, farmers, and other fuel users have blocked oil installations and disrupted traffic in towns in Germany, Britain, Belgium and the Netherlands. Although nearly all the blockades which crippled France last week have now been lifted, elsewhere protesters have been encouraged by the concessions their French counterparts won. The UK Government has been given authority to take emergency powers to ensure fuel distribution, after the blockade and panic-buying by motorists led to many petrol stations running dry.
+
+Note the apocalyptic tone of this report. I can almost imagine the voice coming from a crackly black and white radio. An elegantly understated 1970's BBC accent reads us the collapse of civilization. "Paris has fallen. Madrid has stopped broadcasting. Berlin is off the air. We are alone. God save the Queen." The last survivors (all white and male, with one token dark female person to show our calculated empathy for the masses) huddle in a bunker. We pray the government will reorganize itself and send in the army to save us. It is one of those old British sci-fi movies, //Day of the Triffids//, perhaps, or //28 Days Later//, with its flesh-eating zombies.
+
+The price of a barrel of oil at the time was $35, a shocking three-fold increase in just two years. As [https://en.wikipedia.org/wiki/Fuel_protests_in_the_United_Kingdom Wikipedia tells it], the [https://en.wikipedia.org/wiki/Civil_Contingencies_Committee COBRA committee] drew up plans to bring the military into play. When the men in charge put soldiers on the streets, it means they are afraid for their survival. Remember this, America, when your police strap on their body armor and climb into their IED-proof armored vehicles.
+
+I'm no psychologist and the political elite of 2000 did not write blogs to explain their views of the world, so I can only guess how London, Paris, Moscow, and Washington reacted as they saw Europe head towards fuel starvation and civil collapse. //Three questions for the experts. One: How high will oil prices go? Two: How will our citizens respond? Three: What do we do to keep order?!//
+
+And the answers came back. //One: Very high. This is just the start; expect to see oil at $100 a barrel a decade from now. Two: Bloody panic and rioting in the streets. Have you not been following the news? Sheesh! Three: We'll come back with a full proposal. It won't be cheap, although better safe than sorry.//
+
+Our political elite is not selected for general intelligence. They are good at collecting money and power and holding onto it at any cost. That is their skill. Understanding the real world, being good at math, knowing the difference between astronomy and astrology... that's what consultants are for! And this elite gets its view of the world from Hollywood. When they watch zombie movies, where the infectious undead ravage our cities and bring down civilization, they don't think "fantasy." Rather, they think "scary metaphor" or quite possibly, "graphical prediction."
+
+My imaginary experts predicted that, in 5 to 10 years, the fuel crisis would cause civilization to collapse. First, the cities would become free-fire zones, infested with drug addicts and cannibals, maybe even flesh-eating multicultural zombies. The army -- solid men of many colors, slow, and dedicated -- would erect barbed wire fences. And the zombies would inevitably climb over the barricades, and groan and lurch their way to the suburbs. There, the survivors -- all white, good teeth -- would succumb. Eventually the Vice President would have to nuke half the country just to maintain order.
+
+It would be rather simpler, and less painful, to take measures now.
+
+This is how I figure our political elite analyzed things. Disaster is inevitable unless strong measures to keep control could be taken. And so since 2000, we've seen a wide range of extremely intrusive measures that all have echoes of collective desperation. It's as if, with one mind, the leaders of the free world had decided to dismantle privacy, adopt the most cynical measures to watch every aspect of their citizens' lives, and to hell with legality and the consequences.
+
+Today, as my imaginary experts predicted, oil is three times the price of 2000, at about $100 a barrel. The price is still rising though not as fast as it might be. There have not been any more riots or disturbances over oil -- though France did erupt in early 2013 over the unacceptable equality of marriage -- and we seem to have forgotten the events of 2000. That was //before Facebook//.
+
+Paranoia sleeps with both eyes open, though. We've only accepted rising fuel costs because the Internet and global trade somehow kicked the world economy back into gear after 2000. Miraculously, the flood of cheap goods from Asia lowered the cost of living enough to compensate for rising fuel costs. That flood can't be infinite. It will end some day, and then we'll be back to barricades, Molotov cocktails, and zombies.
+
+Meanwhile, the political elite needed something solid to justify their plan to put a ring of iron around their citizens. Which brings me back to our Bogeyman.
+
+++ Footsteps in the Blood
+
+I find it remarkable how the march of Islamic terrorism seems directly linked to the price of a barrel of oil.
+
+The twenty-first century recycled the term "terrorism" into something quite new. Before 2000, "terrorists" were always groups of angry and violent fighters representing suppressed minorities fighting for a homeland or change of government. We had terrorism in Northern Ireland, the Basque region, Palestine, Sri Lanka, Kashmir, Algeria, Indonesia, and so on. They were always heroic figures, if you liked that kind of thing, though murderous, so you could support either side and still feel good about it. Viva Che!
+
+In September 1999, a series of explosions [https://en.wikipedia.org/wiki/Russian_apartment_bombings hit apartment blocks in Moscow]. Journalist [https://en.wikipedia.org/wiki/Alexander_Litvinenko Alexander Litvinenko] was an officer of the Russian FSB secret service (ex-KGB) who first fell out of favor for accusing his superiors of assassinating the oligarch Boris Berezovsky. Litvinenko claimed the FSB carried out the Moscow bombings, which were the excuse for the second Chechen War. He was murdered in London by an unusual radioactive isotope. [https://en.wikipedia.org/wiki/Anna_Politkovskaya Anna Politkovskaya], another Russian journalist who made the same claims, was murdered in Moscow in 2006.
+
+We know how the events of September 11th changed the world. The US government pulled the PATRIOT Act out of the drawer, pushed it through into law, and proceeded to invade Afghanistan and then Iraq on the pretext of hunting down the terrorist perpetrators. Most of the rationales for those wars, such as Sadam Hussein with his anthrax factories being behind the 9/11 attacks, and building weapons of mass destruction, turned out to be false.
+
+What fewer people know about, or remember, is the murky behavior of the US government before and after the 9/11 attacks. The New York Times [http://www.nytimes.com/2004/09/08/politics/08graham.html?_r=0 wrote, in September 2004], how the FBI refused "to allow investigators for a Congressional inquiry and the independent Sept. 11 commission to interview an informant, Abdussattar Shaikh, who had been the landlord in San Diego of two Sept. 11 hijackers." According to the Co-Chair of the Congressional Inquiry into 9/11, former Senator Bob Graham, also a former chairman of the Senate Intelligence Committee, "this cover-up goes right to the White House."
+
+Graham [http://www.rawstory.com/rawreplay/2011/09/former-sen-bob-graham-calls-for-new-911-investigation/ went further], alleging that "in the final report of the congressional inquiry, there was a chapter related primarily to the Saudi role in 9/11 that was totally censored, every word of the chapter has been withheld from the public. Some of the other questions we ought to be asking are if we know that the Saudis who lived in San Diego and now apparently in Sarasota received substantial assistance, what about the Saudis who lived in Phoenix, Arizona? Or Arlington, Virginia?"
+
+Unfortunately, any suggestion that 9/11 was predictable, or [http://www.washingtonsblog.com/2011/08/bush-and-clinton-counter-terrorism-czar-alleges-massive-911-cover-up.html allowed to happen] by negligence, or even made to happen, is to be [https://en.wikipedia.org/wiki/Richard_A._Clarke branded a conspiracy nut]. The mainstream media did not then, and still does not, look at any details that contradict the official story. To question the mythos of the War on Terror is literally to risk [http://www.washingtonsblog.com/2012/08/former-locked-in-psychiatric-ward-over-his-911-facebook-posts.html indefinite detention in a psychiatric ward].
+
+The line of evidence connecting 9/11 to the Spider's growth may be thin, yet is one of the clearer trails in a chaotic mass of lies, omissions, bluffs, and misdirections. As [http://rawstory.com/news/2008/PBS_NSA_tracked_911_hijackers_but_0127.html the Raw Story reported in 2009],
+
+> Author James Bamford looked into the performance of the NSA in his 2008 book, The Shadow Factory, and found that it had been closely monitoring the 9/11 hijackers as they moved freely around the United States and communicated with Osama bin Laden's operations center in Yemen. The NSA had even tapped bin Laden's satellite phone, starting in 1996. Not only was then-Director Michael Hayden never held accountable for the NSA's alleged failure, but he went on to oversee the Bush administration's vast expansion of domestic surveillance. In 2006, he was appointed as director of the CIA.
+
+For the sake of argument, imagine the most powerful men on the planet coming out of the post-Cold War security services. Vladimir Putin was in the Russian KGB [https://en.wikipedia.org/wiki/Vladimir_Putin for 16 years] before retiring to move into politics. Though George H. W. Bush was director of the CIA for just over a year, Russ Baker claims in [https://en.wikipedia.org/wiki/Family_of_Secrets Family of Secrets], with much research, that the Bush family played a central part in US politics and secret services for half a century.
+
+These men had made phony war their business for decades, and ran the largest budgets in the world, so when their era of "mutually assured destruction" ended, they were presumably looking for new work. I would, in their place.
+
+I think that by the end of the last century, Islam was selected as the best candidate for a Bad Guy to replace the crumbling East-West divide with its slowing profits for the military-industrial complex. We have the mass immigration of North Africans and Turks into Europe as the basis for anti-Islamic public policies in Europe. We have the conflicts in Chechnya, Indonesia, India, Afghanistan, ex-Yugoslavia, and of course, Palestine, to prove how Islam is the religion of hate.
+
+We had at least [https://en.wikipedia.org/wiki/Al-Qaeda#Jihad_in_Afghanistan $600 million] of American money going to Gulbuddin Hekmatyar, the founder of the Hezb-e Islami radical Islamic militant faction. Hekmatyar worked closely with bin Laden, and then received further money from the Saudis, close friends of the Bush family for decades, and the home country of the 9/11 hijackers. Hekmatyar was just one of many warlords and pirates to accept illicit slush money in return for violence against America's enemies. Remember the Iran-Contra affair?
+
+Oil, Saudi Arabia, Afghanistan, intractable religious conflicts, NSA, CIA, KGB, exploding tower blocks, ex-secret service men becoming presidents, terrorists-for-hire, and a new War on Terror. It works very well as a story arc. Whether it's true or not, history will discover. What is certain is that a lot of tax and oil money went to building up a credible Islamic threat in Afghanistan. And then a whole lot more was spent on fighting it. And during that fight, we slipped and broke our civil liberties.
+
+In the late 1990's, we were expecting the "peace dividend" and the downsizing of our armies and secret services. However, the security money train did not stop or slow down. Instead, it almost [https://www.cfr.org/defense-budget/trends-us-military-spending/p28855 doubled in size] during the first decade of this century. We thought we had left the destructive wars of the twentieth century behind us, and instead we find that in this century, we were always at war with Eurasia.
+
+The defining feature of the Para-state, apart from their belief that B-movies are honest-to-god documentaries, is their inability to connect with the majority. Spend a weekend in a luxury hotel, all costs paid, and you will feel superior to the bellhop. Be born into a life of privilege, where luxury hotels are for the poor and outcast, and you will know to the core of your being that you are a god walking among mortals. And gods answer to no one, except perhaps higher gods.
+
+Follow the money. On the one hand, you have a political elite who are convinced the world is about to end if they don't take drastic action soon. On the other hand, you have a military-industrial complex not so keen on retirement and a 75% cut in income. And on the third hand, you have a compliant public with savings, pensions, and a shockingly innocent trust in their rulers.
+
+So a terrorist threat created and pumped up entirely to satisfy a paranoid elite's need for an external threat is not far-fetched. It is one of the simplest plausible explanations for the whole circus. It's exactly what I'd do, if I were an ex-CIA officer. A possible flaw in this reasoning is that it assumes a certain level of competence I'm not sure our intelligence services possess. Still, Iran-Contra shows that real conspiracies do happen in our governments.
+
+++ The Ring of Steel
+
+Arguably the most spied upon country is the Nanny State, also known as the United Kingdom. In March 2011, a study by the Cheshire police [http://www.guardian.co.uk/uk/2011/mar/02/cctv-cameras-watching-surveillance estimated 1.85 million CCTV cameras nationwide]. Two years later, a study by the British Security Industry Association [http://www.securitynewsdesk.com/2013/07/11/bsia-attempts-to-clarify-question-of-how-many-cctv-cameras-in-the-uk/ came to a figure of between 4 and 6 million].
+
+The London Tube is widely reported to be covered by 11,000 cameras, which is about 40 per station. That seems like a low estimate. If you visit busy stations like Kings Cross, you can see dozens of cameras covering the turnstiles and stuck to the roof like colonies of hanging fruit bats.
+
+The London [https://en.wikipedia.org/wiki/Ring_of_steel_(London) "ring of steel"] was originally built to defend against IRA attacks on the capital. It has morphed over time from physical measures against car bombers to today's all-seeing blanket of cameras. Part of the infrastructure came together with the [https://en.wikipedia.org/wiki/London_congestion_charge congestion charge] in 2003, which gave the city the motive and opportunity to track every car's movement. At the time, tracking cars by reading their plates was cutting edge technology. Today it's cheap and widespread. If you drive, you are tracked.
+
+On CCTV, [http://www.privacyinternational.org/issues/cctv/ Privacy International says]:
+
+> CCTV is a seductive technology. In a public policy domain which is notoriously rubbery, CCTV has a solid, "Sexy," and powerful image. It has become an icon for security and -- for politicians -- its promotion is guaranteed to create a feel-good response. When people are frightened of crime and criminals, critics of CCTV are often portrayed as enemies of the public interest. While Britain is clearly the lead nation in implementing CCTV, other countries are quickly following. North America, Australia, and some European countries are installing the cameras in urban environments which a few years ago would most likely have rejected the technology.
+
+In the US, terrorism and crime are used as the plausible explanations. A [http://edition.cnn.com/2007/TECH/08/01/nyc.surveillance/index.html 2007 CNN story] about "the 'Ring of Steel' coming to New York" mentions "terror" seven times. The proposed surveillance system consists of license-plate readers, as refined in London, and CCTV cameras. In continental Europe, crime is the main rationale. Previously colorful districts of Brussels, like the African Matonge area, are now monitored by high camera towers. The petty drug dealers are gone, and so are the undocumented immigrants and the nightlife.
+
+Yet except for a small section of alarmists, and perhaps anthropologists studying inner city diversity, the public does not seem worried. According to CNN again: "a majority of Americans said they approved of the use of surveillance cameras by nearly a 3 to 1 margin in a recently published ABC News/Washington Post poll." Security does not just trump Liberty, he takes her into a dark back alley, violates her repeatedly, and then beats her senseless with a heavy stick.
+
+How effective is the surveillance? The CNN article quotes Steve Swain, who was a Detective Chief Superintendent with the London Met Police Counter Terror Unit (PICTU) during the time of the September 11th attacks, as saying, "I don't know of a single incident where CCTV has actually been used to spot, apprehend, or detain offenders in the act. The presence of CCTV is irrelevant for those who want to sacrifice their lives to carry out a terrorist act."
+
+That's a fairly damning critique, yet it only applies if the goal really is to stop terrorism. If the goal is simply the removal of privacy so we feel intimidated and less secure about engaging in political protest, then the cameras and car tracking are working precisely as planned. Hence the cultural death of Matonge, which was a center for political protest about Europe's policies in Central Africa.
+
+Surveillance in the real world keeps track with its digital counterpart. The only restraining factor in both cases, as far as we can tell, is cost -- not legality, ethics, public opinion, or benefits. The cost will continue to fall, and the number of eyes will continue to double every two years. Fixed cameras will give way to smart cameras that move and zoom to track pedestrians and car occupants. The eyes will shrink to just millimeters across and find their way into the very infrastructure of the city -- street lamps, traffic lights, stop signs. They will grow legs and scuttle around in corners, get wings, and fly around like little insects, tracking interesting people and cars.
+
+Every new train, bus, and taxi already has surveillance in the name of security. The cameras now have microphones, so what you say in the back of the taxi can be recorded. Vast amounts of data are processed by private firms, shared between agencies, and tied into the digital surveillance network. When your Facebook profile meets a suspect, the Spider sees it. And of course to offset the huge cost of this surveillance, it makes sense to sell the data to private firms or give them the contract to collect and resell it for sales and marketing purposes.
+
+Today, we're still safe inside our homes and offices. I think it's just a matter of time until that changes, unless there is a dramatic change in public attitudes towards being watched by the gray men, which I think is unlikely. I'm not sure what the arguments or events will be that convince us to invite the gray men over our doorsteps and into our homes. Maybe they won't even ask. They  will just silently turn on the microphones and cameras in our laptops, or hack into the "always on" cameras on our entertainment systems and smart TVs.
+
+As Sean Hollister [http://www.theverge.com/2013/7/16/4526770/will-the-nsa-use-the-xbox-one-to-spy-on-your-family asks in the Verge], "Will the NSA use the Xbox One to spy on your family?" noting that despite denying it was even technically possible, "Microsoft gave government agencies access to private Skype video and audio calls, perhaps even going so far as to integrate Skype into the NSA's controversial PRISM surveillance system."
+
+The change could come when they convince us that they need to "protect the children" or "provide security services to the elderly." It could start with some vulnerable section of the population such as criminals who are on parole, or drug users in rehabilitation. It could be drones that fly down streets, looking inside windows and through curtains. It's only cost and technical difficulty, both rapidly eroding, that stop the ring of steel around us from growing faster than it does.
+
+++ The Price of Privacy
+
+In a telling YouTube video, a young man takes a video camera and [http://www.youtube.com/watch?v=cPr2SKf2fX0 simply records people in public]. He walks up to people, starts filming, and when they complain, he points out that the streets are filled with CCTVs already. He gets some very angry responses. We certainly do care when individuals invade our privacy.
+
+However, when it comes to the destruction of our privacy by the alphabet agencies, business, or criminals, digital society has mostly responded with resounding silence. It has been over a dozen years since the Qwest incident, and yet it's only in 2013 with the Snowden leaks that the Spider is making headlines. The shock is not that the Spider is tracking our every word and deed. The shock is that people were surprised by this.
+
+I'm going to try to understand why. I think a number of factors explain why we tolerate the spying eyes:
+
+* //We are being boiled like frogs.// Instead of sudden changes, we experience many small adjustments, each with a plausible explanation. There's always a carrot, and a stick, for every small shift. After many years, we don't just accept the system; we are emotionally invested in it and defend it. After all, the alternative would be self-humiliation.
+
+* //The young man was just being rude.// You can film people in public if you're polite and convincing about it. He should have said, "I want to record you for this series I'm making about privacy, do you mind? If you don't like it, I'll go ask that other guy."
+
+* //We feel we're getting a good trade.// Sure, Facebook knows a lot about us, yet we also learn a lot about other people. Sure, websites track us with cookies. Oh look, pretty pictures!
+
+* //We enjoy the attention.// Most people are pretty lonely, and the idea that someone is watching isn't half as scary as the alternative -- that no one cares. This is why many people enjoy getting some spam. It may be junk, yet at least it's coming to us, personally.
+
+* //We calculate that it doesn't really matter.// We tolerate the cameras and spying because we know it's security theater, and we're not really that dumb to take it seriously, even if we like to pretend we are.
+
+* //TV taught us that privacy is a bauble to be traded for a few drops of fame.// Tell the world your most intimate details, and become a star for 15 seconds. Famous people don't have privacy. Why should the rest of us need it?
+
+* //The bogeyman will get us if we argue.// This still works with many people, though fewer than before. You can only cry wolf a few times before people switch off.
+
+* //We simply don't think about it.// As with any bad news that affects us all, be it climate change, nuclear meltdown in Japan, rising fuel prices, deforestation, pollution, and so on, we deal with it by making it someone else's problem. Sure, it's bad, yet it affects so many people. So someone else will fix it.
+
+It's much like airport security, which everyone knows is pointless and annoying theater. We tolerate it unless it makes us miss our connections, because it's more fun than being ignored. Airports are frankly boring places. If every street-smart flier complains about the TSA, isn't that just because some people enjoy complaining? The ritual of checking papers is a comedy that makes many people feel a little better.
+
+I think when we lived small lives, our secrets were more precious. At some level, we knew that privacy was a luxury and a relatively recent one. People used to live, and still do in many places, in cramped, smelly villages where everyone knew everything about everyone else. So today we're in the global village, and all the walls are grass again.
+
+++ The Naked Future
+
+In this chapter, I've documented how the Spider, those faceless alphabet agencies of the state, is spying on us. Our current web architecture, built on centralized servers, accessed through commercial broadband links, is trivial to tap. I've explained how the cost of storing everything interesting about us is falling down to zero.
+
+As to the "why," we see the Para-state -- a paranoid global political elite fighting to hold onto power -- prodded by a military-industrial complex that was running out of enemies before the terrorists, drug cartels, and on-line pedophiles conveniently came along. It doesn't even require a conspiracy. The collapsing cost of storage and computing power, combined with the centralized Web, makes global surveillance an inevitable outcome.
+
+No matter what the shocking revelations, no matter the public outrage -- it is simply too easy to spy on our electronic lives and too costly to prevent it. To some extent, society has accepted this as a fact of life and has become inured to it, even embraced it. We discount our own privacy so our secrets become worthless.
+
+The real question is not whether the total loss of privacy will happen, nor even how long that might take. In many ways, the war on privacy is the bogeyman, scary and yet inevitable, and thus ineffectual. The real question is what impact it will have on digital society, and how digital society will respond, force against force. Before trying to answer that, I need to first look at the wealth and assets of digital society, as that is where its power stems from.

@@ -1,0 +1,118 @@
+.bookmark platforms
++ Appendix B. Communicating
+
+Collaboration and innovation stem from cheap communications. However, not all communication platforms are equal. The following section is my own analysis of what the differences are between various communications media, or “platforms”, and what impact these differences have on groups.
+
+++ Part 1 -- The Platforms
+
+Let's look at the most commonly used platforms:
+
+* **Face-to-face**: the most ancient platform, the basis for Greek democracy and when followed by the appropriate shared dinner, evening at the theater or moving picture, and glass of red Bordeaux at a quite place around the corner, the continuation of our species.
+
+* **Written paper**: though stone and baked clay could survive going through the washing machine, flattened papyrus stems were more portable, cheaper and ultimately the basis of organized religion, the modern state, and TV guides.
+
+* **Telephone**: invented by Graham Bell in order to call his mistress, the concept of two cans separated by a very long cat rapidly caught the public imagination, especially when combined with a low, low monthly connection fee and easy-to-pay rate schedule. These days, phones are by definition mobile (at least in my study).
+
+* **Radio and TV**: sponsored by producers of soap and mad dictators, these one-way broadcast models reach millions of people cheaply. Along with newspapers and magazines, these are the epitome of industrial age "mass media."
+
+* **Fax**: invented by the Japanese in the 70's so they could send pictures of Godzilla more efficiently. Fax rapidly took over the business world because email had not yet been invented. Today fax is mainly used by producers of ink cartridges to promote the sales of ink cartridges for fax machines.
+
+* **Chat**: the Internet version of the telephone, chat has morphed from many forms, including IRC, which was a significant improvement on all its successors. Internet chat is successful because on the Net, any dog can look like a thirteen year old girl.
+
+* **Web pages**: the Internet version of the papyrus leaf, taking about the same amount of effort to hammer into usable material. The original website was built for nuclear research and within 24 hours had been defaced by h4ck0rz who loaded it with porn and made $150,250 before the nuclear scientists took control again, and invented the password.
+
+* **Electronic documents**: ranging from simple text files to the elegant suit-and-tie called PDF. PDF is the only popular communication platform that was invented, and more importantly, not royally screwed up in version 2.0, by a corporation. Graham Bell and his mistress do not count as a corporation.
+
+* **Email**: still, after all these years, the most popular way to send electronic mail. Email has had many incarnations, from evil Unix command-line mailers that asked, "Delete all email" on quitting, to point-and-drool web mailers that brought email and advance-fee fraudsters to the masses. Hotmail has paid for several nice villas along the beach of Lagos Island.
+
+* **SMS**: we never knew that a few lines of text stuffed into the tail end of mobile phone data packets could become such a huge business. SMS produces half of mobile phone companies profits and two thirds of all family disputes when daddy sees the phone bill.
+
+* **Mobile mail**: SMS chat for adults, epitomized by the Blackberry. Mobile mail combines the advantages of email with the portability of SMS plus full tax-deductibility as an essential business expense.
+
+* **Wiki**: the hippie mutant offspring of web pages and web-based email. Someone said, "if we let anyone edit this page, can it be any worse than the web currently is?" and the surprising answer was, "no." Though wiki sites are rarely beautiful, they prove the dictum that "many eyes make any problem shallow."
+
+* **YouTube, web forums, Google groups, blogs, Facebook**: share and discuss your deepest thoughts and stupidest moments, and the world will, surprisingly, share and discuss theirs.
+
+* **Twitter**: the twenty-first century bastard child of broadcast radio and the SMS text message. Twitter elegantly connects a set of broadcasters with a set of listeners, with almost nothing in the way.
+
+When we communicate, we have different, and sometimes conflicting needs:
+
+* The cost of accessing the platform, which I'll call “accessibility”.
+* The cost of making a single statement, or “unit cost”.
+* The informality of a statement, or (shock horror!) or “informality”.
+* The lack of skill needed to use the medium, or “simplicity”.
+* The speed of receiving and responding to a statement, or “latency”.
+* The number of people we can reach at once at reasonable cost, or “fanout”.
+* The reliability of the medium against tampering, or “security”.
+* The likelihood that our words can be used against us, or “transience”.
+* The ease of storing and searching a dialogue, or “persistence”.
+* The time we can take to respond to a statement, or “escapability”.
+* The freedom we have to pretend we lost a message, or “deniability”.
+* The freedom we have to hide our identity, or “anonymity”.
+* The bandwidth with respect to non-verbal communications, or “emotiveness”.
+* The ability to carry the platform with us, or “portability”.
+
+If you weight and rank these criteria, depending on your age, gender, and perspective, you'll find that one or other platform comes out as your favorite. No single product does everything well, so we need to mix and match platforms to get some sanity into our world.
+
+We can also see how different platforms suit different types of discussion. For example if we are negotiating a contract with a hostile or at least untrusted partner, we need high transience and deniability, so that we can negotiate freely, and touchy-feely so that we can use psychology and empathy. However, when it comes to getting a real promise we need low deniability and high escapability. So, we need to meet face to face and get the words down on paper.
+
+Take another instance, problem solving. This needs emotiveness, low unit cost, high latency, informality. Nothing else counts. The ideal platforms are thus chat, phone, and face to face. Don't try to solve problems by exchanging PDFs. It will not work, as the Napoleonic court system of written argumentation demonstrates painfully.
+
+You'd think this was obvious, yet people still try to use verbal contracts, or negotiate subtle arrangements by email. There are good reasons these don't work, and it is not because people are stupid or liars (it is a temptingly accurate though insufficient explanation). It is because the communications platforms are just not the right ones to get around the stupidity and dishonesty that is a vital part of every statement we ever make (especially when we think we are being clever and honest).
+
+Don't take my stories too seriously. For one thing, there are many criteria that I have forgotten or ignored. For example  --  don't laugh  --  the ability to choose an item in accessorisable colors is a huge selling point for much of the consuming public. For teenagers with no fixed place of work (and in most countries, no job), criteria such as portability totally outweigh any others. Ironically, those with the greatest need for mobile products are often those with the least money.
+
+People are often remarkably slow to use the “right” way of communicating. It can be frustrating to see people stubbornly trying to conduct meetings or solve problems or design specifications by email. The right platforms would be face-to-face or chat, chat or face-to-face or phone, and paper or web. Don't get me started on phone conferences.
+
+There are two main reasons people don't use the right platform in every situation:
+
+# The “hammer” syndrome. When you know and like one platform you try to use it everywhere. Despite what you see in the movies, email does not work as a tool for seduction, unless you have William Shakespeare's writing skills.
+
+# The cost of alternatives. Though it is easy to say, “let's meet”, when the other party is in Los Angeles, and you are at 13 Oxford Street, London WC 1, it's not so easy to do.
+
+++ Part 2  --  Organizations
+
+Call me an astute student of human nature if you insist. I've observed that humans organize into structures that are predictable, formalized, negotiated, and (I looked very closely, trust me) driven by patterns embedded in our genetic code.
+
+Whole political religions have been based on ignoring this fact, and worse, on trying to put people into structures that we can honestly call “unnatural”. In the worse cases, the attempt to re-educate people into artificial organizational structures has resulted in famine, genocide, and destruction of entire swathes of societies.
+
+People organize into structures that are driven by some basic economic principles:
+
+# All wealth is created by specialization and by trade between groups or individuals that have specialized in their particular areas.
+# Trade is the exchange of goods, services, information, or knowledge, and wealth is the accumulation of goods, credit, information, or knowledge.
+# The scope of trade is defined by available transports: sea, rail, road for material goods; communications platforms for information and knowledge.
+# Fair trade requires accounting, rules, and a strong, neutral authority to impose these.
+# Trade creates changes in wealth distribution that act to remix society into new forms.
+
+The flux of families, towns, regions, and societies is driven by these factors, in cycles that are entirely chaotic, in the mathematical sense of the word. If we want to understand human history we can add two more principles:
+
+# Over time, authority always becomes corrupt so that a society must revolt, stagnate and die, or go to war.
+# Human activity eventually exhausts resources (water, trees, fish, minerals) so that a society must adapt, move, or collapse.
+
+The human mind has evolved a set of tools that are capable of creating large organizational machines through these dual processes of specialization and trade. These machines tend to be competitive, collaborative, destructive, aggressive, and in many cases, downright insane. However, it's a great party and has worked surprisingly well, if you don't look too closely at the oceans, forests, and megafauna. “What megafauna?” you may ask. Well, precisely.
+
+The original and most striking specialization in the human genome is the ancient split into female and male.
+
+Now people, inevitably without kids and thus still basking in the blissful ignorance of theory, rather than stumbling from painful practical lesson to another, have often argued with me, “no, no, no, children aren't born with such gender-biased attitudes to life, they pick that up as they grow.” All I can say is, with one daughter and two sons, my evidence shows that the children steer the discussions. The idea that kids are soft shapeless plastic to be shaped is laughable. Kids are monsters sent to make our lives a misery, and that's a literal fact, in the metaphorical sense.
+
+My daughter  --  who I love dearly and who is living proof that the monster phase is just a phase  --  at the age of two locked her mother into a closet, then pushed a chair up to a cupboard to climb up and take her handbag. She rifled the handbag for makeup and painted her face and nails with lipstick while her mother literally had to break a hole in the closet door to unlock it.
+
+This was not simple imitation, it was a determined and and well-executed mission: wait till daddy is away, then lock mummy in the closet to play adult.
+
+Anyone who honestly claims that men and women are the same, bar the pressures and lessons of society, is both ignoring visible evidence, and insulting both genders. Equality of rights and freedoms and opportunity, no matter one's age, gender, origins, or beliefs, is one thing we all should fight for, and I try to, yet difference is what makes us successful, and interesting.
+
+Understand the way we think, as men and as women, as young and old, and you understand why different people prefer different types of communications.
+
+Let's look at some basic differences. These apply generally, not universally, and many of us will mix these up and play even opposing roles, in different situations:
+
+# Men prefer to command or be commanded, to organize into groups with clear goals. Men tend to focus on the utility of others  --  their skills or sexual availability. Men are happier to travel to strange places and take risks, even high personal ones, for a chance at proportionate success. Men like to explore new technology.
+
+# Women prefer to collaborate, yet will command maternally. They focus on relationships, which are mostly person-to-person. They value others on the basis of what they know. They are happier to move around less, take fewer personal risks. Women tend to distrust new technology.
+
+Any new incompatible communications technology will follow a pattern. Men will pioneer it in specific projects if it gives them an advantage there. Other men will adopt it when it has become more mature. Women will adopt it only when it has become dominant. Men will use a variety of tools, happily. Women will tend to use a single predominant tool, and most women will use the same tool because of network effects. We could call this the Facebook Effect.
+
+Back to organization. Men and women communicate differently, and organize differently. It's not accidental that women have trouble in business structures since these generally use male communication techniques, except for meetings, which most men hate though many women enjoy.
+
+The size of an organizational structure, and its dynamics, depends entirely on the mix of communications platforms that are available to its members.
+
+It thus follows that the most effective organization is the one with the most accessible and complete mix of communications platforms, so that its members can collaborate in whatever way produces the most specialization, the most efficient communication, and thus the most wealth.

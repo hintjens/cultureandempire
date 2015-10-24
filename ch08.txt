@@ -1,0 +1,558 @@
+.bookmark reveal
++ The Reveal
+
+> If you can't find the sucker at the table, you're it. -- poker wisdom
+
+There is no question that we are in an era of conflict between the haves -- the Para-state -- and the rest of the planet, with the Spider doing the footwork. What is new is not the conflict itself, which stretches back in history. What is new is its scale, and our recent ability to decrypt, document, and share knowledge about it. This is starting a slow yet profound shift in how we see the world. In this chapter I'll explore the conflict in more detail, especially in the real world, and the reveal.
+
+++ One Planet, One Future
+
+Zbigniew Brzezinski, National Security Advisor to President Jimmy Carter, wrote in his 1970 book "Between Two Ages,"
+
+> The technotronic era involves the gradual appearance of a more controlled society. Such a society would be dominated by an elite, unrestrained by traditional values. Soon it will be possible to assert almost continuous surveillance over every citizen and maintain up-to-date complete files containing even the most personal information about the citizen. These files will be subject to instantaneous retrieval by the authorities.
+
+> Another threat, less overt but no less basic, confronts liberal democracy. More directly linked to the impact of technology, it involves the gradual appearance of a more controlled and directed society. Such a society would be dominated by an elite whose claim to political power would rest on allegedly superior scientific knowhow.
+
+> Unhindered by the restraints of traditional liberal values, this elite would not hesitate to achieve its political ends by using the latest modern techniques for influencing public behavior and keeping society under close surveillance and control. Under such circumstances, the scientific and technological momentum of the country would not be reversed but would actually feed on the situation it exploits.
+
+> Persisting social crisis, the emergence of a charismatic personality, and the exploitation of mass media to obtain public confidence would be the steppingstones in the piecemeal transformation of the United States into a highly controlled society.
+
+Will our children live in a post-industrial wasteland, where rich and poor live as two divided societies? Where food, water, privacy, and travel are rare luxuries, and where the digital infrastructure has become so pervasive and intrusive that every aspect of our lives is recorded, tracked, and modeled by the Para-state? Or will they live in a planet-wide meritocracy, where most of the old industrial economy has gone digital, where the old cities no longer exist except as leisure centers, and every human on earth except the mentally ill is on-line, all the time, everywhere?
+
+It's a question only history will answer, and probably lie about, too. Perhaps history can give us some hints, though. We are an at times quarrelsome, violent, brutal, and highly destructive species. And we are also somehow gifted with the ability to make things better, given time. Every regime dreams of a thousand years of social control, and yet every regime collapses, as cost gravity steals the technological advantage it holds over its citizens.
+
+++ Once Upon a Time in America
+
+Cheap communications have changed our society more than any other of our inventions and it has removed more tyrants from power than any weapon. Let's take another step into the history books, back to May 1st, in 1844. Alfred Vail, working with Samuel Morse, was setting up the first telegraph line, and on that day sent the world's first ever electronic message down the 24 miles of cable that were working, from Annapolis Junction to Washington D.C., to report the results of the Whig Party presidential nominations (Henry Clay won that nomination, and lost the subsequent election).
+
+Just a decade later in 1855, the New York and Mississippi Valley Printing Telegraph Company and the New York & Western Union Telegraph Company merged to create Western Union. One assumes new-york-and-mississippi-valley-and-western-union-printing-telegraph-company.com was already taken by domain name squatters.
+
+By 1900, Western Union operated a million miles of telegraph lines, and by 1945 it had an effective monopoly over the US market. As [http://www.newyorker.com/online/blogs/elements/2013/06/why-monopolies-make-spying-easier.html the New Yorker wrote], monopolies make spying easier. It is an easy and obvious trade: the government allows, by inaction or by intervention, a powerful telecommunications company to become dominant in a market through mergers and acquisitions. In return that company provides the government with surveillance.
+
+The New Yorker explains how Western Union used its monopoly to serve those in power:
+
+> What we now call electronic privacy first became an issue in the eighteen-seventies, after Western Union, the earliest and, in some ways, the most terrifying of the communications monopolies, achieved dominion over the telegraph system. Western Union was accused of intercepting and reading its customers’ telegraphs for both political and financial purposes (what's now considered insider trading).
+
+> Western Union was a known ally of the Republican Party, but the Democrats of the day had no choice but to use its wires, which put them at a disadvantage; for example, Republicans won the contested election of 1876 thanks in part to an intercepted telegraph. The extent of Western Union's actions might never be entirely known, since in response to a congressional inquiry the company destroyed most of its relevant records.
+
+It is quite visible how cost gravity drove communications down from an experiment for the wealthy to a mass market product so cheap even Western Union couldn't make profits from it. By 1980 its telegraph business was dying, and the old Western Union business was [http://en.wikipedia.org/wiki/Western_Union#The_end_of_telegrams finally closed in 2006], after 151 years of operation. The name was, as we know, reused for a financial services company which today enjoys a government-sanctioned monopoly.
+
+Curiously, Western Union's long telegraph monopoly seems to have had only a small impact on the size of communications networks. If cost gravity was operating fully, at 29% a year, and telegraph costs were in free-fall, there would have been 37M miles of telegraph by 1900. Instead, assuming Western Union had half the market, there were 2M miles. That is a factor of 16 over 55 years, which is not much, and a part of that can be accounted for by quality improvements.
+
+I'm also not sure what to do with the random figure of [http://www.integer-research.com/2011/wire-cable/news/fiber-optic-cable-growth-continues-2012/ 113 million kilometers] of fiber optic cable produced in 2010. A cable is a bundle of fibers, and the traffic rates are rather higher than Western Union's old stock. Has cost gravity been working?
+
+One smoking gun pointing to a century and half of cost gravity being hijacked by telecoms monopolies back through AT&T and Western Union is the cost of the modern equivalent of a telegraph, the text message. Let's say the cost is one cent per message today. The purchasing price of $1 was 30 times greater in 1850 than it is today. If we apply cost gravity backwards, doubling that cost every two years, it would have cost over two million trillion dollars in 1850, allowing for that 30 times fall in the dollar.
+
+Clearly cost gravity stops working when monopolists run the table. Not only do we pay taxes to be spied on, we are also grossly overcharged for using the tapped lines.
+
+++ Fairy Tales
+
+Every expanding empire depends on a Narrative, a telling of the past, present, and future. A good Narrative has certain ingredients: a fearsome enemy, a dramatic disaster, a strong leader, sacrifice, and courage. It mixes a strong dose of national pride with paranoia and appeals to selfishness. The Narrative takes years to write, employing the finest propaganda specialists, and is then spun by careful retelling and fine-tuning, and repeated throughout the established media, over and over until it becomes as true as the day of the week, or the weather. It is more powerful than any army in keeping society acquiescent and under control.
+
+The Narrative I was fed, growing up, told the story of a courageous free West battling the evil monsters of history -- the Nazis -- and facing off against the Soviets with their millions of armed soldiers waiting for any opportunity to smash our borders and seize our lands. At school, we were shown films that explained the Soviet threat. So many men, so many tanks, so many nuclear submarines, so many nuclear warheads, against the brave forces of NATO, all that kept us safe. The Narrative told us, be good consumers, vote for your chosen politician, and pray the nuclear war doesn't happen. And indeed more than once, the world came close to nuclear disaster. Three minute warnings were a fact of life.
+
+The Narrative embraces and eulogies "just wars," such as those against Argentina, Iraq and Afghanistan, and invests in violence against faceless foreigners, in the defense of hard-won freedoms. It tolerates the massive sale of weapons to murderous regimes to fight "extremism." It denies climate change as "fake science," and it refutes ecological disaster as "fear mongering." It praises technology, above all as a reason to consume, for our Narrative treats consumption and greed as natural, healthy, even necessary.
+
+The Narrative promotes extraction economies no matter where they want to dig, and praises mineral wealth as a holy thing, for otherwise our life of luxury would end. It is a Narrative where elections and politics make us prosperous, and where economics is the official state religion. It is a Narrative that can find new enemies easily, be they revolutionaries in Central America, Ayatollahs in Iran, old dictator friends turned new embarrassment, even mysterious networks of international terrorists guided by dead men in mountain caves.
+
+Technically, it is quite simple to draft a working Narrative. Appeal to selfishness? Check. Sword of Damocles? Check. Appeal to authority? Check. Bogeyman? Check. Nationalist pride and xenophobia? Check. Demands for sacrifice? Check.
+
+And it is quite simple to sell it to the public. You just need a unified media, that is, one run by a few firms rather than by thousands. When you have a fragmented media, it is hard to control what they say. So you gently encourage the larger media firms to merge, unhindered by regulatory interference. You step back, stop anti-trust proceedings, and let businesses naturally merge and acquire their way to monopoly.
+
+Once your market is ready, you arrange a few meetings where you say something like, "We were wondering how patriotic you guys are. If your country needed you, would you step up?" Anyone stupid enough to say "What about the Constitution?" is immediately investigated by regulators and his business is broken, and he ends up divorced, bankrupt, and imprisoned for fraud. The next meeting is about roles and responsibilities. "How about we send a few of our people to help you research the news?"
+
+And so we end up with military intelligence teams working inside the largest media companies, selecting the news stories, and spinning them to reinforce the Narrative. In May 2000, Dave McGowan [http://www.davesweb.cnchost.com/cnn.htm reported how] Major Thomas Collins, of the U.S. Army Information Service acknowledged: "Psyops personnel, soldiers and officers, have been working in CNN's headquarters in Atlanta through our programme 'Training With Industry'. They worked as regular employees of CNN. Conceivably, they would have worked on stories during the Kosovo war. They helped in the production of news."
+
+In 1976, a Congress report into [http://www.youtube.com/watch?v=cDCfTIapds0 the CIA's Operation Mockingbird] noted that:
+
+> The CIA currently maintains a network of several hundred foreign individuals around the world who provide intelligence for the CIA and at times attempt to influence opinion through the use of covert propaganda. These individuals provide the CIA with direct access to a large number of newspapers and periodicals, scores of press services and news agencies, radio and television stations, commercial book publishers, and other foreign media outlets.
+
+According to Alex Constantine, author of "Mockingbird: The Subversion Of The Free Press By The CIA", in the 1950s, "some 3,000 salaried and contract CIA employees were eventually engaged in propaganda efforts." Officially, [http://en.wikipedia.org/wiki/Operation_Mockingbird the program was ended] in 1976 by incoming CIA Director George H. W. Bush.
+
+Inserting teams into existing media companies is one strategy. Another is to create your own business intelligence groups from the ground up. This is how large firms promote legislation, by funding "industry round tables" and "researchers" who push a pre-agreed message. The Spider has undoubtedly invested in many businesses, from armaments to drugs, and media. It's both profitable and convenient.
+
+Take as example The Economist, a respected and influential newspaper that was, ironically founded at the height of the patent debate in Britain as an anti-patent free-trade voice. It has a division called the [http://en.wikipedia.org/wiki/Economist_Intelligence_Unit Economist Intelligence Unit], which used to be the [http://en.wikipedia.org/wiki/Business_International_Corporation Business International Corporation], a CIA front company. BIC coincidentally employed a young Barack Obama.
+
+Though you can fool many people most of the time, there is always a significant section of society that questions the Narrative no matter how well constructed and often repeated. It's those typical 20-something rebels, the intellectuals who think they're smarter than everyone else. They question everything, organize meetings, and suddenly you have a left wing anarchist movement making waves. That is when you praise the foresight of the men who preceded you. They knew the Narrative would only work so far, and that for every carrot you need something harder. So you open that super classified file and read the page, and you dial that number.
+
+++ The Story Teller's Hammer
+
+> Terrorism and violent robbery have become a fact of life for Belgium. A spate of bomb attacks, originally on NATO targets, but recently on banks and offices, have been carried out by the mysterious Fighting Communist Cells (Cellules Communiste Combattantes, or CCC). The supermarket raids, more notable for the loss of life than the loss of cash, and a recent attack when a post office van was blown up and two postal workers were killed, have as much puzzled as shocked the country. The unruffled way the police are searching for the bombers and killers has been strongly criticized. -- [http://articles.chicagotribune.com/1985-12-05/news/8503240246_1_death-sentence-supermarket-ccc Chicago Tribune, December 1995]
+
+On 9 November 1985, three armed men in balaclavas walked into a supermarket in the small Flemish town of Aalst, and began shooting shoppers and staff. There was no obvious motive for the extreme violence. No lone gunman, no robbery gone bad. It was direct violence against ordinary people. Four died that day. Fifteen more armed attacks followed, on supermarkets and jewelers in the towns around Brussels. 28 people died, many more were injured.
+
+Belgium went into a short state of shock and then emerged, enraged. One thing about this small country: it has been hit often enough by bullies to recognize the hand of deliberate violence. The Belgian press quickly pointed the finger at the security services themselves, and specifically named Belgian military intelligence and the US Defense Intelligence Agency (DIA). The accusations were oddly specific, naming two military intelligence groups, SDRA8 and SDRA6, which no-one had heard of before.
+
+No hard evidence turned up. Whomever had leaked the information didn't come forward to confirm it. The Belgian public concluded, largely, that the attackers had come from one of the many barracks housing armed paramilitary police. Their motives? Presumably to create a climate of fear that justified more militarization. That backfired. Belgians demanded and got an end to autonomous armed police forces. The Belgian parliament reformed the federal police, and instituted monitoring of the secret services.
+
+It is a stark lesson for the US and its police militarization program. It's one thing, dangerous in itself, to bring military-grade weaponry and training into civilian law enforcement. The real stupidity starts later, when you try to roll back the program, and those armed and trained men decide they don't agree with you.
+
+It took years for [http://en.wikipedia.org/wiki/Belgian_stay-behind_network the truth of SDRA8] to emerge.  [http://www.youtube.com/watch?v=j1fH3YpQciQ The 1992 BBC documentary], "Gladio" tells the story of "Secret armies, funded by the United States, trained by Britain, and left behind in post-war Europe to fight the rise of communism," and "the story of how they turned against their own people." [http://en.wikipedia.org/wiki/Operation_Gladio Operation Gladio] ran from at least 1951 until 1990, four decades long.
+
+Swiss historian [http://wikispooks.com/wiki/Operation_Gladio Daniele Ganser explains], in his book "NATO's Secret Armies," how Gladio was exposed by a single stubborn judge:
+
+> The scandal originally came to light in Italy in 1984 when an Italian judge Felice Casson reopened the case of a terrorist car bomb in Peteano in 1972 and uncovered a series of anomalies in the original investigation. The atrocity which had originally been blamed on the communist Red Brigades turned out to be, in fact, the work of a right wing organization called //Ordine Nuovo//.
+
+> Following the discovery of an arms cache near Trieste in 1972 containing C4 explosives identical to that used in the Peteano attack, Casson's investigation revealed that the bombing in Peteano was the work of the military secret service SID (//Servizio Informazioni Difesa//) in conjunction with //Ordine Nuovo//. The intention had been to blame the bombing on the extreme left wing militant outfit, the Red Brigades. The right wing terrorist, Vincenzo Vinciguerra was arrested and charged and confessed to planting the bomb.
+
+> Judge Casson's investigation also revealed that the Peteano bombing was the continuation of a series of bombings begun at Christmas 1969, the most well-known of which, on the Piazza Fontane in Milan, killed 16 and injured 80. The bombing campaign culminated on 2 August 1980 with a massive bomb in the waiting room of Bologna railway station which killed 85 and injured 200. It was one of the largest terrorist outrages on mainland Europe in modern times.
+
+In short, NATO funded and organized secret cells of armed men and women across Europe, who bombed, kidnapped, and murdered civilians, politicians, and even NATO themselves, in order to promote the myth of communist insurrection in Europe. The Baader-Meinhof Gang, Bende van Nijvel, Red Brigades, Red Army Faction, Action Directe, Black September, all were likely either infiltrated, helped, and steered by Gladio, or run by it.
+
+I'd include the IRA except that there was apparently no Gladio activity in the UK. In Northern Ireland, it was MI5 that penetrated the IRA and then allowed their agents to run amok, even killing other MI5 agents to maintain their cover.
+
+Italian judges like Casson are a rare breed: fearless men who had the independence and authority to fight the deep corruption of Italian politics and law enforcement by criminals including, it turned out, foreign military intelligence services. Italy was, after World War 2, one of the main battlegrounds in Europe, between the Spider and a left-leaning society.
+
+In her article "A judges' revolution? Political corruption and the judiciary in Italy," Donatella della Porta explains that although Italian judges were historically allied with political parties, and complicit in corruption, this started to change in the 1970's:
+
+> In the 1970s and the 1980s, however, the voice of the left within the judiciary became increasingly audible. In the judicial system, the so-called //pretori d’assalto// often took anti-governmental stances on labour and environmental issues (Bruti Liberati 1996: 186). At the same time, especially in the fight against terrorism and the Mafia, the magistracy exercised a proactive power, and acted as a surrogate for a weak political will to take any action.
+
+> The dedication of many judges, who often paid for their defence of Italian democracy with their lives, was contrasted with the collusion of a divided political class; public opinion endowed the magistracy with a form of direct legitimacy. Moreover an increasingly strong //ésprit de corps// was developing among the judges (Colombo 1997).
+
+> In the late 1980s and the 1990s, a growing institutional autonomy of the judiciary resulted in a weakening of the attitude of complicity of some judges with those political forces which had partly hindered the activities of the magistracy. A new generation of so-called //giudici ragazzini// (child-judges) -- lacking any sense of deference towards political power, and conscious of the high levels of collusion between politicians and organised crime -- began a series of investigations into administrative and political misconduct.
+
+> Judicial investigations into political corruption have increased in frequency and magnitude over the past few years, culminating in the recent political upheavals caused by the 'clean hands’ investigations of corruption, producing what has been termed as a 'revolution by the judges'.
+
+The rebel judges did not have an easy time: they were persecuted by politicians, by turns bribed and starved, had their careers broken, and sometimes died, for their dogged pursuit of high-ranking criminals. As della Porta writes, "One corrupt Sicilian politician, for example, 'invited judges or their wives to teach courses in specialist schools, offered consultancies to important members of the profession, attaching themselves to the professional and entrepreneurial circles of Catania and transforming corruption into the rule'."
+
+It took decades to bring down Silvio Berlusconi, one of the most corrupt leaders of any European country in recent history. Nonetheless, it is a testament to the strength of human nature that in Italy, the honest majority finally succeeded in reigning in the bandits and kicking them off the seat of power.
+
+NATO was created to protect us from the Soviet threat. Instead, it appears, it funded and trained armed cells to murder, kidnap, and bomb our European cities. These cells worked hand in glove with right-wing extremists, criminals, US intelligence, and paramilitary police. They stopped only because they were discovered in the act by investigating judges who, against all the odds, defied their political masters. There were no apologies, no justifications given, no inquiries beyond the outraged national parliaments. And this program lasted at least 40 years.
+
+Gladio is more than a working hypothesis. The Belgian Parliament [http://senate.be website] notes, on its page, [http://www.senate.be/com/onderzoekscommissies_nl.html Commissions of Inquiry set up by the Federal Parliament], "1990 -- Commission of inquiry tasked with the investigation of recent revelations over the existence in Belgium of a clandestine international intelligence network, known as "Gladio"".
+
+There is something deeply unsettling about hearing stories like Gladio. It's like hearing someone talking about your best friend plotting to harm you. It's disturbing to have your own judgment on matters of life and death questioned. If we are so wrong about someone or something, what else could we be wrong about? Who else is plotting to hurt us?
+
+Gladio was barely reported in the mainstream media. As far as the Narrative goes, these events did not happen, and Gladio did not happen. However the mainstream media no longer has the monopoly it had in 1990, and truths do emerge. When they do, the effect can be shocking.
+
+++ A Theory on Theories
+
+Two friends are sitting in a bar, sipping their coffees and discussing politics, when suddenly there is a huge explosion outside that shatters the windows and rattles the whole building. They run to the door and watch a massive cloud of smoke rise some streets away, over the buildings. A few minutes later, the radio announces, "Anarchists have struck again, bombing the Ministry of Peace."
+
+The first man sits down, wipes the dust off his cup, and takes another sip. "Bloody anarchists," he says, "I hope they get them this time." His friend says, incredulously, "Anarchists? C'mon, that's the fifth bomb this month, and every time they parade some hapless idiot in front of the cameras to give his confession. I think the authorities are the ones placing the bombs so they can arrest dissidents."
+
+The first man shakes his head violently, "That's crazy talk! You think the Government would blow up its own buildings? What are you, some crazy conspiracy theorist? Oh my god, don't you know //anything//? It's the anarchist underground, working for the enemy. You're not an anarchist are you, now?"
+
+It can be hard to discuss science when society is going through a period of insanity. The cries of "heretic!" and burnings at the stake may be history, yet the same patterns of thought run through modern societies just as they did through medieval society. Searching for truth, in a theocracy, can lead to harsh punishments. Galileo Galilei, for insisting that the Earth turned around the Sun, was tried for heresy, forced to recant, and put under house arrest until his death.
+
+When mysterious things happen -- like car bombs in the street, or lights in the sky, or newborn goats with two heads -- we all immediately seek an explanation. It's part of the human thought process, the need to understand. Indeed, when we cannot understand and process some major event, we become numb and slow.
+
+We have two major and opposing strategies to deal with unacceptable mystery. These are: magical thinking, and evidence-based thinking, which we also call "science." Magical thinking starts with an grand explanation that appeals to emotion and self-interest, and then it collects support for that explanation.
+
+Science on the other hand, formulates theories and then tries to break them with evidence, reproducible data, facts. Large theories are disassembled into smaller ones so each piece can be tested independently. A piece of theory that cannot be broken remains on the table. Those that break or cannot be reproduced are discarded and forgotten. The pieces that survive are put together, like a puzzle, to form the simplest plausible whole.
+
+Conspiracy theories are an essential tool for criminal investigation based on science, rather than magical thinking. When two people in a room plan a criminal act, that is a conspiracy. To formulate theories about conspiracies, test them against the evidence, and discard the ones that break is not crazy, or misguided, it is literally //the only way// to approach the truth.
+
+When someone uses the term "conspiracy theorist" as an insult, it is precisely like a true believer shouting "Crazy scientist!" at Galileo Galilei. The clinging to magical explanations is rational, for it is much safer and cheaper to stay in line with a theocracy than to argue with it. When the Pope makes an infallible declaration from his seat of power, you either accept it, or you are ex-communicated, arrested, tortured, and worse.
+
+Theocracies are power structures based on magical thinking. They are large cults that purposefully fill the minds of their vassals with nonsensical stories. Magical explanations don't just satisfy the lazy urge for a quick explanation. They actively hunt down and destroy logical answers, as theocracies actively hunt down and destroy science.
+
+How do you recognize a theocracy? Sometimes it's easy, there is literally a big organization that calls itself "The Church," and which decides who runs the country. Other times, there is no official church. However, organized religion is primarily an exercise in mass communications. When you have a compliant media that repeats magical explanations from the people in charge, you have a theocracy.
+
+++ Poisoning the Well
+
+It is only through a science-based investigation that any crime can be understood. Science is hard work, with little reward except the truth itself, and it is easy to poison the well to make it hard or impossible for the scientific process to work. This is as true for criminal investigations as for any other form of science.
+
+In a criminal investigation you collect physical evidence and statements from witnesses. You develop theories about the event, and you try to disprove these theories with evidence and statements. When you have broken all the theories except a few, you take the simplest theory as the best-fitting truth.
+
+As a process it is delicate and fragile. Clearly when a crime has a political motive, there will be parties with a strong economic interest in promoting magical theories, and stopping proper investigation into the case. I'll list just some ways to interfere with the scientific process:
+
+* The //schoolyard attack//, where the media calls the investigators rude names, appealing to the part of the population that enjoys thinking like teenagers.
+
+* The //reputation attack//, where the media casts doubts on the investigator's motives, suggesting they have a hidden agenda, or are working for the enemy.
+
+* The //credentials attack//, where the media cast doubts on the investigator's credentials, saying they are not true experts.
+
+* The //thin ice attack//, where the media says that anyone questioning the official story line is provoking social instability.
+
+* The //strawman attack//, where plausible yet fake evidence is secretly provided to investigators, who use it, and are then exposed as "gullible and unreliable" if not actually incompetent.
+
+* The //evidence chain attack//, where critical evidence is destroyed, hidden, or tampered with.
+
+* The //testimony attack//, where witnesses are coerced into changing their stories, are persecuted for leaking state secrets, or die in mysterious ways.
+
+* The //insertion attack//, where evidence and witnesses appear from nowhere to support the official story.
+
+* The //sexual deviancy attack//, where someone associated with the investigation, perhaps a key witness, is shown to be a "sexual deviant," thus relegating the entire investigation to the margins.
+
+* The //rising bar attack//, where unattainably high standards of proof are demanded from investigators who propose alternate theories.
+
+* The //revolving door attack//, where investigators who cast doubt on the official story are fired or moved to other work, while those who promote the official story are promoted.
+
+* The //rubber hose attack//, where tenacious investigators are simply removed from the picture, by  bribery, blackmail, or force.
+
+* The //broken chair attack//, where official investigations are controlled by key individuals who ensure the outcome upholds the official theory.
+
+* The //reductio ad absurdum//, where exaggerated "crazy" theories based on clearly flawed evidence and reasoning are widely promoted, to discredit plausible theories.
+
+* The //crazy chaff attack//, where the public is overwhelmed by attractive and yet flawed theories, making it hard for valid investigators to gain any audience.
+
+* The //cold trail attack//, where an official investigation is delayed until it is too late for evidence and witnesses to have survived the inevitable accidents.
+
+* The //embrace and extinguish attack//, where an official investigation is started and then its findings are delayed for years, or indefinitely.
+
+* The //denial-of-service attack//, where honest investigators are overwhelmed with other events and work, so are unable to focus on the event in question.
+
+When an event is planned, rather than covered-up, other attacks on a proper investigation are possible, such as planting fake evidence trails in advance, framing patsies with circumstantial evidence, or moving corrupted individuals into key positions ahead of time.
+
+Even a well conducted investigation, like the National Transportation Safety Board (NTSB) [http://en.wikipedia.org/wiki/TWA_Flight_800 investigation into TWA flight 800], runs afoul of many problems. And in this investigation, fully 95% of the exploded Boeing 747 was recovered and reassembled, and hundreds of witnesses were interviewed.
+
+When we see a major crime that is not investigated properly, when we see evidence disappearing, or made to appear, or when we see unreliable confessions, then we must conclude that we are seeing a cover-up. That in itself is evidence, if not of direct responsibility, then at least of complicity. Airplane flight recorders -- black boxes -- are designed to survive smashing into a mountain or sink to the depths of the sea. When the black boxes disappear from crash sites, that is a sure sign of an evidence chain attack.
+
+In 2013 the Belgian Federal Parliament re-opened the investigations into the Bende van Nijvel, this time investigating //the original investigators//, for failing to follow leads, losing vital evidence, and so on. This is how it should be.
+
+++ Irregular Violence
+
+States have always depended on irregular forces, privateers, and mercenaries to go places and do things their regular forces could not. Operation Gladio is only surprising if you are deaf and blind to history. The US, like other military powers, has funded, trained, and armed irregulars all over the world, from Vietnam to Afghanistan to Guatemala. Paramilitaries can do mayhem -- assassinations, mass slaughters, bombings -- that regular soldiers cannot.
+
+The military love irregulars during conflicts because they can move rapidly, without waiting for approval, and operate with "plausible deniability," a term invented by the CIA. Further, they can infiltrate other groups, work behind enemy lines, and so on. It is only logical that military planners stock up on their paramilitary investments over long periods.
+
+Official budgets can be used for private military contractors when there is an active conflict. In other cases, the money has to be untraceable, otherwise it would leave a chain of evidence. One source of [https://www.google.com/search?q=cia+ghost+money black or "ghost" money] is presumably drug trafficking. The secret armies, armed and bored, are natural partners for drug cartels. Still speculating, I'd guess much of the drug-related violence in Latin America originates with paramilitary secret armies originally built by the US.
+
+Sometimes these armed men decide they actually enjoy the murder and money, and go off on a long killing spree. Look at Los Zetas, Algeria, the Interahamwe, Chechnya, Al Shabaab. Perhaps they or their high-level handlers decide the authorities need a lesson, to remember how important they (the privateers) are, so they organize a spectacular attack on the homeland.
+
+And then the hapless authorities are taken by surprise, and in their endemic paranoia and chaos they fail to prevent the attacks. Maybe they even had lots of warning, they are still riddled with mistrust and deceit and they act like idiots. Maybe here and there, men stand back and let it happen because it serves their agendas.
+
+However, after the attacks, the authorities rush collectively to clean up the evidence, blame the attacks on anti-social elements "who hate our way of life," and make arrests. They get confessions by torture, shield the real culprits from real inquiries, throw the patsies in prison, destroy any evidence they can, leave false trails, and they stop their own criminal investigators from finding the truth.
+
+And then we get the insane conspiracy theories that say lizards from Mars did it using death rays. The theories are so stupid that when someone comes forward with real insights, they are tarred with the same brush. Except, there are no lizards on Mars. A spectacular terrorist attack just takes a few very well-trained, well-armed men with sophisticated technology and good connections.
+
+This banal explanation fits the observable facts in most cases. It is a key insight, that terror attacks are relatively cheap, and require no massive, expensive conspiracy. Clearly some events take more planning than others. However, usually all it takes is to send a shipment of weapons and explosives to a danger zone, train a few dozen off-the-radar paramilitaries, and then keep funding going for long enough for those cells to become financially independent from the drug business.
+
+One last point here. People will say, "a government would never murder its own citizens." Though it is a hopeful point of view, it is naive and flatly wrong. People in power consider themselves above natural laws. Mass death is perfectly acceptable when it comes to alcohol, tobacco, pollution, and poor health. Surely national security ranks higher than business. The deaths of hundreds, thousand, even millions, when justified by the needs of power, are "collateral damage." The only really solid rule is, "Don't get caught."
+
+And what happens when some upstart politician discovers a program of secret armies and talks about shutting it down or worse, revealing it to the world? Well, [http://en.wikipedia.org/wiki/Andr%C3%A9_Cools he dies], and the program shifts to another agency, under another name.
+
+++ Battlefield Earth
+
+Since 2001, the mercenaries have their own formal businesses and are called "private military contractors," or PMCs. One of the most infamous in the second Iraq war was [http://en.wikipedia.org/wiki/Academi Blackwater], which renamed itself "Academi" after much bad publicity. Andrew Marshall [http://www.informationclearinghouse.info/article36648.htm reports that]:
+
+> The CIA hired Blackwater to aid in a secret assassination program which was hidden from Congress for seven years. These operations would be overseen by the CIA or Special Forces personnel. Blackwater has also been contracted to arm drones at secret bases in Afghanistan and Pakistan for Obama's assassination program, overseen by the CIA. The lines dividing the military, the CIA and Blackwater had become "blurred," as one former CIA official commented, "It became a very brotherly relationship... There was a feeling that Blackwater eventually became an extension of the agency."
+
+> In March of 2012, a Special Forces commander, Admiral William H. McRaven, developed plans to expand special operations units, making them "the force of choice" against "emerging threats" over the following decade. McRaven's Special Operations Command oversees more than 60,000 military personnel and civilians, saying in a draft paper circulated at the Pentagon that: "We are in a generational struggle... For the foreseeable future, the United States will have to deal with various manifestations of inflamed violent extremism. In order to conduct sustained operations around the globe, our special operations must adapt." McRaven stated that Special Forces were operating in over 71 countries around the world.
+
+> By September of 2013, the U.S. military had been involved in various activities in Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde Islands, Senegal, Seychelles, Togo, Tunisia, Uganda and Zambia, among others, constructing bases, undertaking "security cooperation engagements, training exercises, advisory deployments, special operations missions, and a growing logistics network.
+
+The battlefield covers the whole world, and above all, the American homeland itself. The US is the keystone in the Para-state's power structure. It represents by far the richest food source for this parasitic political class. The US is wealthy due to three things: centuries of mass immigration, abundant natural resources, and a geography blessed with generous natural transport.
+
+If it was not for the Para-state's predations, the US would be considerably more prosperous, easily affording first rate healthcare, education, transport to all its people, and a massively better technological infrastructure. As it is, other parts of the world have to show this wealthiest of all nations how to build decent trains, schools, networks, health care.
+
+If I was American I'd be embarrassed that for all my country's advantages, its main gifts to the world have been Coca-Cola, MTV and CNN, and countless nasty wars disguised as peace actions. However, as happened in Nazi Germany and Napoleon's France, the homeland is just the first conquest. After that comes the war of expansion.
+
+Extraction economies -- oil, narcotics, human trafficking -- have always thrown acid at the face of society, because social structure and stability cut into profits. In October 2013, [http://online.wsj.com/news/articles/SB10001424052702303492504579111360245276476 the US became the world's largest producer of oil], beating Russia and Saudi Arabia. The country is also the top market for drugs, and the leader in a modern form of human trafficking focused on poor men. As [http://www.publiceye.org/defendingjustice/overview/graham_slave.html Robert Graham writes] in "Reflections of a Modern-day Slave,"
+
+> The (criminal) criminal justice system is a very well-oiled machine in which the powers that be regularly utilize their weapons of mass oppression in the concrete jungles all over America with military precision. Today, there are overseers lurking and prowling through inner-city streets like big game hunters with their sights fixed predominantly on minority men, ironically in a way equally as steadfast as slave poachers did in the days of old.
+
+The US has turned into the world's number one extraction economy. When I wrote about "Poverty on Purpose" with respect to sub-Saharan Africa, my explanation could also apply to Detroit, Oakland, East Greenbush, Harrisburg, Camden, Washington D.C, Chicago. The hollowing out of American's heartlands does not need to be deliberate, systematic policy. One simply stops investing in infrastructure and education for the majority, and instead, invests in security for the minority.
+
+++ Pandora's Box
+
+It is no new conflict. What is new is the ripping away of the Emperor's clothes, the dropping of the mask, the loss of control over the Narrative. This particular empire depended on expensive mass communications as its technology of choice. Cost gravity has broken that monopoly by making it dirt cheap for anyone to publish content.
+
+The Narrative told us that if we trusted our leaders, worked hard, spent our money on pretty things, and kept our heads down, they would keep us safe from the bad men trying to kill us. Over the years the bad men have morphed, from communists to Nazis back to communists, to Islamic extremists, and perhaps in another 80 years it will be the extremist vegetarians.
+
+It is, we start to realize, a grand and yet obvious lie. Not only does our government not really succeed in stopping terror attacks, we see that it has invested, and still invests significantly, in groups that sooner or later end up committing terrorism. Confusion, chaos, or orchestration, it is hard to tell the difference sometimes.
+
+Let me restate what should now be the working hypothesis for anyone studying this area: the Spider lets happen, or makes happen, terroristic events to maintain its ongoing Strategy of Tension. As backing evidence we have the Spider's decades-long investment in paramilitary networks abroad and at home, its involvement in the drug business, its easy breaking of constitutionality as it pleases.
+
+Officially, Gladio was quietly disbanded in 1990. This reminds me of the compulsive liar who, when caught, promises to stop lying. It beggars belief that the Gladio networks stopped when they were unmasked. The liar does not stop lying, instead he becomes smarter about not being caught.
+
+I spoke about Anders Breivik in [#mad-mobs]. Norwegian lawyer Alexandra Bech Gjoerv headed an independent inquiry into the shootings. Here is how the BBC World Service [http://www.bbc.co.uk/news/world-europe-19241327 reported the inquiry's findings]:
+
+> Among the most damaging of the report's conclusions is that a two-man local police team reached the lake shore at Utvika first, but chose to wait for better-trained colleagues rather than find a boat and cross to Utoeya themselves.
+> The attack on the government complex in Oslo could have been prevented by effective implementation of security measures that had already been approved.
+> A more rapid police operation to protect people on Utoeya Island was a realistic possibility and the gunman could have been stopped earlier on 22 July.
+> Although it was clear that a terrorist attack had been carried out, the inquiry says no immediate nationwide alert was given, no roadblocks or observation posts were set up, no attempt was made to mobilise helicopters nor did the operation centre take up offers from neighboring police districts.
+
+There's a curious thing Breivik said, after he had finished his killing, and [http://www.dagbladet.no/2012/04/01/nyheter/anders_behring_breivik/terrorangrepet/peter_mangs/utenriks/20928848/ called the police to come and arrest him]: "My name is Commander Anders Breivik Behring in the Norwegian anti-communist resistance movement." From the translated Dagbladet article, "Breivik claimed that this movement was responsible for about 50 attacks in Europe since World War 2."
+
+++ Crooks and Liars
+
+It is becoming acceptable to say, out loud, that our politicians are thoroughly corrupt. That the police exist to protect criminals from us, rather than to protect us from criminals. That conspiracies are real, not mythological, and that theories about crimes are not silly nonsense, they are an essential tool for establishing the truth. And, most dramatically, that the entire political establishment, left and right alike, our whole democratic system, is illegitimate.
+
+Listen to Russel Brand [http://www.youtube.com/watch?v=3YR4CseY9pk speaking to the BBC's Jeremy Paxman]:
+
+> **Brand:** It's not that I'm not voting out of apathy. I'm not voting out of absolute indifference and weariness and exhaustion from the lies, treachery, deceit of the political class, that has been going on for generations now. And which has now reached fever pitch where you have a disenfranchised, disillusioned, despondent underclass that are not being represented by that political system, so voting for it is tacit complicity with that system and that's not something I'm offering up.
+
+> **Paxman:** I'm not having a go at you because you want a revolution, many people want a revolution, but I'm asking you what it would be like.
+
+> **Brand:** Well I think what it won't be like is a huge disparity between rich and poor where 300 Americans have the same amount of wealth as the 85 million poorest Americans, where there is an exploited and underserved underclass that are being continually ignored, where welfare is slashed while Cameron and Osbourne go to court to defend the rights of bankers to continue receiving their bonuses. That's all I'm saying.
+
+It is easy to dismiss Russel Brand as a cheap celebrity seeking fame by saying dangerous things. He dresses up like a Hollywood Jesus and used to be famous for his sexual conquests and drug use. However he is articulate and precise in his accusations, and deals with his interviewers with such charming self-effacing brutality that he leaves them squirming in their seats.
+
+Brand is one of a new generation of activists who are leading the collective thought process away from the Narrative and towards a more accurate view of reality that I call the Awakening. I fully expect him to suffer a suicide-accident-car crash, or accusations of deviant sexual crimes. He claims to be a stand-up comedian, yet in naming the political class as the enemy of society, he preaches revolution. And as I've written, when one person says "revolution," another reaches for his gun.
+
+++ The Global Awakening
+
+In cryptography, the hostile attacker is sometimes called "Mallory," which is cute until you understand that when security researchers across the world now say "Mallory," they are speaking of the Spider. There is no other threat that security researchers take more seriously.
+
+With the loss of the Narrative comes a new realization, that we are a global society living under global occupation. The occupation may be invisible if you are wealthy, white, privileged. I certainly can't see it as I walk around Brussels, or drive around Dallas. As you go to your well-paid job and congratulate yourself on getting a good education and choosing the right parents, the notion of occupation is ridiculous.
+
+Yet more and more of us are on the other side. We have at best part-time jobs that give us no security, pensions, or health-care. We are born in debt, and we die even poorer, while the mega-rich get richer. Our cities are desolate and abandoned through utter lack of interest from those with the power to make things better. Society is not just more divided than it should be, it is more divided than we can comprehend.
+
+Perhaps, if you are a young white American, the reveal began when you saw the New York Police Department (NYPD) beating and arresting peaceful Occupy Wall Street protesters. Or, it was that phrase "the one percent" that kept you awake at night. Perhaps it was years ago, when President Obama decided to keep Guantanamo Bay open, after all.
+
+Perhaps the reveal crept in slowly, when you noticed the lack of criminal investigation into the misconduct of the Bush-Cheney regime. We saw two wars of aggression, lies at the highest level, torture, rendition, destruction of official records, and illegal spying on US citizens, and these were just the visible crimes. Yet not one single investigation. As I said, when we see major crimes not properly investigated, that is evidence at least of complicity.
+
+Perhaps the reveal hit with a shock when you watched "Collateral Murder,"  [http://en.wikipedia.org/wiki/July_12,_2007_Baghdad_airstrike the video of US forces] shooting civilians with 30mm ammunition from an Apache helicopter in Baghdad, leaked by Chelsea née Bradley Manning. Bullets over an inch across will make a large hole in any Narrative.
+
+There are so many instances where the official story and the documented facts meet like strangers in the street, stare at each other in vague recognition, then shake their heads and go their separate ways. It's not just that there are a lot of lies. It's that there seems to be nothing //but// lies.
+
+If you come from a poorer country like Congo-Kinshasa where the extraction economy rules, or one of the many countries where Western-sponsored violence has been a fact of life for centuries, nothing I've said will be a surprise. You will have seen the real face of occupation since you were young, whether your parents were part of the elite, or not.
+
+Whenever the doubt started, it grew, and though you fought it, it kept growing until it filled all the space. We depend so much on the Narrative that questioning it, or hearing others question it is a painful, consuming experience. Observer columnist and academic John Naughton [http://www.bbc.co.uk/news/uk-politics-24650841 describes the emotion:] thus, "The minute you get into the JFK stuff, and the minute you sniff at the 9/11 stuff, you begin to lose the will to live."
+
+Hopefully my tales of the Para-state and its Spider provides some backup, and a way to understand. The proper response to the loss of Narrative is not pessimism, it is optimism and exuberance. For only when we understand our past and our present, can we build our future. As long as we accept the Narrative, we are its thralls.
+
+++ The Anti-Narrative Market
+
+In [#community] I described the market curve, which explains that society cannot learn as one body. Rather, new knowledge starts with ice breakers and pioneers, who teach it to early adopters, who in turn convince the mass market, then the late adopters, and finally the skeptics.
+
+When we look at the Awakening, we see a process of cult deprogramming. It is a process of switching from magical thinking to evidence-based thinking. The shift is painful, stressful, and takes time, perhaps even years.
+
+Some people naturally resist lies. Others need the lies explained, carefully, and over time. Yet others will cling to comfortable lies over difficult truths. All the while, as people search for the truth of things, they are targeted with exaggerated conspiracy theories that make any discussion difficult.
+
+What we have is the development of an "anti-Narrative," a set of explanations and exercises that allow us to de-program ourselves, and others. Much of my book has been the development of anti-Narratives: the explanation of on-line communities, of how cults operate, of the spy state, of the Para-state and the Spider, and so on.
+
+The anti-Narratives emerge most powerfully from the pioneers in this collective de-programming exercise, the ice-breakers who, for diverse reasons, are prepared to go into incredibly hostile environments with nothing more than their self-faith to keep them going:
+
+* It all begins with the whistle blowers, particularly those who can leak substantive documentation rather than personal stories and hearsay. Chelsea née Bradley Manning and Edward Snowden are the two main figures here, heroes in a real sense. Other whistle blowers of note are Annie Machon, Gareth Williams,  Russel Tice, Jeffrey Sterling, Stephen Jin-Woo Kim, Jesselyn Radack, Thomas Drake, Daniel Ellsberg, and William Binney.
+
+* We then have the independent media who are willing to report these documents, at personal risk. There is Julian Assange, building wikileaks.org around Manning's leaks, and Glenn Greenwald and Laura Poitras, reporting in the Guardian on Edward Snowden's leaks. Again, heroic figures who have changed the course of history.
+
+* We see academics like Dr Daniele Ganser, who know their history and are immune to this particular Narrative because they have seen so many like it. They look at events over the last twenty years and they see continuation of old patterns.
+
+* We have anti-patent and anti-copyright "extremists", like the Pirate Parties, the FFII (in part), the Pirate Bay and the many, many who took risks to share music and movies with other people. They know the law is unjust and wrong, and they have been providing elements of an anti-Narrative for years.
+
+These are the ice breakers, whose message is ignored, mocked, and rejected until it swells to a point where it can't be brushed aside as hysterical, crazy nonsense. Any single thread or event is irrelevant. There is more than enough material to write a compelling anti-Narrative that fits the facts and cannot be broken. And it's this anti-Narrative that the early adopters take, and spread to the wider world. I consider the early adopters to be:
+
+* Other independent journalists, who find themselves flooded by intensely interesting stories that the mainstream press will not touch. It is irresistible, to print these stories.
+
+* Technologists, particularly privacy and security advocates, and smaller firms, who understand the importance of Snowden's leaks about the Spider, and who find the conclusions extremely worrying.
+
+* On-line communities, who long ago developed a sharp taste for truths. Despite wide infiltration by the Spider, the Narrative died long ago in most on-line communities, as did conventional religions, cults, partisan politics, and other belief systems.
+
+* Criminologists and forensic scientists who study specific events and find that the data disproves the official explanations; they then ask how that could be, and it leads them to larger questions.
+
+* Environmental activists, who have always seen the Narrative and its glorification of extraction economies, war, and consumption, as their biggest problem and the main threat to human survival.
+
+* The twenty-somethings, who are naturally distrustful of anything authority says, and have historically always embraced revolutionary principles, at least until their first job and car loan.
+
+* Celebrities like Russel Brand, who need fresh material to stay relevant, so seek out new thought trends and emerging truths. Evangelists in any field depend on the latest and greatest to share with their followers.
+
+Among the pioneers and early adopters I also have to include the billions of people around the world who have always seen the West as a corrupt police state, and westerners as naive, complicit, and intellectually lazy. On behalf of the privileged white minority, I'm really, truly sorry we didn't realize what was going on so much sooner. To be honest, we still don't know what's going on, we are just becoming aware of the depth of the lies.
+
+Then we have the mass market, which is more about industry than individuals. Particularly, the technology industry. Large firms have to play the Spider's game to stay in business. And yet if their clients lose confidence, they can pack up and leave overnight, as MySpace proved. They desperately need to retain their street credibility.
+
+Large technology firms are stuck between a rock and a hard place, and I'm curious to see where they land. My guess is that there will be a break, with some firms coming down hard on the side of privacy and constitutionality, and other firms becoming closer allies with the Spider. It is one place where popular opinion can make a serious difference.
+
+The late adopters are the monopolists like AT&T, Comcast, and Western Union, the oil companies, the financial industry, and the security industry, who depend on the Spider for their own safety. If these firms lose their gold club member status, they are broken up like old trash and sold off in pieces.
+
+++ Where's the Steel?
+
+In this book I've skimmed over many topics. I'm not a journalist, nor a historian, and I have no credentials except my words. Credentials -- that lazy inheritance of trust from other people -- are somewhat quaint in the on-line world. What we say can matter, who we are does not. Only one thing really matters, and that is the knowledge of truth, which we arrive at together.
+
+I've tied to provide you with tools and models to help you understand the world, and find truth in it. Look for cults, small and large, and you will find lies and propaganda. Look for well-organized collective intelligences and you will find truths.
+
+My children will be astonished, when they grow up and read this, to learn that in 2013, some truths were still too difficult to say out loud. Here is one example: I think the evidence shows that the major terror attacks in New York, Madrid, and London were organized and executed by the military intelligences of one nation or another. That the Strategy of Tension has been hard at work, and spectacularly successful. That the War on Drugs, and the War on Terror, rather than being miserable failures, achieved all their goals, and more: profit, power, and social control.
+
+This is what I believe to be true, despite a decade of searching for other explanations, and it scares me to write it, and publish that, under my own name. I've seen the expressions of horror and pity on my friends' and family's faces when I explain this, which is not often. However, our best stab at the truth is all we have. It is our only shield and our only sword. When a truth is difficult to repeat, that makes it all the more important. Truths do not attack democracy, lies do.
+
+To solve a large jigsaw puzzle, you start by finding the corners, pieces you can at least fix, while the rest is still chaos. To solve the large puzzle of what happened on September 11, start with one single piece: the neat free-fall collapse of the steel skyscraper called WTC 7 due to "office fires".
+
+All the steel from WTC 7 was removed and recycled before investigators could examine it. All except one lonely piece, corroded and mangled. It took seven years for NIST to produce a self-contradicting report on WTC 7, based on paper arguments and computer models. In 2013 we learned that this same NIST had worked with the NSA to deliberately weaken international security standards.
+
+Consider by comparison, TWA flight 800, where investigators pulled thousands of pieces of the exploded 747 from the sea, and then reassembled those into a 95% complete plane. If an important person in perfect health dies suddenly, in extraordinary circumstances, and the authorities cremate the body rapidly, against the wishes of the family, and without allowing an autopsy, that would be a conspiracy.
+
+Big catastrophes demand big investigations. The destruction of the entire body of evidence, and the non-investigation of the WTC 7 collapse was a conspiracy. If we cannot investigate the events themselves, as the evidence was destroyed, then we must investigate the investigators for their crimes.
+
+And then, what? When we have done our research and accepted that the official conspiracy theory was wrong enough to need a cover-up, that we were lied to repeatedly, what then?
+
+David Chandler [http://911blogger.com/news/2013-10-30/911-so-what frames it eloquently]:
+
+> 9/11 did not just happen. 9/11 was a premeditated shock and awe event that was instrumental in a larger plan. It allowed the administration to immobilize the population through fear and manipulate their outrage displaced toward the designated enemy.
+
+> 9/11 provided cover for a protracted attack on our democratic values and an orgy of outrageous national behavior that defined the entire Bush administration, much of which continues today.
+
+> 9/11 brought us the fiction of "preemptive" wars as a fig leaf for naked military aggression, the fiction of "illegal enemy combatants," to pretend the Geneva Conventions did not apply, and the fiction of "enhanced interrogation" as though that were any different from torture pure and simple.
+
+> It brought us routine drone assassinations, the expansion of secrecy, the unleashing of the NSA to conduct universal surveillance, the destruction of nearly every one of our civil liberties, attacks on journalism and the murder of journalists, paranoid fear of immigrants in general and Arabs in particular, and the demonization of Islam as a uniquely violent religion. This list is far from complete.
+
+> Once people become conscious of the fact that 9/11 was a lie, how can they channel their response? Their essential response must be to demand our democracy back. This can take a thousand forms. We must call for an end to the war on terror, which is in reality an endless reign of terror.
+
+> We must call for the end of drone assassinations. We must work to end the death-grip of the military industrial complex on our society. We must work to end the dominance of the fossil fuel industry over our government.
+
+> We must work to end economic polarization of the nation and the influence of money on politics. All of these, and many more areas of potential activism, are responses to the larger crimes against democracy that were launched on 9/11.
+
+> All of these can be energized by people who have become conscious of the truth of 9/11. Consciousness of the truth, is empowering. It changes who we are and how we understand and interact with the world. As we raise consciousness of the truth we incrementally change the social and political landscape. That is why we must continue to speak out.
+
+Reading this, I see two possible futures. One is indeed the restoration of democracy, by wide political activism and careful, incremental dismantling of the Spider and Para-state. Perhaps US society, divided and weak, cannot do this by itself, and yet with help from Europe and the rest of the world, it can.
+
+Realistically, it seems naive and over-optimistic to expect the Spider and Para-state to self-destruct simply because that is what everyone demands. We are talking about a large, powerful, and utterly ruthless bandit gang. Of course the creation of a police state is far easier when people are unaware. Yet once the police state is in place -- and it is in place -- does it actually matter what people know or think? There are so many ways to put down a popular revolution.
+
+++ The Third Front
+
+There are three main fronts in the undeclared world war I've described. These are the War on Drugs, the War on Terror, and the new War on the Internet. Let's take these individually and look at them from two sides. First, from the conventional perspective of the Narrative, and secondly from the perspective of the Awakening.
+
+The War on Drugs, conventionally, consists of dark-skinned criminals who want to poison our youth with illegal drugs. Despite brave, endless police action against these violent men, the policy regretfully seems to be not working very well. Still, legalization would be like giving up. We will beef up our law enforcement efforts, bring in the army if necessary, and we will persevere!
+
+In reality, the War on Drugs has been extremely convenient for the Spider, and profitable for the Para-state. It generates boat loads of cash, which it can use to buy influence and muscle without the troublesome paperwork of official funding. It is a ghost tax on the US domestic market. Drug related violence overseas makes good cover for Spider covert operations, infiltration of left-leaning governments, assassinations, and so on. Drug cartels make natural partners for the secret armies, since both treat the common citizenry as fair game. And the escalating violence, real or not, allows the Spider to infiltrate domestic law enforcement, militarizing the police across the US.
+
+The War on Terror, conventionally, consists of dark-skinned extremists who want to destroy our way of life. Despite brave, endless police actions against these foreigners, the policy regretfully seems not to be working very well. Still, we cannot abandon such a serious threat! We will beef up our intelligence services, send in more drones, and even if this war lasts forever, we will persevere!
+
+In reality, the War on Terror has also been extremely convenient and profitable for the Spider and the Para-state. It allowed the PATRIOT Act to slide through Congress. It gave the Spider unlimited space to consolidate its diverse agencies, and power to do what it pleased, across the globe, in the name of "security." It ended the concepts of constitutionality, civil liberties, privacy, justice, due process. It legitimized the old practice of secret armies, and created havoc in the Middle East that drew all attention away from the ongoing eradication of Palestine.
+
+Finally, the War on the Internet, which for a change makes no implied appeal to racism. Conventionally, a generation of young 20-something anarchist pirates have been stealing our cultural treasures, collecting kiddie porn, publishing plans for nuclear bombs, wreaking havoc on honest businesses, and leaking state secrets.
+
+To stop these dangerous pirates, hackers, drug dealers, and cyberfreaks we need firm action, international agreements [https://www.google.com/search?q=acta like ACTA] and the Stop Online Piracy Act (SOPA), which regretfully must remain secret for national security reasons. Sadly, this war will probably last forever. We will of course persevere, etc. etc.
+
+In reality, copyright is a stalking horse for a fight to control and reign in the largest communications network in human history. Control the Internet and you control the future. We'll see the same patterns in the third front that we saw in the other two:
+
+* A gradient of deniability that stretches from official operations, to private contractors, to secret armies, through to criminals.
+
+* The building up of clusters of mercenary spy companies specializing in on-line terrorism: denial of service attacks on websites, identity thefts, evidence planting, computer intrusions, malware, and so on.
+
+* The criminalization of on-line activists as "domestic terrorists," and their persecution, monitoring, infiltration, and arrest on constructed charges.
+
+* The grooming and conditioning of the majority population to accept surveillance, by television "reality" shows, and by social networks like Facebook.
+
+* The promotion of monopolies that make it cheaper for the Spider to spy, combined with the threats against firms that do not collaborate.
+
+* Large, significant attacks on civilian infrastructure, such as electricity networks or transport or payments, which will be blamed on domestic cyber-terrorists, and used to justify new powers to regulate the Internet.
+
+* Many smaller attacks on businesses and individuals and homes to maintain the climate of fear. As with larger attacks, there will no proper criminal investigation.
+
+* The criminalization of specific technologies, such as Tor and perhaps BitCoin, due to their use to support terroristic actions.
+
+* Internet disconnections will be used as punishment for individuals who use banned technologies or visit banned websites.
+
+* Pioneers in privacy and security will increasingly be given special attention by the Spider, and picked up for unrelated offenses, real or contrived. Along with independent journalists and whistle blowers, being a privacy advocate will become a dangerous profession.
+
+* US-based cloud services, or cloud services with US customers, will be regulated in terms of the material they can host, and politically sensitive websites and forums will be censored. Foreign cloud services that host offending material will be attacked.
+
+* Law enforcement will depend more and more on parallel construction -- that is, evidence gathered through illegal surveillance and then "washed" to appear to come from legitimate sources -- to find a crime to fit any suspect.
+
+* Wikipedia, YouTube, and Amazon will be subject to various attacks that seek to remove politically unacceptable content as part of a strategy to "clean up" the Internet.
+
+Little of this will work, though it will be a long fight. The Para-state has unlimited money, guns, and political power. The Internet has unlimited brains. Neither side can really beat the other.
+
+++ Occupation Costs
+
+In the world I grew up in, and if you're over 35 or so you may remember this world, South Africans still lived under Apartheid. That was a system of laws introduced by the National Party in 1948 to prevent any loss of power by the ruling white elite. South Africa was a society divided into white rich against brown and black poor. The land was governed by military power used against civilians, by torture, murder, and secret arrests. The free press was smashed, and political dissent quashed. Black South Africans were first deprived of their vote, and then of their citizenship and lands.
+
+South Africa's Narrative used to be, for whites, "the black man wants to kill you and rape your wife and daughters, so we will move him far away from you, and make you safe," which was simple and effective. The quite different Narrative for blacks was, "behave and you may get a work permit. Resist, and your family will starve."
+
+In South Africa there was no revolution, though, as there was in neighboring Rhodesia that became Zimbabwe. The South African regime was simply too powerful to be toppled by force. There was instead a long, determined struggle for freedom and equality that became increasingly well organized, militant, and supported by the international community.
+
+And in the end, after decades of decrying the holocaust that would follow any transfer of power, the Boers lost control of their Narrative, and white South Africans, particularly the business community, experienced an Awakening. They realized that their vision of a thousand years of white rule was a lie. It was bad for business, and it was unpleasant both on the streets, and in global terms.
+
+President Frederik Willem de Klerk released Nelson Mandela from 27 years of prison and found a willing negotiation partner. In 1994, after years of violence and terrorism that turned out to be largely sponsored by the state security services themselves, negotiated multiracial elections swept the African National Congress (ANC) into office. Many whites left the country, bitter, and afraid of a retribution that never came.
+
+Instead, incredibly, instead of a witch hunt and trials, there was a Truth and Reconciliation Commission (TRC), where victims could speak of their experiences, and torturers and murderers could speak of their crimes, and ask for amnesty. The TRC was widely criticized, for allowing criminals to escape justice, for not giving victims adequate time in court, even for being a "circus" in the words of former president P. W. Botha. Yet the TRC did largely work, creating a non-violent path from past to future.
+
+South Africa is not an easy place to live: incomes are low and costs are high. It remains far from Europe and major markets. It has a reputation for violence that is perhaps exaggerated. The ANC turned out to be corruptible, like any government. The economy suffers from unemployment. Yet South African businesses, unleashed, have become giants across Africa and globally. In 2000, [http://en.wikipedia.org/wiki/Economy_of_South_Africa its GDP was $133B]. In 2015 it is forecast to hit $511B.
+
+And here are [http://en.wikipedia.org/wiki/Crime_in_South_Africa the homicide statistics] for the years 1994 to 2012 in South Africa:
+
+|| Year  || Homicides per 100,000 ||
+|| 1994  ||   66.9    ||
+|| 1995  ||   67.9    ||
+|| 1996  ||   62.8    ||
+|| 1997  ||   59.5    ||
+|| 1998  ||   59.8    ||
+|| 1999  ||   52.5    ||
+|| 2000  ||   49.8    ||
+|| 2001  ||   47.8    ||
+|| 2002  ||   47.4    ||
+|| 2003  ||   42.7    ||
+|| 2004  ||   40.3    ||
+|| 2005  ||   39.6    ||
+|| 2006  ||   40.5    ||
+|| 2007  ||   38.6    ||
+|| 2008  ||   37.3    ||
+|| 2009  ||   34.1    ||
+|| 2010  ||   31.9    ||
+|| 2011  ||   30.9    ||
+|| 2012  ||   31.1    ||
+
+Before 1994, crime figures were not made public. Apartheid land distribution -- the creation of large white-owned farms -- has left a legacy of violence against white farmers. Unemployment and massive immigration from other African countries has provoked waves of urban violence and rape. And yet, despite this, [http://www.saps.gov.za/statistics/reports/crimestats/2013/crime_stats.htm the real figures fall every year], today down to less than half the rate during Apartheid.
+
+It took four decades for the white elites to realize their mistake, and open the economy to all people no matter the color of their skin. The whites lost their privileges yet they also shed their fears and their isolation. And despite the difficulties of building a working society from such a low base, the new multicultural South Africa has done well for itself.
+
+++ What Ended Apartheid?
+
+Four decades seems infinity, looking forwards, yet that is what we are in for, in my opinion. We might as well take a deep breath and develop real strategies for a positive outcome. Let's start with the question of why Apartheid fell at all. This is a vital question, because it provides us with our own strategy for a successful outcome. Padraig O’Malley [http://www.nelsonmandela.org/omalley/index.php/site/q/03lv02424/04lv03370/05lv03390.htm writes on nelsonmandela.org], in his article, "Exploring Reasons For The Collapse Of Apartheid,"
+
+> To get to the understanding that both parties could only accommodate their differences through negotiations and that they could not resolve them through a protracted and indefinitely drawn-out war of violence and counter violence took the better part of a decade.
+> Forsaking war rooms for negotiating tables was not an option particularly palatable to either side, but one dictated by the logic of inevitability. Perhaps a chess analogy is most appropriate. Neither side could achieve checkmate; permanent stalemate was the alternative to declaring a draw. Draws means deals.
+> In short, once both sides came to realize that the one could not hold on to power through its repressive security policies and the other recognized that it could not seize power through an armed "liberation" struggle the options for both became more narrow, and more importantly, more crystallized.
+
+Here is the key. Even if you cannot win a fight -- and it is absurd to think the Spider would lose any fight it starts -- you can force the other side to a negotiated solution if you can make it too costly for them to govern. By the mid-1980's, the townships had become ungovernable as people stopped cooperating with the system. The youth stopped going to school, and focused instead on civil protest. You give us no future, they said, so we will not invest in yours.
+
+O'Malley argues that Apartheid was its own cure, in that by breaking South African society apart by color, Apartheid also made it ungovernable. This may be partly true, and it is a good appeal to the intrinsic morality of a sane society, though I'd counter this with the example of the US. It shows a massively segregated country, which exhibits all the signs of collective stupidity, yet is a society robustly under control (please, US, prove me wrong).
+
+Rather, I believe two other factors that turned Apartheid from an obviously profitable strategy to a hopelessly costly one. One was the fall in the cost of communications. Pretoria, isolated and distant, could maintain its regime as long as resistance was disorganized and local. However, it became so easy to report on events, and to carry images of oppression around the world. By the late 1980's the global anti-apartheid movement used electronic bulletin boards and email to organize.
+
+The ability to spread information rapidly and cheaply led to more and more hostility against the regime from around the world. It led to increased support for the ANC. European public opinion was particularly important. It led to massive coalitions between trade unions, political movements, student movements, and more social-minded governments that hurt Pretoria. The economic embargo against South Africa was considered by many to be critical, though I believe it in fact prolonged the situation, by damaging the economic middle class that was essential to political change. I've already written that such actions should be focussed against a political leadership, personally, rather than a country, collectively.
+
+The second factor was, I believe, the cost of weaponry. The fall of the Soviet Union caused Africa to flood with cheap guns like the AK47, and cheap ammunition. The security of the Apartheid regime depended on stability in its neighbors to the north. However, cheap weapons caused first Angola and Mozambique, and then Rhodesia to fall to revolutionary liberation movements that were fiercely hostile to Pretoria, and helped the ANC in every way they could.
+
+South Africa had annexed the neighboring German colony of South West Africa after the First World War. In 1960, the South West African People's Army (SWAPO) started a long fight for independence that ended only in 1990, when the country finally ended thirty years of internal war and renamed itself "Namibia".
+
+South West Africa was a key buffer zone from which Pretoria could keep the civil war going in Angola, which was a mess after repeated invasions and interventions by the CIA, western mercenaries, Cubans, Zairians, Zambians, and South Africans. While the Cubans trained the ANC and SWAPO, the South Africans and CIA funded Joseph Savimbi's UNITA to create havoc in western Angola. Pretoria similarly spent vast sums in Mozambique, Botswana, Zimbabwe, Lesotho, and Swaziland, to stop the ANC from building stable bases and networks.
+
+In other words, to keep its homeland secure, South Africa found itself dragged deeper and deeper into multiple civil wars and police actions thousands of miles away. And this became more and more costly, and as in the US civil war, in a war based on slaughter, the economics were unsustainable. Despite the Apartheid regime's mercenary armies, the odds are on the cheaper man, as Kipling wrote in his poem //Arithmetic on the Frontier//. "Two thousand pounds of education drops to a ten-rupee jezail," the jezail being a simple home-made gun.
+
+The Spider is emerging, like the Kaiju rising out of the sea, and is aiming to tear down our digital cities. Our global digital society is facing a Bad Guy of massive proportions. And what happens online resonates through all society. The 2013 movie "Pacific Rim" from Guillermo del Toro is wonderfully trashy, yet deliberately or not, it frames perfectly the existential threat that we face as a civilized society trying to build a better future.
+
+So this lets us predict a road map for the coming global conflict between broad society and the Spider. There will be no apologies by those in power, no restoration of democracy, and there will be no revolution in the streets. There will be no significant armed resistance, nor sustained mass protests of the kind that might topple a fragile dictatorship. The Para-state is not fragile, it is extremely solid, and exerts control as the Apartheid regime did, with massive investment in military power, and full control of the economy.
+
+We will see an escalation of violence against those seen as a threat to power. There will be more, not less, investment in broad ranging power structures to keep control. Apartheid South Africa built a continental buffer zone out of entire countries. The Spider will seek to do the same, by taking controlling stakes in large on-line businesses. Terrorist attacks will increase, as will the military response in our cities. Protesters will not be arrested; they will simply be shot where they stand, under martial law.
+
+Much, even most of the population will go along with the Spider, fully and unquestioningly. Even when they know the Narrative to be a lie, they will not see any way to escape the cult that they have lived in all their lives. The Spider will pit brother against sister, neighbor against neighbor, slicing away at its enemies. First the terrorists, then the activists, then the leftists, then the anti-social elements.
+
+Then, even as the policy of repression seems to be working, it will drive the creation of a world wide coalition of resistance. This coalition will absorb so much violence and damage that you'd think it would collapse. Yet it will not. Like the black South Africans, civil society has nowhere else to go except onwards. And slowly it will raise the stakes so that democracy turns to dictatorship, law enforcement to military action, and the rule of law into a state of emergency.
+
+And the townships will become ungovernable, and the Para-state will start to see its profits shrink, and it will ask itself, "can we win this fight?" and though it will receive an overwhelming "Yes we can" from the arms dealers, the answer from the businessmen will eventually come back, "We are losing too much money!"
+
+And technology will catch up, and surveillance will become a child's game, and so will fighting it. For every hacker bagged and sent to a federal prison, a hundred more disposable young men will take his place. The communications infrastructure of the Spider will be sabotaged and broken at every turn. Leaks will torment the Spider, for the more it tries to keep its dealings secret, the more incentive it creates for whistle blowers.
+
+And finally, eventually, the Para-state and its Spider will have no choice except to move to a negotiated peace and a transfer of power to something, someone, anyone who can repair society and bring back the profits. An extraction economy cannot survive without a happy consumer economy to buy its goods.
+
+++ A Strategy for Resistance
+
+Revolution cannot happen in the streets. When powerful men gather around a table to discuss their enemies, they always keep one eye on each other. There are parts of the Para-state that profit from stability, and there are far darker parts that benefit from chaos. It would be like trying to fight an attacking tiger by beating it with a raw steak.
+
+Revolution must instead happen in our minds. We must break free of the Narrative and experience that Satori shock of the Awakening. It is nothing mystical, just painfully hard work, yet it is essential. Then, we must reevaluate our own lives and how society emerges from our view of the world. The Para-state is no alien occupying force. It is the shadow cast by our own greed and consumerism. Finally, we must write a new Narrative, one based on humanism, a love for all people, no matter their colors, or origins, or crimes.
+
+With a new Narrative, we can resist occupation and make it so unbearably expensive, that we eventually come to a negotiated settlement with the Para-state, and a transfer of power.
+
+How does one actually build resistance against an all-powerful occupation? I'm not sure, this would be my first experience of fighting a global criminal conspiracy with nothing more than my keyboard. Here's my best guess:
+
+* Identify, document, and boycott the businesses and business partners of the Para-state. Boycott the products of extraction economies. Develop a low carbon lifestyle.
+
+* Build a new decentralized Internet that is unbearably expensive to spy on -- see my proposal in the Appendix.
+
+* Promote the Awakening and obviously, make sure everyone you know has read this book. It's free to download and share, though you can also buy it in paper.
+
+* Praise the whistle blower and the investigative reporter, for she or he is a true hero. Read the alternative media, staying critical of propaganda, and share with your friends and family.
+
+* Document the Spider's predations, from drones to mall massacres, and mourn them loudly. We are one world, and crimes against any of us are crimes against us all.
+
+* Accept no official explanations, ever, without evidence and independent verification. Full cynicism is justified when facing compulsive liars. Assume every single notable incident is either allowed to happen or made to happen.
+
+* Accept that we will have to take whatever the Spider throws at us, as we have nowhere else to go. Accept that we will face a long struggle.
+
+* Focus European public opinion on the Spider, especially to isolate and embarrass the UK, which the US depends on as a proxy and experimental playground. Remind European politicians that the US and UK sent armed terrorists into their towns and cities for 40 years.
+
+* Build public opinion in Brazil and India, two nations who potentially hold the balance of power in coming decades.
+
+* Learn non-English languages and teach them to your children. English, my language, has become the language of the occupier.
+
+* Take none of this personally, seek no revenge, no justice, no accounting. That will never happen. What we must strive for is truth, knowledge, global disarmament, and the restoration of democracy.
+
+* Teach the Para-state and eventually the Spider that violence is not the solution, that it is not profitable, and it is not sustainable.
+
+It sounds hopelessly idealistic yet this is more or less what happened in South Africa. It is a vast challenge, like an incoming tidal wave, which I trust the generations to come will appreciate we understood, and were prepared to face.
+
+There is no 1% and 99%. There is only 100%. We are one planet, one species, and we live or die together.
