@@ -1,6 +1,6 @@
 #! /bin/bash
 
-mkmarkdown cande.book
+mkgitbook cande.book
 mkodt cande.book
 md2html cande.book
 kindlegen cande.opf
@@ -9,7 +9,4 @@ mkmarkdown edgenet.book
 mkodt edgenet.book
 
 rm -rf output
-
-cp cande.md   $HOME/work/cande/website
-cp cande.epub $HOME/work/cande/website/download
-cp edgenet.md $HOME/work/cande/website
+cp gitbook/*.md ../../gitbook/culture-empire
