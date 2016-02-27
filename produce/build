@@ -5,8 +5,6 @@ mkodt cande.book
 md2html cande.book
 kindlegen cande.opf
 ebook-convert cande.mobi cande.epub
-mkmarkdown edgenet.book
-mkodt edgenet.book
 
 rm -rf output
 cp gitbook/*.md ../../gitbook/culture-empire

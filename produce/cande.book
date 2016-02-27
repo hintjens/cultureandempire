@@ -33,7 +33,7 @@ PURCHASE=http://www.amazon.com/dp/B00GF48Z4S
 
 #   Author page
 BIOGRAPHY=Pieter Hintjens is a writer, programmer and thinker who has spent decades building large software systems and on-line communities, which he describes as "Living Systems". He is an expert in distributed computing, having written over 30 protocols and distributed software systems. He founded the ZeroMQ free software project in 2007.
-OTHERBOOKS=Other books by the same author: "ZeroMQ - Messaging for Many Applications" (O'Reilly), "The Psychopath Code" (Amazon.com).
+OTHERBOOKS=Other books by the same author: [http://www.amazon.com/ZeroMQ-Messaging-Applications-Pieter-Hintjens/dp/1449334067 "ZeroMQ - Messaging for Many Applications"] (O'Reilly), [https://thepsychopathcode.com "The Psychopath Code"] (Amazon.com).
 
 #   Build index
 INDEX=../index.txt
